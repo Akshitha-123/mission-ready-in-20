@@ -1,0 +1,527 @@
+{
+  "mission_task_and_description": "M3 CARL GUSTAV RANGE",
+  "date": "2023-06-09",
+  "prepared_by": {
+    "name_last_first_middle_initial": "DeGeorge, Matthew, P",
+    "rank_grade": "1LT",
+    "duty_title_position": "PLATOON LEADER",
+    "unit": "B TRP/1/2CR",
+    "work_email": "MATTHEW.P.DEGEORGE.MIL@ARMY.MIL",
+    "telephone": "+491718336585",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "CARL GUSTAV CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "LIVE FIRE EXERCISE"
+      },
+      "hazard": "Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will maintain muzzle awareness and will clear their weapons prior to exiting the range.",
+          "Weapons will be kept in the proper weapon control status determined by unit leadership",
+          "SDZs will be planned in coordination with 7th ATC safety.",
+          "Personnel will load weapons on firing line",
+          "Safeties will control target presentation.",
+          "Firers will positively identify all targets prior to engaging."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safeties will step in to control individuals when necessary -Range Safety brief from RSO"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TRP Leadership -RSO -Individuals -Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LIVE FIRE EXERCISE"
+      },
+      "hazard": "Negligent discharge/ Weapon malfunctions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firers will only fire at positively identified targets.",
+          "Misfire procedures will be reinforced during the Safety brief.",
+          "Functions check will be conducted prior to firing of all weapons.",
+          "Dunnage pit identified."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-AR/DA PAM 385-63 -Safety Briefing -Leader Supervision -Individual Soldier Discipline"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TRP Leadership -RSO -Individuals -Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LIVE FIRE EXERCISE"
+      },
+      "hazard": "Hearing Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers utilize issued hearing protection.",
+          "Troops will bring disposable ear plugs to be distributed for Soldiers missing hearing protection.",
+          "Soldiers will be required to use ear pro while down range."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Range Safety Brief -SOP -AR/DA PAM 385-63"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Individuals -Team Leaders -RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "Slips, Trips, and Falls",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Safety brief on range terrain.",
+          "Muzzle Awareness."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Range Safety Brief -AR/DA PAM 385-63"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TRP Leadership -RSO -Individuals -Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "VEHICLE OPERATIONS"
+      },
+      "hazard": "Vehicle Rollover",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All persons operating or riding as passengers in an AMV will wear seatbelts when sitting in seats with safety belts installed.",
+          "All personnel outside the vehicle will utilize a gunners restraint harness.",
+          "All crews and passengers will conduct rollover drills prior to SP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-AE 385-55 -Brief in safety brief Lead TC will conduct a ramp brief prior to movement"
+          ]
+        },
+        "who": {
+          "values": [
+            "-VC's and Troopers in air guard hatch. -Convoy Commanders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "VEHICLE OPERATIONS"
+      },
+      "hazard": "Vehicle collision with another vehicle or person",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Every group moving to the range will conduct a ramp brief",
+          "Verify all dispatched driver's licenses",
+          "Ground guides will be used as required",
+          "Posted speed limits will be followed",
+          "Proper restraints/ harnesses will be used during movement",
+          "White light will be used when necessary for non-tactical situations and situations where life, limb, eyesight, or other injury are increasingly susceptible"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Lead TC will conduct a ramp brief prior to movement"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TCs/VCs -TRP Leadership -All"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "VEHICLE OPERATIONS"
+      },
+      "hazard": "Vehicle recovery operations",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Utilize correct recovery assets are planned for every mission.",
+          "Utilize correct recovery procedures",
+          "All vehicles are equipped with tow cables or authorized tow bars",
+          "Trained personnel are present to supervise every recovery mission.",
+          "VC inspect recovery equipment prior to SP"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Appropriate TM is on hand -Vehicles have tow bars/cables -Lead TC will conduct a ramp brief prior to movement"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Vehicle Crews -Mechanics -RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MEDICAL EMERGENCY"
+      },
+      "hazard": "CASEVAC of any injured personnel",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Medic, designated vehicle and driver present for all training.",
+          "Nearest LZ identified, local hospital with map identified with nearest AXP.",
+          "There will be a medic and CASEVAC vehicle on site",
+          "CASEVAC will be marked and located at the base of the tower."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-FM 4-02.2 Medical Evacuation -Brief in safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-All personnel to be aware of medical emergency plan -Troop Medics"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MEDICAL EMERGENCY"
+      },
+      "hazard": "HOT/COLD Weather injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will carry at least 2 quarts of water.",
+          "There will be a water point located on the range.",
+          "Leaders will pay special attention to previous cold/hot weather casualties.",
+          "Soldiers will use appropriate cold and wet weather gear.",
+          "There will be a medic and CASEVAC vehicle or MEV on site."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Buddy aid classes -FM 4-02.2 Medical Evacuation -Daily platoon risk assessments -PMCS by TM standard"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Leaders check Soldiers -Ensure proper uniform w/water is worn -Soldiers watch each other -PLT Medics"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "VEHICLE OPERATIONS"
+      },
+      "hazard": "Vehicle Fire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Conduct fire drills",
+          "Ensure 2x working fire extinguishers in each vehicle",
+          "Ensure faults that create fire hazards are properly approved for use by the commander"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-PCIs of fire extinguishers -Leaders ensure time allotted for crew drills"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Vehicle Crews -Mechanics -Platoon Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "VEHICLE OPERATIONS"
+      },
+      "hazard": "Dragoon Safety Incident, pinch/crush of body part by a turret, hatch, or ramp",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure ground guides clear ramps and horn is sounded prior to lowering",
+          "TCs follow Dragoon rules as per Dragoon 6 guidance:",
+          "Nametape defilade on improved roads",
+          "Hatch closed on unimproved roads/maneuver off-road"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-All leaders and operators make on the spot safety corrections -PCI of Dragoon during dispatch process and prior to SP"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Vehicle Crews -Platoon/Troop Leadership -RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MEDICAL EMERGENCY"
+      },
+      "hazard": "Wildlife injury",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Wear serviceable ACUs to protect skin from poisonous or sharp plants",
+          "Do not disturb, touch, or fire at animals found on or near the range",
+          "Be aware of Soldiers with allergies to plants or animal stings/bites (i.e. bees or ants) prior to executing"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-PCCs to ensure serviceable uniforms prior to SP -Include seasonal wildlife hazards into safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-RSO -OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "Range security, unauthorized personnel entering range",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Utilize gate guards (mandatory during wet status) to track personnel entering and leaving range",
+          "Ensure gate guard has a hard copy script to read to visitors (containing unit, #personnel, training, range status, please report to tower for more info)"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Gate guard call to tower using radio when personnel enter range"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Gate guards -OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "Unauthorized removal of ammunition from the range",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Conduct brass and ammo shakedown of all personnel, equipment and trucks prior to leaving range.",
+          "Ensure squad leaders know locations for amnesty boxes and brief their Soldiers"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Choose at least two NCOs for brass and ammo checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Lane safeties -Brass and ammo team -Squad leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "Range Fire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Identify a range fire crew. Brief the crew during safety brief on their role",
+          "In case of a fire, contact the firing desk to notify range control.",
+          "Have the range Meister asses the fire before beginning fire fighting operations.",
+          "Maintain positive control of all personal equipment while firefighting",
+          "Call the fire department early"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Identify if flappers are present on range -Check weather prior to execution for dry/hot times of the day"
+          ]
+        },
+        "who": {
+          "values": [
+            "-OIC/RSO -Firefighting team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "Backblast area for AT weapons",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Teams and safeties will visually and verbally clear the backblast area 100m out and 50 degrees of all personnel and movable objects"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Rehearsals -Safety brief, lane walkers ensure firers are following backblast procedure"
+          ]
+        },
+        "who": {
+          "values": [
+            "-RSO/OIC -Squad leaders -Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AMMUNITION TRANSPORT, STORAGE, AND ISSUE"
+      },
+      "hazard": "Improper handling of ammunition or explosives",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leaders must ensure individuals who handle ammunition, explosives, and pyrotechnics are trained on proper handling procedures and safety.",
+          "Soldiers must handle all ammunition with care.",
+          "Soldiers must wear eye protection and gloves while handing pyrotechnics, ammunition and crating/packaging material.",
+          "Leaders must enforce no smoking except in designated areas.",
+          "Have 2x ten (10) pound fire extinguishers on hand.",
+          "Separate ammunition points will be established for live and blank rounds. - Separate incompatible lots/types of ammunition and explosives.",
+          "Do not transport ammunition and personnel on same vehicle.",
+          "REG Ammunition Warrant Officer confirms training, ammunition on hand, distribution, and safe storage/handling procedures."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "TACSOP, AR 385-64, DA PAM 385-64, AER 385-64, Risk reduction briefings, Leader Involvement. All Ammo Handlers Certified. AR/DA PAM 385-63/64 , Applicable FM/TM, or Accompanying Instructions"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Ammunition OIC -Small Unit Leaders -Safeties - Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "WEAPON OPERATION"
+      },
+      "hazard": "improper Weapon Operation and Employment of Rounds",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Prior to Range going wet, Range Safeties will conduct a PMI on weapon operation and deploying live rounds.",
+          "RSO will conduct brief on ammunition handling before rounds are unpackaged."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Constant monitoring of firing line. -Conducting PMI before deploying weapon system."
+          ]
+        },
+        "who": {
+          "values": [
+            "-OIC, RSO, Range Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The Troop/PLTs/Sections will receive a safety/convoy brief prior to and from the range.  The range OIC will give a range brief that will discusses all the safety measures and standards of the range. All NCO's with their respective sections will enforce all standards outlined in the DRAW and safety brief. A medic will be on site with a CASEVAC vehicle.  All safeties will also enforce all standards outlined in the DRAW and safety brief. A copy of this signed risk assessment will be maintained in the range books at both ranges. Soldiers conducting the training will be given deliberate classroom instruction, given a written exam, and conduct PMI prior to the date of execution.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (22) - Copy/M3 Carl Gustav DRAW signed (1) (2).pdf",
+  "source_directory_id": 64,
+  "source_directory_name": "New folder (22) - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

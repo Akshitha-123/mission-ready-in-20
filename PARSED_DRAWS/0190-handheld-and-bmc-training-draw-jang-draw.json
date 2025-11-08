@@ -1,0 +1,442 @@
+{
+  "mission_task_and_description": "3/2 Handheld Mortar Training and Best Mortar Training\r05-06MAR25",
+  "date": "2025-01-22",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Jang, James, D",
+    "rank_grade": "O2",
+    "duty_title_position": "Mortar Platoon Leader",
+    "unit": "3/2 HHT",
+    "work_email": "james.d.jang.mil@army.mil",
+    "telephone": "3145993707",
+    "uic_cin": "WDA6T0",
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Weapons Handling"
+      },
+      "hazard": "Misfire/Malfunctions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Misfire procedures from",
+          "current appropriate TM",
+          "for weapons system will",
+          "be followed.",
+          "ST 3-22.7",
+          "(120MM RMS6-L)",
+          "TM 9-1015-257-10",
+          "(81MM M252A1)",
+          "TM 9-1010-233-10",
+          "(60MM M224A1)",
+          "Verify proper weapons",
+          "cleaning and",
+          "maintenance. Specifically, bore-scope and pullover within 180 days of firing (Scheduled for 03OCT24) as well as services complete on all weapon systems used. Additionally, on-ground maintenance verified (covering tubes when not in use, swabbing of the tubes after ten rounds or EOM)"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Read and follow misfire procedures from TM verbatim whenever handling misfires. Conduct rehearsals before firing. and verify hard-copies of all TMs are on-ground Ensure mortar tubes are properly swabbed before firing and after each mission"
+          ]
+        },
+        "who": {
+          "values": [
+            "Squad Leaders PSG Gunners"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Handling"
+      },
+      "hazard": "Round Cook Off",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Maintain firing rates at",
+          "or below system",
+          "sustained rate of fire.",
+          "o 60mm 30 rounds for the first minute (RFM), 20 sustained (SUS)",
+          "o 81mm 30 RFM, 15 SUS",
+          "o120mm 16 RFM, 4 SUS",
+          "Ref FM 3-22.90"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Squad Leaders maintain accurate round counts, limit number of rounds for any FFE to less than RFM"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO Squad Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Handling"
+      },
+      "hazard": "Failure to Verify Mortar Data",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "RSO and OIC both B1/3Z ASI holders, will verify FDC calculations. Safety Data for the range will be maintained on the M16 plotting board along with fire mission locations"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All fire missions will be verified prior to gun commands, with final approval from the Section Sergeant"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, OIC, FDC Chief and Check"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "After determination of misfire versus UXO (UXO having fired and failed to shoot) the gun firing the UXO will be cordoned off to minimize exposure and EOD will be contacted"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Section sergeant supervises misfire procedures to remove round and removal to misfire pit. If the round has been fired and it is not a misfire, OIC will contact range control to coordinate EOD support."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Handling"
+      },
+      "hazard": "Failure to Follow Range Safety Fan",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leaders conduct",
+          "pre-combat inspections",
+          "(PCIs) prior to fire",
+          "mission execution. Verify plotted and programmed safety fan matches safety fan data published by GTA; as well as chief and check data being within one mil of deflection and 25 meters of range"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All firing personnel will back brief RSO on safety fan as well as min and max range and left and right limits before firing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, FDC Chief, RSO, All firers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Pre-Mishap/Accident\rPlanning"
+      },
+      "hazard": "Inadequate Response to Mishap/Injured Personnel",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief all Soldiers on",
+          "medical evacuation",
+          "procedures and",
+          "communication",
+          "methods. Conduct CASEVAC RXL prior to range hot"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief CASEVAC procedures during safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Pre-Mishap/Accident\rPlanning"
+      },
+      "hazard": "Inadequate Response to Mishap/Injured Personnel",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Qualified and equipped",
+          "medical personnel will",
+          "be present to respond",
+          "to any mishap."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Platoon Sergeant will coordinate for a medic and a CASEVAC vehicle to be present at all times."
+          ]
+        },
+        "who": {
+          "values": [
+            "Platoon Sergeant"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Pre-Mishap/Accident\rPlanning"
+      },
+      "hazard": "Inadequate Response to Mishap/Injured Personnel",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Medical transportation",
+          "will be available.",
+          "Identify locations and",
+          "routes to nearest",
+          "medical treatment",
+          "facilities."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "RSO, Platoon Sergeant, and medic will conduct CASEVAC rehearsals prior to range going wet."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO Platoon Sergeant Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Operations"
+      },
+      "hazard": "Risk of improperly secured load plans",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leader's presence during packout and loadout. Clear and concise guidance on specific equipment load plan. Published pictures of properly secured loadplan in all dispatch books."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "VCs and TCs will confirm load plan compliance during PCCs. PL and Section Sergeant will confirm compliance during PCIs conducted prior to Ramp Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "SLs, VCs, PL/PSG"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Operations"
+      },
+      "hazard": "Icy or snowy conditions on one community road",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All vehicles will have snow-chains properly installed throughout the duration of the training exercise."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Inspection of snow-chains will be included in PCI/PCC. All vehicle crews will test out on properly installing snowchains on their vehicles"
+          ]
+        },
+        "who": {
+          "values": [
+            "PL, PSG, SLs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Movement\rTo/Around/From"
+      },
+      "hazard": "Vehicles Operation",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Route reconnaissance, route brief, comms check, PCCs, PCIs, PMCS of all vehicles going to the range"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Check dispatches, driver and VC backbriefs, obeying posted speed limits, commex"
+          ]
+        },
+        "who": {
+          "values": [
+            "Drivers, VCs, OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition\rStorage/Issue"
+      },
+      "hazard": "Improper Positioning of Ammunition",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ammunition will be",
+          "stored and issued IAW",
+          "DA PAM 385-64. Ammo handlers will be certified complete with ammo handler course and have hard copies of their certificates."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ammunition NCO will ensure compliance with QASAS standards. Overnight memo not needed since all rounds will be fired within 24 hours."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC Ammunition NCO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Personnel and\rEquipment\rAccountability"
+      },
+      "hazard": "Loss of Personnel or Equipment",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Conduct 100%",
+          "inventory of all Soldiers",
+          "and equipment during",
+          "range dry times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "How: Squad leaders get accountability and report to platoon sergeant"
+          ]
+        },
+        "who": {
+          "values": [
+            "Platoon Sergeant Section Sergeant Squad Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Operations"
+      },
+      "hazard": "Risk of civilian collision on One Community Road",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ensure every dispatch book has the required forms and that all VCs are tracking procedures for both military-military collisions as well as military-civilian collisions"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Inspect dispatch books prior to ramp brief, have SLs brief procedures during Ramp Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "All SLs, all VCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weather\rConsiderations"
+      },
+      "hazard": "Cold Weather Injury",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ensure Soldiers are",
+          "adequately nourished",
+          "and hydrated, and monitor for signs of cold weather injury. There will additionally be a warming tent with potbelly heaters for stand-by personnel"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Leader's monitor all soldiers for signs and symptoms, ensure adequate time in the heating tent"
+          ]
+        },
+        "who": {
+          "values": [
+            "All leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "OIC and RSO will continue to assess risks throughout Mortar Gunnery. There are 16 B1 (IMLC) qualified individuals that will be conducting and overseeing the training. Additionally, all standard training risks will be mitigated and controlled at the Platoon Level. Recommend approval.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (18)/Handheld and BMC Training DRAW Jang.pdf",
+  "source_directory_id": 190,
+  "source_directory_name": "New folder - Copy (18)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

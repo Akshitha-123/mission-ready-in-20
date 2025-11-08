@@ -1,0 +1,287 @@
+{
+  "mission_task_and_description": "Skydio Familiarization \r4-5 APR 24",
+  "date": "2024-04-02",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Lowe, Nathanael, R",
+    "rank_grade": "2LT/O-1",
+    "duty_title_position": "Assistant S3",
+    "unit": "HHT 1/2CR",
+    "work_email": "Nathanael.r.lowe.mil@army.mil",
+    "telephone": "+4915256490257",
+    "uic_cin": "WASFTO",
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "WEATHER"
+      },
+      "hazard": "SEVERE WEATHER",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Monitor local weather for possible extremes in cold, thunderstorm activity, high winds, etc Avoid",
+          "working in open areas when lightning is observed.",
+          "Address proper clothing requirements during extreme cold and wet conditions."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "OIC and RSO will consistently monitor the weather."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC - 1LT Dunn RSO -SGT Koehling"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EQUIPMENT"
+      },
+      "hazard": "SLIPS, TRIPS, FALLS, MUSCULOSKELETAL INJURIES, & OTHER MISC INJURIES",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers wear all assigned PPE, care is taken in unknown areas with rough terrain during execution. Additional caution will be taken when executing under limited visibility. Leaders maintain close control of Soldiers to identify potential hazards."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, Rehearsals, Dragoon Standard Uniform when operating military vehicles."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EQUIPMENT"
+      },
+      "hazard": "EQUIPMENT LOSS",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period. All issued sensitive items tied down. Sensitive items inventory complete at conclusion of training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "WILDLIFE"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Leave wildlife alone. Identify soldiers who are allergic to insect bites or stings and keep emergency first aid kits on hand."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "COLLISIONS WITH MILITARY OR CIVILIAN MOTOR VEHICLES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles obey posted speed limits, following distances, and general awareness of civilian and other military traffic."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "DRIVER FATIGUE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be given an in-depth safety briefing concerning road safety. Convoy Commander and Leaders will monitor Soldiers and convoy operations. Proper rest plan in place."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "SOLDIER INJURY IN TRAINING AREA",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldier's briefed on potential hazards based on range reconnaissance."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "SKYDIO (UAS) DEPLOYMENT"
+      },
+      "hazard": "SKYDIO (UAS) COLLISION DURING LAUNCH, FLIGHT, OR LANDING",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Prior to deploying or recovering any UAS, the UAS operators will inspect the area and ensure that a clear takeoff and landing lane is available",
+          "The UAS operators will communicate with personnel on the ground to ensure that the area is clear and that no unauthorized personnel are present in the launch or landing area.",
+          "The UAS operators will follow proper launch and landing procedures and utilize appropriate safety measures to prevent collisions and other hazards during UAS operators.",
+          "All UAS operators will receive training on proper UAS operations and safety procedures prior to conducting any UAS operations.",
+          "All UAS operations will be conducted in accordance with applicable regulations and guidelines to ensure safe and effective operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief and alert training team"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "SKYDIO (UAS) DEPLOYMENT"
+      },
+      "hazard": "EQUIPMENT LOSS",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period IAW WE SOP.",
+          "Sensitive items will be accounted for after every mission/iteration",
+          "All issued sensitive items tied down IAW Troop SOP.",
+          "Sensitive items inventory conducted IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Mission Briefs, Inspections, Inventory, SOPs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "SKYDIO (UAS) DEPLOYMENT"
+      },
+      "hazard": "LOSS OF COMMUNICATIONS RANGE CONTROL",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "If communication with Range Operations is lost, the OIC/RSO will notify troop command",
+          "Cell Phone will be used to regain communication with Range Operations"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety/Range Brief, check in with Range Control before and after each flight iteration."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "I assess the overall risk to be low with the implemented control measures. \r\rMost Dangerous Risk: Total loss of Skydio system during training event\rMitigation: Supervisors continuously monitor Soldiers for weather related injuries and water. Soldiers given safety brief on weather. Vehicle warming area if needed.\r\rMost Likely Risk: Equipment Loss\rMitigation: Ensuring proper PCCs/PCIs take place before, during, and after launch. A weather assessment will be conducted by both the OIC and RSO to mitigate flying in high winds. The UAS operator will continually communicate the location of aircraft to personal on-ground and avoid flying during limited visibility. UAF will have a US Solider present during all portions of flight operation.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/48/20240402 Skydio Fam DRAW.pdf",
+  "source_directory_id": 43,
+  "source_directory_name": "48",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

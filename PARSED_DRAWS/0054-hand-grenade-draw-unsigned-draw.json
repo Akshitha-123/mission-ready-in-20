@@ -1,0 +1,257 @@
+{
+  "mission_task_and_description": "2CR, Hand Grenade Range (27 AUG 2024- 29 AUG 2024)",
+  "date": "2024-07-29",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Smith, Peter, C",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "B CO. 1-2CR",
+    "work_email": "peter.c.smith54.mil@army.mil",
+    "telephone": "+1 310-699-6768",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": "Hand Grenade Qualification",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Employing Hand Grenades"
+      },
+      "hazard": "Injury due to negligence or poor training/control",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Trainees will use proper fire commands in addition to rehearsing prior to the execution of each lane. There will three levels of verification: SGT's will verify the training audience is trained on the basics and SSG's will certify trainees utilizing a blue body mock throw prior to SM's entering the live pits."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "RXLs DA PAM 385-19 AR 385-10 AR 385-63"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, Safeties/SLs/ TLs"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Manipulation and Handling of Hand Grenades"
+      },
+      "hazard": "Negligent discharge due to failure to manipulate the safety mechanism",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Dragoon's conducted EIB training last year and they will receive refresher training when they arrive at the range.",
+          "Safeties (PSG's and former Drill Sergeants) will ensure that trainees properly manipulate the safety mechanisms of the hand grenade.",
+          "All participants will conduct training with practice grenades until a safety approves them for a live grenade, prior to throwing a live grenade."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Leadership conducts rehearsals for proper hand grenade handling. Safeties remain vigilant during all ranges."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC, Safeties, SLs, TLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition"
+      },
+      "hazard": "Storage and Transportation",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ammunition transported correctly in accordance with previously mentioned documents. Ammunition will stay at the designated ASP until distributed correctly (Type, quantity) to Soldiers immediately preparing to enter the lane. Certified Ammo Handler will supervise the distribution and handling of all ammunition.",
+          "Grenades will be stored off the ground and practice and live grenades will be stored separately. Concertina Wire will surround the ASP and ammo handlers will ensure there is a \"No smoking within 50 ft\" sign posted outside of the ASP. There will be two fire extinguishers present.",
+          "Any unsafe act will result in a cease fire."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Coordinate ammunition draw, OIC super- vise ASP procedures."
+          ]
+        },
+        "who": {
+          "values": [
+            "Coordinate ammunition draw, OIC super- vise ASP procedures."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Coordinate ammunition draw, OIC super- vise ASP procedures."
+      },
+      "hazard": "Injury sustained while maneuvering on uneven terrain",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers wear proper PPE (gloves, body armor with plates, ACH, eye pro)."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, SLs, TLs, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition Storage"
+      },
+      "hazard": "Fire or Explosion at the Ammo Point",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Proper storage procedures will be followed IAW safety regulations including fire extinguishers present at the ASP.",
+          "Only grenades being utilized that day will be present."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Inspection of grenades at ASP - SAHA Guard - Appointed Ammo Point NCO"
+          ]
+        },
+        "who": {
+          "values": [
+            "- Ammo NCO - OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Hazardous Terrain"
+      },
+      "hazard": "Injury sustained while maneuvering on uneven terrain",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers wear proper PPE (gloves, body armor with plates, ACH, eye pro)."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, SLs, TLs, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weather"
+      },
+      "hazard": "Hot Weather Casualty",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "All Soldiers will have a water source at the range. Leaders monitor water intake of their Soldiers and ensure that their attire is appropriate."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Platoon Leadership/ Medics/ Maneuver Safety"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Employing Hand Grenades"
+      },
+      "hazard": "Hearing Loss",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will be checked by their first line supervisor to ensure that they are wearing proper ear protection"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Platoon Leadership, SLs, TLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Employing Hand Grenades"
+      },
+      "hazard": "Injury due to improper throwing of grenade",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Safeties and participants will be briefed on what to do in the case that a participant incidentally throws/drops the grenade in an unsafe way."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "RXL/Saftey Briefs"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, OIC, Safeties, Participants"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "RSO/OIC will brief all Soldiers on range standards and procedures prior to utilizing the range. RSO will give consistent guidance on all safety related issues.  Medical plan has been rehearsed by all medical teams and a medical transport vehicle will be located on the range at all times. Certified ammunition handlers will control the distribution of ammunition. Any unsafe act will immediately result in a cease fire. Gate guards will be posted at the requisite gates to ensure that no one wanders onto the live fire site. All of these measures will establish the foundation for a deliberately executed hand grenade qualification range.  \r\rRecommend for approval.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (14) - Copy/Hand Grenade DRAW UNSIGNED.pdf",
+  "source_directory_id": 54,
+  "source_directory_name": "New folder (14) - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

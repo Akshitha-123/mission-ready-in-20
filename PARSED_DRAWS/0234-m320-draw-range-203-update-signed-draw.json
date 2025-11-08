@@ -1,0 +1,283 @@
+{
+  "mission_task_and_description": "M320 Qualification",
+  "date": "2023-07-12",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Wuerthner, Christian, A.",
+    "rank_grade": "1LT/O2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "K-TRP, 3/2CR",
+    "work_email": "christian.a.wuerthner.mil@army.mil",
+    "telephone": "+49 15229865738",
+    "uic_cin": "WDA6K0",
+    "training_support_or_lesson_plan_or_opord": "M320 Qualification CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "M320 Qualification"
+      },
+      "hazard": "1. Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Proper uniform: Full Dragoon Standard for Qualification.",
+          "Thorough safety briefing for both firers and range safeties.",
+          "Qualified combat life Saver/ medic will know MEDEVAC procedures."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCIs will be conducted prior to entering range. Range safeties will be on lanes."
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs on lane safety."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M320 Qualification"
+      },
+      "hazard": "2. Weapons Malfunction or Misfire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief procedures for malfunction/ misfire, conduct proper PMI and concurrent training",
+          "Ensure weapons and ammo are clean before use."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Proper PMI training, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M320 Qualification"
+      },
+      "hazard": "3. SM Down Range",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief range limits and cease fire procedures movement downrange will be controlled by the range safeties"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M320 Qualification"
+      },
+      "hazard": "4. Hearing Loss",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Safeties check for hearing protection, to ensure Troopers have standard issue protection or they will be provided hearing protection prior to firing weapon."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs, Extra Hearing Protection available at range, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M320 Qualification"
+      },
+      "hazard": "5. Eye Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firers will wear approved ballistic eyewear while at the range to prevent expelled brass, dirt, dust, and debris from damaging their eyes"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCIs, Lane Safeties, Safety Validation exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M320 Qualification"
+      },
+      "hazard": "6. Ammo handling, storage and distribution",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ammo will not be placed on the ground, Provide adequate guards for ammo while range is not occupied.",
+          "All ammo handling procedures will be followed for transport, storage, and distribution."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Handling"
+      },
+      "hazard": "7. Mishandling of Weapons",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Follow procedures when loading, firing, and unloading weapons.",
+          "Remind Soldiers to consider weapons loaded at all times and to check chambers often.",
+          "Safety Brief."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training"
+      },
+      "hazard": "Weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range will cease fire with severe weather. Range OIC will contact GTA range operations desk if the weather is called into question."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Movement to Ranger"
+      },
+      "hazard": "Vehicular Accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Convoy leaders will give ramp brief prior to movement. Vehicle Crews will wear all required PPE while operating tactical vehicles. Vehicles will follow range roads and use ground guides in parking areas."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ramp Brief, Proper PPE, Ground Guides, Follow Roads"
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Crews, Convoy Leaders, Gate Guard, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "NATO/German Partner Forces Using the Range"
+      },
+      "hazard": "Weapons Mishandling, and Improper Conduct on the Range",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "NATO/German Units participating on the range will receive the same Safety Brief, be held to the same safety standards, and follow all commands from US Range Safeties. Additionally, the safety brief and safety standards will be briefed to them by their own cadre in their own language."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Proper PPE, Ensuring NATO/German leadership understands our standards and communicates them to their soliders"
+          ]
+        },
+        "who": {
+          "values": [
+            "Range OIC/RSO, Range Safeties, Partner Forces leadership."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": null,
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (58)/M320 Draw Range 203 Update signed.pdf",
+  "source_directory_id": 234,
+  "source_directory_name": "New folder - Copy (58)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

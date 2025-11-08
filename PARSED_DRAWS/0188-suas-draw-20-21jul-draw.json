@@ -1,0 +1,352 @@
+{
+  "mission_task_and_description": "SUAS Range 20-21JUL",
+  "date": "2023-07-10",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Ryan, Joseph, R",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "HHT, 3/2 CR",
+    "work_email": "joseph.r.ryan47.mil@army.mil",
+    "telephone": "314-599-3704",
+    "uic_cin": "WDA6T0",
+    "training_support_or_lesson_plan_or_opord": "CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Movement"
+      },
+      "hazard": "Vehicle Accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Post driving regulations",
+          "Route recon/.Weather conditions",
+          "Movement brief",
+          "Ground guides"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Recon, disseminate information, safety brief, guide."
+          ]
+        },
+        "who": {
+          "values": [
+            "PLT Leadership, VC's, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Movement"
+      },
+      "hazard": "Roll Over",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure drivers are qualified",
+          "Roll-over drills",
+          "Safety/movement brief",
+          "Restraints"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Conditions check and rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "VC's and Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Movement"
+      },
+      "hazard": "Vehicle Breakdown",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "QA/QC'd by a mechanic",
+          "Proper PMCS",
+          "Proper markings",
+          "Recovery equipment"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Inspection"
+          ]
+        },
+        "who": {
+          "values": [
+            "PSG, VC's, Drivers, Mechanics"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Movement"
+      },
+      "hazard": "Vehicle Fire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Servicable fire extinguishers",
+          "Functional fire suppression system",
+          "Crew drills"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Inspect and rehearse"
+          ]
+        },
+        "who": {
+          "values": [
+            "PLT Leadership. VC's, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Movement"
+      },
+      "hazard": "Improper loading/securing cargo",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Load plans are briefed and inspected prior to movement",
+          "Distribute heavy loads equally among all transport vehicles",
+          "Use proper and serviceable cargo restraints IAW WP TACSOP"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Standardized load plan, tie downs, inspections, and testing."
+          ]
+        },
+        "who": {
+          "values": [
+            "VCs, Drivers, PLT Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Enviornmental"
+      },
+      "hazard": "Wildlife",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All soldiers will avoid engaging wildlife and will notify RSO/OIC"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief during Range Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Enviornmental"
+      },
+      "hazard": "Cold Weather Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will have a water source",
+          "Appropriate cold weather uniform",
+          "OIC/RSO enforce and supervise Soldiers"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Leaders conduct PCC and PCI's"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC, TLs, NCIOC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Enviornmental"
+      },
+      "hazard": "Hot Weather Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leaders ensure Soldiers are drinking water",
+          "Utilize shade as needed"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Leaders conduct PCC and PCI's"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC, TLs, NCIOC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Unauthorized Vehicle Enters Range",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "ECP will be established at the entrance of the range",
+          "Guard will be posted and rotated hourly",
+          "Guard will monitor gate"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief during Range Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Gate Guard"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Slips, Trips, and Falls causing injury",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be inspected to ensure their equipment fits properly prior to moving on the the range."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC and PCIs, Safety Brief, CLS qualified personnel on ground, and MEDEVAC RXL"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, Medics, and Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Live Flight (Day/Night)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure all Soldiers attend Red Line Brief, Soldiers understand parameters and are knowledgeable of their surroundings.",
+          "Observe weather conditions for high winds that could affect flight pattern of Raven.",
+          "Operators will maintain line of sight with the Raven at all times",
+          "All operators will meet administrative requirements to fly"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, weather brief, and communication with range control."
+          ]
+        },
+        "who": {
+          "values": [
+            "Range Control, OIC/RSO, SUAS Master Trainer, Raven Operators"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Lost Link",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "In the event of Lost link for more than one minute the operator will do the following:",
+          "Return aircraft to authorized landing area",
+          "Notify RSO and OIC",
+          "Notify the firing desk",
+          "Advise the firing desk once the UAS has landed"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Brief, Redline Brief, and communication with range control"
+          ]
+        },
+        "who": {
+          "values": [
+            "Range Control, OIC/RSO, SUAS Master Trainer, Raven Operators"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "Newly identified risks will be recorded and mitigated accordingly and risk acceptance will be approved at the appropriate level. Leadership to include Troop Chain of Command, Range Officer in Charge, SUAS Master Trainer. Vehicle crew members will be the primary implementors of safety measures during movement. The OIC and SUAS Master Trainer will give all Soldiers a range safety brief and are responsible for overseeing safety during the entirety of training. Medics will be on site at all times and postured to respond to injuries and to evacuate casualties. Medics and MEV will conduct AXP route recon and response rehearsal prior to range start.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (16)/SUAS Draw_20-21JUL.pdf",
+  "source_directory_id": 188,
+  "source_directory_name": "New folder - Copy (16)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

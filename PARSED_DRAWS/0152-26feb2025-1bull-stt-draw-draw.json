@@ -1,0 +1,212 @@
+{
+  "mission_task_and_description": "1st Platoon Bull Troop Sergeant's Training Time 26 February 2025",
+  "date": "2025-02-25",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Yocklin, Madison, G",
+    "rank_grade": "1LT/O2",
+    "duty_title_position": "Platoon Leader/OIC",
+    "unit": "B TRP 1/2CR",
+    "work_email": "madison.g.yocklin.mil@army.mil",
+    "telephone": "+49 160 9953 4345",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "1st Platoon STT’s 26FEB2025 IVO 32U QA 02693 03685",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Outdoor Activity"
+      },
+      "hazard": "Heat Casualty",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "OIC will monitor weather and include signs of hot weather injuries in safety brief if relevant",
+          "OIC/RSO/CLS personnel understand and has briefed MEDEVAC plan on the real world casualty evacuation plan."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Outdoor Activity"
+      },
+      "hazard": "Cold Casualty",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "OIC will monitor weather and include signs of cold weather injuries in safety brief if relevant",
+          "OIC/RSO/CLS Personnel understands and has briefed MEDEVAC plan on the real world casualty evacuation plan.",
+          "Soldiers will have appropriate cold weather gear/clothing based on temperatures."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Outdoor Activity"
+      },
+      "hazard": "Inclement weather",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Shelter in place location identified in safety brief.",
+          "Monitor radar for incoming storms.",
+          "Follow guidance from range operations.",
+          "Listen for thunder, look for lightning."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, leadership, trianing population"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted Maneuvers in GTA"
+      },
+      "hazard": "Hazardous troop trail conditions as a result of inclement weather (Heavy Rain, slippery roads, etc)",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Leaders execute deliberate range reconnaissance and identify possible dangerous areas."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted Maneuvers in GTA"
+      },
+      "hazard": "Dismounts moving IVO of vehicles (crossing and traveling near roads)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Dismounts will move together to and from training location.",
+          "Dismounts will ensure roads are clear if/when crossing."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted Maneuvers in GTA"
+      },
+      "hazard": "Slips, trips, falls, miscellaneous injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will wear full Dragoon Standard.",
+          "Leaders will adhere to the PACE plan and contact emergency services in case of real world injury."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, CONOP distribution"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted Maneuvers in GTA"
+      },
+      "hazard": "Equipment Loss",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and following each iteration.",
+          "All sensitive items tied down IAW SOP.",
+          "Sensitive Item inventory conducted following training IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Leader involvement, inventories, thorough PCC/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders at all levels, soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The OIC is ultimately responsible for the conduct of the training area, and will continuously monitor all aspects of operations and provide updated risk assessments to the Commander as the situation develops. Safeties will remain with each element throughout training. Platoon leadership will be present with each element. In the event of a real world MEDEVAC event on site, Safeties and Training Support Personnel are responsible for ceasing training and communicating directly with the OIC to coordinate MEDEVAC.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (26)/26FEB2025_1BULL_STT_DRAW.pdf",
+  "source_directory_id": 152,
+  "source_directory_name": "New folder - Copy (26)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

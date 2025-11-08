@@ -1,0 +1,1087 @@
+{
+  "mission_task_and_description": "RG 201 Platoon Live Fire Exercise from 24-28APR23.",
+  "date": "2023-03-29",
+  "prepared_by": {
+    "name_last_first_middle_initial": "LICHTFUSS, BRADLEY C.",
+    "rank_grade": "CPT/O-3",
+    "duty_title_position": "TROOP COMMANDER",
+    "unit": "A TRP, 1/2CR",
+    "work_email": "bradley.c.lichtfuss.mil@army.mil",
+    "telephone": "314-599-3231",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": "War Eagle Platoon Live Fire Exercise",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Firing outside of SDZs",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range marker locations identified IAW Safety and Conduct of Range Brief.",
+          "Range safety and Training Support Personnel (TSP) conduct full dress RXL on static and maneuver ranges prior to execution.",
+          "Training Unit (TU) and TSP conduct TEWT and blank fire iteration on maneuver lane/ranges prior to live fire execution.",
+          "Soldiers visually ID TGTs prior to engagement and only engage presented targets",
+          "Training Support personnel remain the same as Coy CALFEX",
+          "Safeties and TSP observe rounds to ensure accuracy within SDZ.",
+          "TU fires only at presented targets.",
+          "Firing is only authorized at presented targetry",
+          "Weapons will be down range, no ammo will be uploaded until movement after phase line red"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Range Safety Brief -Rehearsals/TEWT -Blank Fire Iteration -Conduct of Range Brief -Range Certification"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -TSP -Range Safeties -OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations (Continued)"
+      },
+      "hazard": "Negligent discharge of any weapon system",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Enforce strict weapon control status and clearing procedures.",
+          "All weapons systems remain on electrical/manual safe as applicable when not engaging targets.",
+          "TSP ensure TU is trained on weapon clearing procedures.",
+          "TU conducts function checks on own weapon(s)."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Range Safety Brief -Unit SOPs -SM familiarization on weapon systems prior to maneuver ranges -Concurrent training"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Concurrent Training Personnel -Range safeties & TSP -OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations (Continued)"
+      },
+      "hazard": "Weapon Malfunction",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ammunition uploading conducted IAW TMs.",
+          "Operate weapon system IAW TM.",
+          "TSP will have a dedicated area on the range to conduct concurrent training with TU as needed.",
+          "Armorers will have repair kits on hand.",
+          "TSP will have additional tools and lubricants on hand.",
+          "TSP will supervise all malfunctions handling."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Brief -Conduct of Range Brief -Units conduct daily PCC/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -TSP -Troop Armorer/FST -Range safeties -OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations (Continued)"
+      },
+      "hazard": "Fratricide from direct/indirect fires",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Employ direct / indirect FCMs; IDF impact area will not affect TU if standing without any degree of protection.",
+          "No direct fires within 15 degrees of flanking elements.",
+          "All participants are briefed and conduct rehearsals prior to all live fire events (Safeties, TSP and TU conduct OPORD briefs, technical rehearsals, TEWT, and blank-fire).",
+          "Safeties will coach to ensure signals with confirmation for shift and lift fire are incorporated into the unit plan. Clearly visible terrain features are used as reference for shift and lift points.",
+          "Train and rehearse continuously on mission.",
+          "Establish early direct communications between all maneuver units.",
+          "Safeties are dedicated to maneuver throughout the scenario and will remain within 25 meters of all TU firing elements.",
+          "Enforce muzzle awareness & trigger discipline.",
+          "The beaten zone of the SBF is free of ricochet hazards.",
+          "RSOs understand the range, participates in setup, and reports daily condition brief to Troop CP prior to blank execution.",
+          "RSOs brief and conduct walk-through with Safeties and TSP.",
+          "OIC and Safeties brief TU the Conduct of Range brief, including all risks briefed by RSOs.",
+          "All Safeties, TSP, and visitors will wear PPE, body armor with side/front and back plates, and reflective belts/white engineer tape."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Static Range Safety Brief TU OPORD Briefs -TU TEWT/Blank Validation -LFX Range Safety Brief -TU drills and rehearsals -Range Safety rehearsals -Range Validation -Daily Backside Battle Rhythm with Plate Checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -TSP -Safeties -OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations (Continued)"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Educate TU on Danger, Identification, Marking, and Reporting of UXO",
+          "EOD handles all UXO.",
+          "Do not touch any identified UXO.",
+          "Soldiers are advised never to touch anything on the ground in the training area that they cannot positively identify as not having an explosive hazard."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Static Range Safety Brief -LFX Range Safety Brief -Unit SOPs. -Conduct of Range Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Safeties -TSP -TU Leadership -Graf EOD 475-8332"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations (Continued)"
+      },
+      "hazard": "Shrapnel/Ricochet Personal Protective Equipment (PPE)",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "For Safeties. TSP, and U.S. SMs: Mandatory proper use of all PPE including, but not limited to, the wear of Ballistic Eye Protection, Hearing Protection, ACH, body armor with side and front/back plates, and Gloves.",
+          "For TU: Mandatory proper use of all available PPE including, but not limited to, the wear of Ballistic Eye Protection, Hearing Protection, ACH (or equivalent), body armor and gloves in in accordance with TU SOPs and in accordance with GTA Range Operations.",
+          "Personnel will be briefed and given a demonstration on uniform standards."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Static Range Safety Brief -LFX Safety Brief, drills, rehearsals -PCC / PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -TSP -Safeties -OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Tactical Vehicle Movement"
+      },
+      "hazard": "Vehicle Accidents and Injury",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers wear seat belts/restraints.",
+          "Proper vehicle tie downs, if applicable.",
+          "Understand route and terrain via map and convoy briefing.",
+          "Communication between vehicles and a ground maneuver unit, at minimum. This can be radio or visual signaling techniques.",
+          "Ground guides utilized as required and when necessary, regardless of situation. All Vehicles in the Tactical Assembly Area (TAA) will require a ground guide.",
+          "When DPW is present to work on the Range 201 bridge a dedicated Apache Troop backside support personnel will wear a reflective vest and coordinate traffic in the TAA.",
+          "Visual verification prior to backing up with rear ground guide. No backing up will occur on the range.",
+          "All Soldiers adhere to unit, host nation, and 7ATC GTA standards while riding or driving a tactical vehicle.",
+          "All drivers and TCs follow all traffic laws.",
+          "Convoy distance and separation.",
+          "Vehicle movement is not authorized in wooded areas, only on improved or gravel roads."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-ATP 4-11 Army Motor Transport Operations. -Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Vehicle commanders and operators -Safeties -TSP -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tactical Vehicle Movement (Continued)"
+      },
+      "hazard": "Weather and Terrain Considerations (Standing Water, Loose Terrain, Dropoff Points, Visibility, Inclimate Weather)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Snow chains are required when over 10cm of snow is present or glare ice. Apache Troop backside personnel will validate and assist TU prior to SP downrange with all snow chains.",
+          "Ground guide utilization.",
+          "Brief range hazards.",
+          "Vehicle speed adjustments (Reduction by 5-15 km per hour)",
+          "NVG/ black out driving is authorized only on vehicles with working DVEs"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Weather Briefing -Proper inclement weather equipment"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Vehicle commanders and operators -Safeties -TSP -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tactical Vehicle Movement (Continued)"
+      },
+      "hazard": "Excessive Speed",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Speed limit is based on the following: Road Conditions, Vehicle Type and Visibility.",
+          "Normal Driving Conditions:",
+          "On paved portions of the main tank trails: 60 KPH (36 MPH).",
+          "On gravel portions of the main tank trails: 50 KPH (30 MPH).",
+          "Range roads: 30 KPH (18 MPH).",
+          "When passing troops: 16 KPH (10 MPH).",
+          "Limited Visibility/Inclement weather Driving Conditions:",
+          "RSO, OIC, 7ATC Safety Office, and GTA Range Operations may reduce speed limits.",
+          "Built up areas: All vehicles reduce speed to 10 MPH when approaching, entering, or",
+          "driving in/around built up areas.",
+          "In all cases where there is a speed limit sign or other posted instructions – obey the posted limit and/or sign.",
+          "RSOs understand the range, participate in setup, and conduct COG Risk Mitigation Brief as needed.",
+          "RSOs brief all Safeties and TSP the risks on their range.",
+          "TSP brief TU the Conduct of Range brief, including all risks briefed by the RSOs."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Obey posted speed limit signs. -Safety briefs -Follow GTA SOP #1 -Unit SOPs -Drivers Familiarization prior to Ranges"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Vehicle commanders and operators -TSP -Safeties -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tactical Vehicle Movement (Continued)"
+      },
+      "hazard": "Personnel injured while operating vehicle and falling off vehicles.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Maintain three (3) points of contact while on top of any vehicle.",
+          "Personnel will not jump off vehicles, climb off/down.",
+          "Wear ACH when climbing on/off or on top any vehicle."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Brief -SOPs, Training Briefings, FM, TMs -Leader Supervision"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Vehicle commanders and operators -TSP -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tactical Vehicle Movement (Continued)"
+      },
+      "hazard": "Personnel run over by vehicle both downrange and in the Tactical Assembly Area",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Require operators to utilize chalk blocks or similar mechanism when vehicles / trailers are parked.",
+          "Ground guides do not stand in-between vehicles while ground guiding.",
+          "Two ground guides required while backing vehicles.",
+          "Two ground guides used during night operations in assembly areas.",
+          "Sleeping areas are marked by both white engineer tape and chemlights.",
+          "All vehicles in the Tactical Assembly require a ground guide.",
+          "Deliberate plan for traffic control IVO Range 201 bridge."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Brief -SOPs, Training Briefings -TSP -Safeties -RSO, OIC"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Vehicle commanders and operators -TSP -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical"
+      },
+      "hazard": "Hot/Cold Weather Injury",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "TU ACTIONS:",
+          "Situational awareness: identify Soldiers with previous cold /heat injuries.",
+          "Inspect cold weather gear for serviceability and direct when to wear gear or when to go to a warming tent",
+          "Conduct cold/heat training on preventing, recognizing, and treating injuries.",
+          "Use the buddy system to check each other for signs of cold/heat injuries.",
+          "Avoid excessive consumption of caffeine rich fluids that promote increased energy for short durations without replenishing lost fluids.",
+          "Backside Personnel Actions:",
+          "TSP monitors daily weather chart to anticipate daily risk levels",
+          "Safeties and TSP use team leadership when building plans in cases of emergency."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-MEDEVAC Rehearsal -Range Safety Briefs -Unit leadership Supervision -Periodic spot checks -Troop and Platoon Medics available at Concurrent Training Area/TU living area at the TAA -Safeties and TSP aware of weather patterns and engage with TU."
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -TSP -1/2CR 68W Personnel -All Range Support -Safeties -RSO, OIC -Medical Support"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical (Continued)"
+      },
+      "hazard": "All Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Medical Transportation (1 x MEV) on the range.",
+          "At minimum, 1x Medic on each range with a medical aid bag.",
+          "Medical evacuation site marked for air and coordinated with range operations and ground MEDEVAC rehearsed every 72 hours.",
+          "Casualty plan in place.",
+          "Minor injuries (not life, limb, or eyesight) will be handled by the TU.",
+          "Training will only stop for priority or urgent casualties.",
+          "TU will utilize rehearsed medical plan and move casualties.",
+          "All emergencies will be handled through the tower to range control and emergency medical personnel.",
+          "TSP are engaged and facilitate if TU has difficulties.",
+          "TSP will intervene when an injury is urgent or priority.",
+          "Range Safeties conduct internal IFAK and CLS kit validation. TU will use medical aid kits as available/necessary."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Unit and Range SOPs - Range Safety Briefs -PCC/PCIs -Spot Checks -MEDEVAC Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -1/2CR 68W Personnel -TSP -Medical Personnel -Safeties -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted/Mounted Maneuver"
+      },
+      "hazard": "Dismounted/Mounted Maneuver",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will avoid all animals and wildlife on and off the ranges.",
+          "Range Safeties and/or TU will call for cease fire if any wildlife obstructs SDZs."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Range Safety Brief -Conduct of Range Briefs -Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -TSP -Safeties -ROIC, RSOs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations (Continued) \r\rIndirect Fires (Mortars) \r\rAnti-Tank Weapon Systems"
+      },
+      "hazard": "Misfire, Backblast, Stuck Rounds",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Misfire and checkfire events are responded to IAW TM9-1025-215-10, GTA SOP 1 and GTA SOP 3. EOD called as necessary (GTA SOP 5).",
+          "Section Chief ensures checkfire procedures are posted on-hand",
+          "All Anti-Tank weapon systems (Carl-Gustav, Javelin, AT4) will be operating in accordance with weapon system technical manuals and GTA safety procedures.",
+          "Ammunition will be handled and stored in accordance with GTA safety procedures.",
+          "Individuals will be trained and understand how to operate the weapon system and conduct misfire/malfunction procedures. The operator will be supervised by a safety when operating Anti-Tank systems. Backblast areas will be cleared by the operator and verified by the safety prior to firing Anti-Tank weapon systems."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- OIC/RSO has GTA SOPs - Mortar section drills - Range Safety Briefs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Mortar Section Chief -Mortar Personnel -Range Support -Mortar Safeties -AT Weapon Safeties -RSO, OIC, Lane Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Aerial MEDEVAC"
+      },
+      "hazard": "Aerial MEDEVAC unable to support due to inclement weather.",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Tactical ground ambulances (MEV) available to support with detailed and rehearsed plan in place. Local civilian ambulance services are also available.",
+          "Range Cadre, Training Support Personnel, and TU will rehearse ground MEDEVAC plan",
+          "All operations will have pre-planned ground and air MEDEVAC points."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-MEDEVAC Rehearsals -Range Safety Brief - Periodic communication checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Training Support Personnel -1/2CR 68W Personnel -Range Support -Safeties -Medical Personnel -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Environmental"
+      },
+      "hazard": "Spilled petroleum products in or on vehicle components or compartments Spilled petroleum products into the environment",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "TU ACTIONS:",
+          "Inspect daily PMCS using sight and smell for evidence of spilled flammable petroleum products. Training Support Personnel execute secondary PMCS daily.",
+          "Use secondary containment devices to capture residual spills",
+          "Report all spills greater than 1.5 gls immediately to Training Support Personnel",
+          "Training Support Personnel ACTIONS:",
+          "completes and published 5 W's IAW CCIR matrix; Sends to RSO, OIC, GTA Firing Desk",
+          "notify GTA Firing desk who contacts Environmental Office",
+          "notify 1/2CR TOC",
+          "GTA Firing Desk notifies 7ATC Safety."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Daily PMCS by TU and TSP -PCC/PCIs - Load plan inspections -Range Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Training Support Personnel -Vehicle commanders and operators -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Occupation"
+      },
+      "hazard": "Trainees or visitors moving in front of firing positions.",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "RSOs and OICs will conduct a Range Safety Brief and/or Conduct of Range Brief prior to any TU execution",
+          "Only two range entry points, all other access is closed off to traffic",
+          "All entry points will be behind firing lines",
+          "Gate guards will notify OIC/RSO of the personnel and vehicles moving on and off the range",
+          "Gate guards will not allow any personnel on the range without OIC/RSO acknowledgment",
+          "Trainees and Safeties will call for cease fire if any personnel or vehicles are identified within the SDZs",
+          "OIC and RSO will maintain strict accountability of all trainees, training support, range cadre, and visitors on the range."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Range Safety Brief -Gate Guard Orientation Brief -Rehearsals -Range certification"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Training Support Personnel -Gate Guards -Range Safeties -OIC, RSOs"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations (Continued)"
+      },
+      "hazard": "Incorporation of Stryker Command Variant and Javelin Variant Platforms (ICV-CV & ICV-J) into Platoon Live Fire Exercise",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Vehicle crews will be certified on their platforms",
+          "Each ICV crew will be accompanied by a mounted safety in the vehicle",
+          "ICV crew will be proficient in vehicle misfire and malfunction procedures.",
+          "Stryker Master Gunner, armament team, and platform subject matter experts will be available on the range to assist in the event of weapon malfunction / misfire and vehicle issues.",
+          "Mounted weapon systems will be oriented down range within assigned range limits at all times during the LFX.",
+          "ICV crews will maintain communications with dismounted elements at all times (digital / visual).",
+          "ICV crews will be cleared by their safety and utilize the assigned clearing pit prior to leaving the range."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Range Safety Brief - Unit SOPs - SM familiarization on weapon / vehicle systems prior to maneuver ranges"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Leadership -Vehicle commanders, gunners, and operators -Training Support Personnel -RSO, OIC, Safeties -Master Gunner"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Mortar Live Fire"
+      },
+      "hazard": "Firing outside of the RG 201 Mortar HE Box",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Certified Mortar Crews and FiST Team.",
+          "All firing data will be verified safe with a LHMBC prior to firing.",
+          "All missions will be secondarily validated with a Safety-T prior to firing",
+          "FOs will utilize a precision observation device (LLDR, PFD, LTLM II) that will be declinated prior to use when determining target location during adjust fire missions",
+          "Mortars will be observed by multiple platforms (FO, SUAS and Radar).",
+          "Safeties will check gun-line Data before firing any rounds.",
+          "Safety Fans will be emplace in LHMBC by FDC Safeties to control point of impact.",
+          "Mortar Sections will conduct FM and digital rehearsals",
+          "Safety Validation and SDZs approved through Range Safety",
+          "Round Center Sector of HE Box prior to each iteration"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-All crews are certified/qualified through TBL V -Safety is continually updated -FDC will verify every fire mission through secondary means - Units will adhere to all standards IAW Range Regulations"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU FSO/FSNCO -TU Mortar Section Chief -Training Support Personnel and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Mortar Live Fire"
+      },
+      "hazard": "Ammunition Fails to Function",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Misfire procedures will be conducted IAW TMs",
+          "Misfire procedures will be brief and practice before LFX.",
+          "Misfire ammunition storage location identified, marked, and briefed",
+          "Mortar Section will wear all available PPE (ACH, Gloves, Eyepro, and body armor) when handling live rounds."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Mortar FDC verify fire mission meets all ammunition requirements. -Mortar Section Chiefs validate proper gunline procedures -Safeties Validate proper gunline procedures"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Mortar Section Chief -Training Support Personnel and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Mortar Live Fire"
+      },
+      "hazard": "Misfire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Equipment will be inspected before use",
+          "Misfire procedures will be rehearsed.",
+          "Proper equipment needed for misfire procedures will be present along with TMs and PPE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-All Soldiers will follow misfire procedures -All Soldiers will wear proper PPE IAW unit TACSOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Mortar Section Chief -Training Support Personnel and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct SUAS\rOperations"
+      },
+      "hazard": "Loss of Link (LOL) or possible loss of Air Vehicle (AV) due to multiple AVs operating in close proximity",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "If AVs are operating",
+          "within the same ROZ,",
+          "separate AVs."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-TM -ATTP -Safety briefs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer -FSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct SUAS\rOperations (continued)"
+      },
+      "hazard": "Ceilings below VFR minimals",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Operators will not",
+          "operate AV below VFR",
+          "minimum unless they have an approved risk",
+          "assessment where the",
+          "weather change is",
+          "annotated."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Get a military weather brief before flights to determine if the ceilings are below minima."
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Severe Weather affecting SUAS"
+      },
+      "hazard": "Inclement weather to include lightning",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Operators understand the standard of .25inches of participation per hour and how cold weather may effect operations.",
+          "Land AV as soon as",
+          "practical, disassemble",
+          "GCS and all operators",
+          "will take cover as",
+          "necessary."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "SUAS Ground Accidents"
+      },
+      "hazard": "Live Propeller",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Operators will not approach air vehicle from the rear.",
+          "Operators will notify all personnel in the area of live propeller."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Operators will only approach air vehicle from the front and echo the command \"Battery In\" when powering up the air vehicle"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Aviation In-flight Accident"
+      },
+      "hazard": "Air Vehicle damage",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Operators will apply EP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Master Trainer will be near GCS"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Aviation In-flight Accident (continued)"
+      },
+      "hazard": "Tree Collision",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Operators will operate above 150' AGL.",
+          "Leave air vehicle in tree IAW local SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Fly above the highest tree point in ROZ."
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Operators"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Demolition Execution"
+      },
+      "hazard": "Premature Detonation",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Safety brief given prior to range. Blasting caps not inserted into charges until charges are in place.",
+          "OIC/RSO maintain control of initiation devices until ready to detonate which at that time OIC and safeties will confirm count of PAX to the breach and back behind the covered position 70m away."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety brief. -Safeties enforce safety rules on the range. -OIC/RSO maintain command and control of initiation devices until ready."
+          ]
+        },
+        "who": {
+          "values": [
+            "-A/RES EN SMEs -TU Personnel -TSP and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Demolition Execution"
+      },
+      "hazard": "Misfires",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Breach Safeties, Engineer NCOIC, and RSO personally check all charges prior to attempting to initiate a detonation.",
+          "Follow misfire steps outlined in Range Control SOP #1 and FM 3-34.214."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety brief -OIC/RSO personally check all charges. -Follow proper misfire procedures IWA range brief."
+          ]
+        },
+        "who": {
+          "values": [
+            "-A/RES EN SMEs -TU Personnel -TSP and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Demolition Range Operations"
+      },
+      "hazard": "Personnel Downrange During Blast",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Safeties obtain 100% accountability prior to each blast. Blasts will not occur until all personnel are accounted for. Final count on and count off of demo site will be confirmed by OIC/NCOIC and safety at the entrance point. OIC will be the final person off the demo site and be the final person during count off."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety brief. -Obtain 100% accountability prior to initiating any blast."
+          ]
+        },
+        "who": {
+          "values": [
+            "-OIC/NCOIC -A/RES EN SMEs -Safeties -TU chain of command"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Demolition Range Operations"
+      },
+      "hazard": "Injuries due to Shrapnel or Debris.",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Confirm and observe all MSDs prior to execution date. Ensure all personnel are beyond MSD the for troops in the open for each blast. Maintain proper PPE at all times. Medic personnel knows the route to closest AXP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Range validation with Live Fire Team and TSP -Designate Physical MSDs and Safe Area -Engineer validation of breach during rehearsals."
+          ]
+        },
+        "who": {
+          "values": [
+            "-A/RES EN SMEs -TU Personnel -TSP and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Demolition Execution"
+      },
+      "hazard": "Verify TU expertise level",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Prior to the PLT LFX the TU will familiarize themselves on APOBS and Bangalores to ensure they are able to operate the explosives."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-APOBS and Bangalore Grading Checklist"
+          ]
+        },
+        "who": {
+          "values": [
+            "-A/RES EN SMEs -TU Personnel -TSP and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ranger Operations at Night/Low-light conditions"
+      },
+      "hazard": "Mortar Operations during low light conditions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Equipment will be inspected before, specifically the tritium in the mortar sight and functional pole lights.",
+          "Mortar Gunline will work using Red Lenses",
+          "The same firing data will be used for both day and night iterations.",
+          "Safeties will verify data and have white light if needed.",
+          "Observers will utilize thermal or IR equipment (LLDR, SUAS IR, NVGs).",
+          "Illumination rounds will be used if able to support safe observation.",
+          "Round Center Sector of HE Box prior to each iteration."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Mortar FDC verify fire mission meets all ammunition requirements. -Mortar Section Chiefs validate proper gunline procedures -Safeties Validate proper gunline procedures -PCC/PCIs of equipment for low visibility conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Mortar Section Chief -FSO, FSNCO, FOs -Training Support Personnel and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ranger Operations at Night/Low-light conditions"
+      },
+      "hazard": "Direct Fire (Night)",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Soldiers will use weapon mounted lasers when engaging targets with the Night Vision Devices",
+          "Phase lines will be marked with IR illumination physically",
+          "Leaders will identify targets and TSP will identify identifiable 40 degree sectors of fire for bipods and 15 degrees for tripod/mounted weapons.",
+          "All soldiers will have NVG’s and PEQ-15 lasers verified through PCC and PCI checklists and checked by all levels of PLT leadership before SP.",
+          "Soldiers will be qualified on assigned weapons systems IAW TC 3.20.0 IWTS.",
+          "Upon final clearance, all weapons will be white light cleared by safeties."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Range Safety Brief -Rehearsals -Blank Fire Iteration -Conduct of Range Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU -Training Support Personnel -Range Safeties -OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Ranger Operations at Night/Low-light conditions"
+      },
+      "hazard": "Tactical Vehicle Operations at night/low-light conditions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "During night maneuvers, Drivers will drive under DVE, with VC guidance.",
+          "Vehicle movement is not authorized in wooded areas, only on improved or gravel roads.",
+          "Ground guides utilized as required and when necessary, regardless of situation.",
+          "All Vehicles in the Tactical Assembly Area (TAA) will require a ground guide.",
+          "Upon final clearance, all weapons will be white light cleared by safeties",
+          "Vehicles will be marked with IR chem lights in accordance with established SOP.",
+          "Vehicles will white light at TAA, and go blackout upon SP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-ATP 4-11 Army Motor Transport Operations. -Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TU Vehicle commanders and operators -Training Support Personnel -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "M",
+  "overall_supervision_plan": "Live Fire Exercise OIC/RSOs provide oversight and supervision over the ranges, making sure the all operations follow the appropriate safety precautions. The Tactical OPORDs and CONOPs will reflect a scenario supporting safe targetry and restrictive DFCMS. On PLT LFX Range, the TU conducts TEWT, one blank iteration prior to executing the Live Fire Exercise (Day and Night). This is key so that all Safeties, TSP and TU participants understand what happens on each range and to look for anything that is unsafe. Training Support Personnel (TSP) refers to any person or persons that facilitate the TU training objectives (Apache, Bull, Comanche Troop Safeties, 1/2CR Safeties). TSP acts as additional lane safeties with PTT radio communication, if available, to the RSO during dismounted and mounted movement.  Each Range has an RSO and constant access to the range tower radio and telephone to contact the Range Control Firing Desk and 7ATC as appropriate. In the event of a real world MEDEVAC event on site, Safeties and Training Support Personnel are responsible for ceasing fire on the range and communicating directly with the OIC/RSO of the range to coordinate MEDEVAC. SUAS Master Trainer will be present during SUAS Operations.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (82) - Copy - Copy/WE PLT LFX DRAW V1.pdf",
+  "source_directory_id": 131,
+  "source_directory_name": "New folder (82) - Copy - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

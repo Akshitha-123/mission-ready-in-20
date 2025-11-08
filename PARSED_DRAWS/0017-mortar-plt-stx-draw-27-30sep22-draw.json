@@ -1,0 +1,253 @@
+{
+  "mission_task_and_description": "MORTARS PLT STX\r(27-30SEP22)",
+  "date": "2022-08-22",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Arghavani, Daniel, M",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "HHT, 1 SQDN, 2CR",
+    "work_email": "daniel.m.arghavani.mil@mail.mil",
+    "telephone": "+491624828213",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "MORTEP STX",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "EXECUTE MORTEP STX"
+      },
+      "hazard": "HOT/COLD WEATHER INJURIES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be briefed on weather conditions and carry appropriate items from their ECWCS. Receive refresher class on signs of hot and cold weather injuries. PSG sets the uniform and NCOs enforce those standards to reduce threat of heat/cold related injuries. Medic keeps hot weather equipment on hand."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE MORTEP STX"
+      },
+      "hazard": "SLIPS, TRIPS, FALLS, MUSCULOSKELETAL INJURIES, & OTHER MISC INJURIES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers wear all assigned PPE, care is taken in unknown areas with rough terrain during execution. Additional caution will be taken when executing night operations. Leaders maintain close control of Soldiers to identify potential hazards."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, Rehearsals, Dragoon Standard Uniform"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE MORTEP STX"
+      },
+      "hazard": "PINCH POINTS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will wear proper PPE and exercise caution when working with Stryker variants. Helmets always worn on vehicle and maintain three points of contact."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefing, Training, PCC/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander, OIC/NCOIC, RSO, VCs, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE MORTEP STX"
+      },
+      "hazard": "EQUIPMENT LOSS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period. All issued sensitive items tied down. Sensitive items inventory complete at conclusion of training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE MORTEP STX"
+      },
+      "hazard": "SPILLS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All materials properly marked. HAZMAT clean up equipment on hand and ready."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE MORTEP STX"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leave wildlife alone. Identify soldiers who are allergic to insect bites or stings and keep emergency first aid kits on hand."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, supervision of subordinates, medic checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "All Leaders, Soldiers, Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "COLLISIONS WITH MILITARY OR CIVILIAN MOTOR VEHICLES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Mortars will move together in a convoy IOT to maximize control on range roads. Vehicles obey posted speed limits, following distances, and general awareness of civilian and other military traffic. Vehicles each have radios and JBCP and conduct commex."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander, OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "DRIVER FATIGUE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be given an in-depth safety briefing concerning road safety. Convoy Commander and Leaders will monitor Soldiers and convoy operations. Proper rest plan in place."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander, OIC/NCOIC, RSO, VCs, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "IMPROPER VEHICLE LOADING",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Remind soldiers to make sure brakes are set, engine is off, and at least",
+          "one wheel is chocked during loading and unloading"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Chock blocks and drip pans are required and will be inspected as soon as the MCV sets in position for the gunner. Any additional vehicles must set drip pan and chock block in once arrived on site."
+          ]
+        },
+        "who": {
+          "values": [
+            "Leadership, Range OIC, Range RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "RSO and OIC will orient soldiers to the range and conduct a safety brief. Soldiers will safety each other and safety will be monitored from Platoon Leader to Soldier and vice versa in order to ensure safe conduct of this STX.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/24/Mortar PLT STX DRAW 27-30SEP22.pdf",
+  "source_directory_id": 17,
+  "source_directory_name": "24",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

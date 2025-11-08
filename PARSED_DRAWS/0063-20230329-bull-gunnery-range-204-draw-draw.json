@@ -1,0 +1,343 @@
+{
+  "mission_task_and_description": "ICV-J Gunnery Range \r(01-07APR2023)",
+  "date": "2023-03-29",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Leth, Keegan, A.",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "B TRP, 1 SQDN, 2CR",
+    "work_email": "keegan.a.leth.mil@army.mil",
+    "telephone": "+4915224438816",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "ICV-J Gunnery Range 204",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Execution of Platform Qualification"
+      },
+      "hazard": "Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will maintain muzzle awareness and will clear their weapons fully (safety active, no ammo in or around weapons system) prior to moving to a designated location, being cleared by safeties, and exiting the range.",
+          "Weapons will stay fully clear until the order is given to load ammo at the ready line. ROC Drill will cover scheme of maneuver and associated safety measures prior to execution.",
+          "Beachmasters and PLT leadership will be standing by at the ready line with NCO oversight before assumption of 'amber' weapon status.",
+          "At the firing line, weapons status will shift to red only upon direction from OIC/RSO.",
+          "Routes for maneuver will be marked clearly for easy vehicle crew reference.",
+          "SDZs and deviations will be planned in coordination with GTA Range Control.",
+          "Personnel will load weapons only after crossing the firing line.",
+          "Vehicle Commanders will confirm that there are no Soldiers in front of their vehicle before firing.",
+          "Soldiers wear Full Dragoon Standard during Gunnery execution."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Safeties Supervision - Safety clears weapon before leaving firing area - Leadership will ensure all Soldiers perform night dry fire before live. - Daily safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO, Safeties, Beachmaster"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execution of Platform Qualification"
+      },
+      "hazard": "Negligent Discharge",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers wear Full Dragoon Standard during execution.",
+          "Leaders continuously monitor Soldiers during execution to ensure proper shooting fundamentals.",
+          "Soldiers have been taught proper handling of weapons systems and lasers.",
+          "Soldiers will not handle or fire weapons systems with which they are untrained or table VI unqualified.",
+          "Ammo Point will fully separate all types of ammunition, spent and live.",
+          "Only ammunition for one iteration will be issued to the Soldier."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Brief, CONOP, Training Plan, PCC/PCI - Lane safeties check Soldiers prior to firing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO, safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Leaders will adhere to GTA UXO procedures IAW with Range SOP.",
+          "Notify the Range Control Firing Desk upon discovery or creation. Mark grid location and halt training if it poses a direct threat to Soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, OC, Safeties, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition Transportation and Storage"
+      },
+      "hazard": "Improper handling of ammunition or explosives",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Leaders ensure individuals who handle ammunition and pyrotechnics are trained on proper handling procedures and safety.",
+          "Soldiers must handle all ammunition with care.",
+          "Soldiers must wear eye protection and gloves while handing pyrotechnics, ammunition and crating/packaging material.",
+          "Leaders must enforce no smoking except in designated areas.",
+          "Have two ten (10) pound fire extinguisher(s) on hand at ammo point.",
+          "Separate live/spent by placement on separate pads",
+          "Ammo shakedown will be conducted after execution to ensure all ammunition is accounted for and only the proper ammunition is used for the following iteration"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "TACSOP, AR 385-64, DA PAM 385-64, AER 385-64, Risk reduction briefings, Leader Involvement. All Ammo Handlers Certified by QASAS."
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammunition NCO and Ammunition Detail"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Tactical Vehicle maneuvering IVO of Dismounts",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform or standing with a restraint harness.",
+          "Leaders understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Tactical Vehicles will use a ground guide when maneuvering within 10 meters of dismounts."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Hazardous road conditions as a result of inclement weather (Heavy Rain, slippery roads, etc)",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around GTA according to GTA SOP.",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Improper Use of Weapons Systems and Lasers",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "All Soldiers will be trained and qualified prior to range",
+          "All weapons will remain oriented in a safe direction.",
+          "All Soldiers demonstrate laser proficiency prior to live fire.",
+          "Lasers will only be used while engaging targets."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, SOPs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Team Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Slips, trips, falls & other misc. injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will execute Qualification in Full Dragoon Standard.",
+          "Soldiers climbing on top of tactical vehicles wear a helmet and maintain 3-points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "OIC/RSO understands and has briefed MEDEVAC plan on the real world casualty evacuation plan.",
+          "A designated vehicle will be marked properly for CASEVAC/MEDEVAC at the range tower.",
+          "Driver and Medic/CLS certified person will be briefed on routes, and strip maps with coordinates of AXP stored in vehicle.",
+          "Medic will carry medic certification paperwork at all times.",
+          "Driver and Medic will remain with MEDEVAC Vehicle at all times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane OIC/NCOIC, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Equipment Loss",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period IAW WE SOP.",
+          "All issued sensitive items tied down IAW SOP.",
+          "Sensitive items inventory conducted IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, SOPs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Wildlife on Range/Range Fire",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range will cease fire if wildlife is on the range or if a fire erupts on the training range and will not go wet until all wildlife/fire has been cleared from range.",
+          "Any Soldier that spots wildlife or a fire will call the range to cease fire.",
+          "In the case of fire, range control will be called when prompted by the range meister to keep them abreast of the situation.",
+          "Fire fighting detail will remain ready with all PPE in the case that they must be deployed to retard fire."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety/Range Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Loss of Communication with Range Control",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "If communication with Range Control is lost, Range will immediately cease fire until communication can be returned with Range Control.",
+          "DSN, Cell Phone, FM, and Staff Duty will be used to regain communication with Range Control"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "CONOP, Safety/Range Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOIC, Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "I assess the overall initial risk to be Medium as a result of an unlikely probability of a catastrophic event; I assess the overall residual risk to be low due to critical severity of unlikely probability.\rMost Dangerous Risk: Fratricide\rMitigation: All weapons will orient exclusively downrange; only one vehicle will be downrange and/or firing at any given time; range safeties or VCEs will accompany all vehicles downrange; all personnel downrange of the ammo supply point will wear Dragoon Standard PPE\rMost Likely Risk 1: Vehicle accident\rMitigation: All drivers will be properly licensed on their vehicle; only one vehicle will be downrange and/or firing at any given time; range safeties or VCEs will accompany all vehicles downrange; all personnel riding inside a moving vehicle will wear Dragoon Standard PPE and utilize proper restraints\rMost Likely Risk 2: Negligent discharge\rMitigation: All weapons will orient exclusively downrange; only one vehicle will be downrange and/or firing at any given time; range safeties or VCEs will accompany all vehicles downrange; all personnel downrange of the ammo supply point will wear Dragoon Standard PPE",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (21) - Copy/20230329 Bull Gunnery Range 204 DRAW.pdf",
+  "source_directory_id": 63,
+  "source_directory_name": "New folder (21) - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

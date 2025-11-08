@@ -1,0 +1,354 @@
+{
+  "mission_task_and_description": "Reconnaissance Platoon 1/2CR E2B M4 Qualification Range 101\r22AUG24",
+  "date": "2024-08-08",
+  "prepared_by": {
+    "name_last_first_middle_initial": "DUNN, AARON H",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "PLATOON LEADER",
+    "unit": "HHT, 1/2 CR",
+    "work_email": "aaron.h.dunn.mil@army.mil",
+    "telephone": "314-599-3213",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "Reconnaissance Platoon E2B QUAL Range 101",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "WEATHER"
+      },
+      "hazard": "SEVERE WEATHER",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Monitor local weather for possible extremes in cold, thunderstorm activity, high winds, etc Avoid",
+          "working in open areas when lightning is observed.",
+          "Address proper clothing requirements during extreme cold and wet conditions."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "OIC and RSO will consistently monitor the weather."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EQUIPMENT"
+      },
+      "hazard": "SLIPS, TRIPS, FALLS, MUSCULOSKELETAL INJURIES, & OTHER MISC INJURIES",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers wear all assigned PPE, care is taken in unknown areas with rough terrain during execution. Additional caution will be taken when executing under limited visibility. Leaders maintain close control of Soldiers to identify potential hazards."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, Rehearsals, Dragoon Standard Uniform when operating military vehicles."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EQUIPMENT"
+      },
+      "hazard": "EQUIPMENT LOSS",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period. All issued sensitive items tied down. Sensitive items inventory complete at conclusion of training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "WILDLIFE"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Leave wildlife alone. Identify soldiers who are allergic to insect bites or stings and keep emergency first aid kits on hand."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Tactical Vehicle maneuvering IVO of Dismounts",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA. Speed will be reduced during hours of limited visibility",
+          "Speed limit is based on the following: Road Conditions, Vehicle Type and Visibility.",
+          "Normal Driving Conditions:",
+          "On paved portions of the main tank trails: 60 KPH (36 MPH).",
+          "On gravel portions of the main tank trails: 50 KPH (30 MPH).",
+          "Range roads: 30 KPH (18 MPH).",
+          "When passing troops: 16 KPH (10 MPH).",
+          "Maximum of 5mph if operating within 8 meters of dismounted troops or with a ground guide.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform with a seatbelt, or standing with a restraint harness.",
+          "Soldiers will be no higher than name-tape defilade if standing/outside of vehicle while it is moving.",
+          "Leaders deliver a convoy brief IAW TACSOP and understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Soldiers will sleep only in designated areas IAW War Eagle SOP.",
+          "All vehicles will have licensed drivers, certified to drive at night, posess a valid 5988 and dispatch"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "DRIVER FATIGUE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be given an in-depth safety briefing concerning road safety. Convoy Commander and Leaders will monitor Soldiers and convoy operations. Proper rest plan in place."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "SOLDIER INJURY IN TRAINING AREA",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldier's briefed on potential hazards based on range reconnaissance."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "RANGE"
+      },
+      "hazard": "NEGLIGENT DISCHARGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldier will use selector switch discipline and only place the weapon system on fire prior to engaging targets. Upon completion of each engagement, selector switches will be placed on safe."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "RANGE"
+      },
+      "hazard": "WEAPON MALFUNCTION",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Immediate Action will be performed followed by Remedial Action. If weapon continues to malfunction, level 20 Armorer will be called to check weapon system."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "RANGE"
+      },
+      "hazard": "EQUIPMENT LOSS",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period IAW WE SOP.",
+          "Sensitive items will be accounted for after every mission/iteration",
+          "All issued sensitive items tied down IAW Troop SOP.",
+          "Sensitive items inventory conducted IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Mission Briefs, Inspections, Inventory, SOPs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Training Team"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "RANGE"
+      },
+      "hazard": "LOSS OF COMMUNICATIONS RANGE CONTROL",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "If communication with Range Operations is lost, the OIC/RSO will notify troop command",
+          "Cell Phone will be used to regain communication with Range Operations"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety/Range Brief, check in with Range Control before and after each flight iteration."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "Ammunition Transportation and Storage"
+      },
+      "hazard": "Improper handling of ammunition or explosives",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leaders ensure individuals who handle ammunition and pyrotechnics are trained on proper handling procedures and safety.",
+          "Soldiers must handle all ammunition with care.",
+          "Soldiers must wear eye protection and gloves while handing pyrotechnics, ammunition and crating/packaging material.",
+          "Leaders must enforce no smoking except in designated areas.",
+          "Have two ten (10) pound fire extinguisher(s) on hand at ammo point.",
+          "Separate blank/live DODICs by placement on separate pads",
+          "Ammo shakedown will be conducted after every iteration to ensure all ammunition is accounted for and only the proper ammunition is used for the following iteration",
+          "All Soldiers will be trained on the use of pyrotechnics prior to use",
+          "Leaders ensure Blank Firing Adapters are removed from weapon systems between blank and live iterations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "TACSOP, AR 385-64, DA PAM 385-64, AER 385-64, Risk reduction briefings, Leader Involvement. All Ammo Handlers Certified. AR/DA PAM 385-63/64 , Applicable FM/TM, or Accompanying Instructions"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammunition NCO and Ammunition Detail"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "Initial Risk Assessment: The overall initial risk is assessed as medium due to the infrequent probability of critical events.\rResidual Risk Assessment: The overall residual risk is assessed as low, attributed to the unlikely probability of critical events with effective control measures in place.\rMost Dangerous Risk: Negligent Discharge\rMitigation: Soldiers will use selector switch discipline and only place the weapon system on fire prior to engaging targets. Upon completion of each engagement, selector switches will be placed on safe. Safeties will control the direction and safety for each shooter. Safeties will clear each weapon system before it is removed from the firing line.\rMost Likely Risk: Slips, Trips, and Falls\rMitigation: Mitigating the risk of slips, trips, and falls involves ensuring the correct usage of PPE during operations and reducing the speed of nonessential movements. Additionally, part of the mitigation strategy involves briefing soldiers on prevailing weather conditions and empowering them to identify and rectify any surfaces deemed unsafe before and during training events.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (6)/DRAW E2B M4 Range 101.pdf",
+  "source_directory_id": 165,
+  "source_directory_name": "New folder - Copy (6)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

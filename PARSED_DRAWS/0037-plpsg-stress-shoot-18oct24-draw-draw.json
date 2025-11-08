@@ -1,0 +1,359 @@
+{
+  "mission_task_and_description": "M4 Stress Shoot RG 124\r(18OCT2024)",
+  "date": "2024-09-04",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Cochran, Hunter C",
+    "rank_grade": "1LT/02",
+    "duty_title_position": "A1 Platoon Leader",
+    "unit": "A Troop, 1 SQDN, 2CR",
+    "work_email": "hunter.c.cochran.mil@army.mil",
+    "telephone": "+1 (682) 406-3317",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": "M4/M249 QUALIFICATION  RANGE",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "EXECUTE M4 ZERO AND STRESS SHOOT"
+      },
+      "hazard": "AMMUNITION ACCOUNTABILITY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "EACH SOLDIER WILL BE ISSUED AMMUNITION ONLY PRIOR TO EXECUTION. UPON COMPLETION OF THE LANE EACH SOLDIER WILL BE FUNNELED THROUGH A CHOKE POINT WHERE ALL AMMUNITION WILL BE TURNED INTO THE ASP, AND EACH SOLDIER'S WEAPON AND MAGAZINES WILL BE INSPECTED FOR AMMUNTION. ONCE TURNED IN SOLDIERS WILL RECIEVE A SHAKE DOWN FROM A SAFETY."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, PCC/PCI/CHOKE POINT AT ASP"
+          ]
+        },
+        "who": {
+          "values": [
+            "ASP NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE M4 ZERO AND STRESS SHOOT"
+      },
+      "hazard": "NEGLIGENT DISCHARGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SOLDIERS WILL USE SELECTOR SWITCH DISCIPLINE AND ONLY PLACE THE WEAPON SYSTEM ON FIRE PRIOR TO ENGAGING TARGETS.",
+          "UPON COMPLETION OF EACH ENGAGEMENT, SELECTOR SWITCHES WILL BE PLACED ON SAFE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, SPOT CHECKS"
+          ]
+        },
+        "who": {
+          "values": [
+            "SAFETIES, SOLDIERS, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE M4 ZERO AND STRESS SHOOT"
+      },
+      "hazard": "RICHOCHET, WEAPON ORIENTED OTHER THAN DOWNRANGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "FULL DRAGOON STANDARD WORN WHEN ON THE FIRING LINE DURING EXECUTION OF M4 AND M249 QUAL.",
+          "SOLDIERS BRIEFED REGARDING BOTH POSSIBILILITY OF RICHOCHET AND IMPORTANCE OF MAINTAINING MUZZLE DISCIPLINE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, RANGE CONSTRUCTION, SPOT CHECKS"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, SAFETIES, SOLDIERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE M4 ZERO AND STRESS SHOOT"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "ANY SOLDIER WHO IDENTIFIES WILDLIFE ON THE RANGE DURING LIVE FIRE WILL IMMEDIETLY CALL CEASE FIRE"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, SOLDIERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE M4 ZERO AND STRESS SHOOT"
+      },
+      "hazard": "WEAPONS MALFUNCTION",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "IMMEDIATE ACTION WILL BE PERFORMED, FOLLOWED BY REMEDIAL. AFTER REMEDIAL ACTION, LEVEL 20 ARMORERS ON-SITE WILL CHECK THE WEAPON."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, LANE SAFETIES"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, SOLDIERS, LANE SAFETIES"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE M4 ZERO AND STRESS SHOOT"
+      },
+      "hazard": "AMMUNITION LOSS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "RSO WILL WALK THE RANGE WITH LANE SAFETIES AND VERIFY ALL BRASS HAS BEEN POLICED. 100% AMMUNITION WILL BE TURNED IN BEFORE CLEARING THE RANGE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, LANE SAFETIES"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, LANE SAFTIES, ASP NCOIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "COLLISIONS WITH MILITARY OR CIVILIAN MOTOR VEHICLES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "A TRP WILL MOVE IN PLATOON SIZED ELEMENTS IOT MINIMIZE THE POSSIBILITY OF COLLISIONS.",
+          "EACH VEHICLE WILL HAVE AN FM RADIO AND ADHERE TO 50-100 m INTERVALS BETWEEN VEHICLES.",
+          "WILL ADHERE TO SQDN SOP REGARDING VC AND REAR GUARD AWARENESS."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "CONVOY SAFETY BRIEF"
+          ]
+        },
+        "who": {
+          "values": [
+            "CONVOY COMMANDER, VCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "LOST/DAMAGE EQUIPMENT",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "ALL EQUIPMENT WILL BE SECURED AND TIED DOWN",
+          "ALL LEADERS WILL PUT HANDS ON ALL SENSITIVE ITEMS BEFORE LEAVING RANGE"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs, HANDS ON SENSITIVE ITEMS"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "Fratricide Due To Low Visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "During Tables I and Tables II all soldiers will be briefed and coached to keep barrel of weapon system down range at all times when on the firing line.",
+          "Shooters will only engage targets that they are properly acquiring through laser attachment (PEQ-15)."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-PEQ-15s will be inspected and adjusted before range and before night fire -Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, and Coaches"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "Uncleared Live Rounds Being Carried Off Range Due To Low Visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "During night live fire, RSO and safeties will use white light to clear each shooter as they move off the firing line."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-RSO and all safeties will be equipped with a white light."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "Injury Due To Aiming Laser",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Shooters will only use AN/PEQ-15 while weapon system is pointed down range and while boresighting laser aiming device.",
+          "All soldiers on the range will wear eye protection while on or near the firing line."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Shooters will take instruction from the RSO and safeties as they make way to the firing line. -Saftey Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "PHYSICAL EXERCISE/MOVEMENT ON RANGE (STRESS SHOOT)"
+      },
+      "hazard": "Flagging/Mishandleing of Rifle",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Rifle will remain stationary and unloaded in the firing position pointed down range and not brought with the soldier during the physical activity of the stressor."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Saftey will ensure the firer places their unloaded rifle on the ground by the support before giving the green light to the tower. -The tower will not raise the targets until all safeties confirm their lane is ready."
+          ]
+        },
+        "who": {
+          "values": [
+            "-Lane Safeties -Tower -RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "PHYSICAL EXERCISE/MOVEMENT ON RANGE (STRESS SHOOT)"
+      },
+      "hazard": "Heat Casualty",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be kept out of kit and hydrated in a relaxed posture outside of the five-minute long lane."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-TLs and SLs will manage personnel who are not firing. -MEV will have necessary treatment capabilities in the event of a heat casualty."
+          ]
+        },
+        "who": {
+          "values": [
+            "-OIC and MEV team -SLs and TLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "OIC and RSO will orient soldiers to the range and conduct a safety brief immediately following range occupation. Soldiers will coach/safety each other on the firing line with NCOs safetying in a 1:1 ratio. Newly Identified risks will be recorded and mitigated accordingly and risk acceptance will be improved at the appropriate level. Every Soldier will be considered a safety. If they see an unsafe act they will call a cease fire and notify everyone to stop training until the issue is resolved. OIC and RSO will continuously monitor all aspects of the Zero and Stress Range. Newly identified risks will be recorded and mitigated accordingly and risk acceptance will be approved at the appropriate level.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/42/PLPSG Stress Shoot 18OCT24 DRAW.pdf",
+  "source_directory_id": 37,
+  "source_directory_name": "42",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

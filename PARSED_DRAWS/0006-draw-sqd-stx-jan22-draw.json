@@ -1,0 +1,352 @@
+{
+  "mission_task_and_description": "Medical Platoon SQD STX Training",
+  "date": "20211217",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Malloy, Jonathan, D",
+    "rank_grade": "2LT/O1",
+    "duty_title_position": "Medical Platoon Leader",
+    "unit": "1/2CR",
+    "work_email": "jonathan.d.malloy2.mil@mail.mil",
+    "telephone": "599-3210",
+    "uic_cin": "WASFATO",
+    "training_support_or_lesson_plan_or_opord": "Medical Platoon SQD STX",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Execute Training"
+      },
+      "hazard": "HOT/COLD WEATHER INJURES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be briefed on weather conditions and carry appropriate items from their ECWCS. Receive refresher class on signs of hot and cold weather injuries. PSG sets the uniform and NCOs enforce those standards to reduce threat of heat/cold related injuries."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execute Training"
+      },
+      "hazard": "SLIPS, TRIPS, FALLS, MUSCULOSKELETAL INJURIES, & OTHER MISC INJURIES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers wear all assigned PPE, care is taken in unknown areas with rough terrain during execution. Additional caution will be taken when executing night operations. Leaders maintain close control of Soldiers to identify potential hazards."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execute Training"
+      },
+      "hazard": "PINCH POINTS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will wear proper PPE and exercise caution when working with Stryker variants. Helmets always worn on vehicle and maintain three points of contact."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefing, Training, PCC/ PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execute Training"
+      },
+      "hazard": "EQUIPMENT LOSS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period. All issued sensitive items tied down. Sensitive items inventory complete at conclusion of training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, VCs, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execute Training"
+      },
+      "hazard": "SPILLS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All materials properly marked. HAZMAT clean up equipment on hand and ready."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, VCs, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execute Training"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leave wildlife alone. Identify soldiers who are allergic to insect bites or stings and keep emergency first aid kits on hand."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, supervision of subordinates, medic checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "All Leaders, Soldiers, Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execute Training"
+      },
+      "hazard": "Vehicle roll overs, accidents, and breakdowns",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles will move in convoys to mutually support like recovery missions. Vehicles will adhere to speed limits based on terrain given by OIC/NCOIC. When presented with questionable terrain features. VC will get out and assess the terrain before ground guiding. All vehicles will ground guide when moving around dismounted soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, supervision of subordinates, medic checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, VCs, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "COLLISIONS WITH MILITARY OR CIVILIAN MOTOR VEHICLES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Section will move together in a convoy IOT to minimize collisions on range roads. Vehicles obey posted speed limits, following distances, and general awareness of civilian and other military traffic. Vehicles each have radios and JBCP and conduct commex."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander, OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "DRIVER FATIGUE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be given an in-depth safety briefing concerning road safety. Convoy Commander and Leaders will monitor Soldiers and convoy operations. Proper rest plan in place."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander, OIC/NCOIC, RSO, VCs, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "IMPROPER VEHICLE LOADING",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Remind soldiers to make sure brakes are set, engine is off, and at least one wheel is chocked during loading and unloading"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Chock blocks and drip pans are required and will be inspected as soon as the MCV sets in position for the gunner. Any additional vehicles must set drip pan and chock block in once arrived on site."
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander, OIC/NCOIC, RSO, VCs, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Evacuation"
+      },
+      "hazard": "Soldier Requires Medical Evacuation",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "MEDEVAC Procedures are rehearsed and posted in each participating vehicle. AXPs and HLZ identified."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Strip maps, nine line templates and Range Control's number will be placed and inspected in all VIC. MEDEVAC procedures are verbally rehearsed prior to firing."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "COVID-19"
+      },
+      "hazard": "Virus Transmission during training",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All SMs will comply with Social distancing standards IAW with 7ATC policy. This includes using Proper PPE such as gloves, eye pro, and face mask during close proximity or handling equipment"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Brief, Leader Supervision"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "COVID-19"
+      },
+      "hazard": "Virus Transmission during transportation",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SMs will still wear PPE in vehicles and distance as much as possible, ensuring there are an equal number of soldiers in each vehicle to keep any one vehicle from becoming overcrowded."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Load Plan, Ramp Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "RSO and OIC will orient soldiers to the range and conduct a safety brief. Soldiers will safety each other and safety will be monitored from Commander to Soldier and vice versa in order to ensure safe conduct of this SQD STX. Vehicles will have snow chains on hand and an assessment prior to movement made before moving vehicles.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/14/DRAW_SQD_STX_Jan22.pdf",
+  "source_directory_id": 6,
+  "source_directory_name": "14",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

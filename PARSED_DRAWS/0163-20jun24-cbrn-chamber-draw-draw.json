@@ -1,0 +1,846 @@
+{
+  "mission_task_and_description": "Mask Confidence Training and CBRN Training (20JUN2024)",
+  "date": "2024-04-26",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Anikin, Emily, E",
+    "rank_grade": "2LT/O1",
+    "duty_title_position": "1/2CR Chemical Officer",
+    "unit": "1/2 CR",
+    "work_email": "emily.e.anikin.mil@army.mil",
+    "telephone": "314-599-3172",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "Mask Confidence Chamber",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Mask Confidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All personnel with",
+          "respiratory ailments,",
+          "recent eye surgery, or",
+          "eye infections, open",
+          "wounds, severe facial",
+          "acne, or any active",
+          "dermatitis, and",
+          "pregnant personnel will",
+          "be referred to a medical",
+          "officer for evaluation."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Personnel will be identified prior to training."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Squad/Team Leaders, Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "When eyes are",
+          "contaminated with a CS",
+          "agent, hold the eyes",
+          "open with fingers, flush",
+          "with water for not fewer",
+          "than 15 minutes, then",
+          "seek medical attention."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Establish medic point and ensure all personnel are aware of location before training."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will not be",
+          "exposed to CS more",
+          "than 15 seconds",
+          "without protection (i.e.",
+          "when breaking the seal",
+          "of the mask and",
+          "resealing it or when",
+          "breaking the seal",
+          "before exiting the",
+          "chamber)."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Properly train all in-chamber personnel to limits of exposure"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, in-chamber NCO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Personnel handling or",
+          "dispensing CS capsules",
+          "will wear rubber boots,",
+          "protective mask with",
+          "hood, and",
+          "field clothing secured at",
+          "neck, wrist"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Conduct leader checks before handling CS capsules and after each iteration"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Only CS in capsule",
+          "form will be used in the",
+          "CS chamber."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Verify proper DODIC prior to pickup and prior to use"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammo handler, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "OICs and RSOs will",
+          "monitor personnel",
+          "undergoing training for",
+          "adverse",
+          "reactions/illness."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Continuous leader checks across all sections of the training site"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Individuals affected by",
+          "CS gas will move to",
+          "fresh air and face into",
+          "the wind for 5 to 10",
+          "minutes, avoid rubbing",
+          "the eyes, and remain",
+          "well-spaced from other",
+          "affected personnel. If",
+          "gross accidental",
+          "contamination with CS",
+          "agent occurs, promptly",
+          "rinse the body with cool",
+          "water."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Include instructions for exiting chamber in initial range brief and before exiting chamber. Have water readily available on-site."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, in-chamber NCO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Hot water should not be",
+          "used when showering",
+          "as it will raise the vapor",
+          "point of the CS,",
+          "resulting in further",
+          "spreading of",
+          "contamination."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief soldiers on location of the eyewash station in range safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure that an eye",
+          "wash station is readily",
+          "available and operable."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief soldiers on location of the eyewash station in range safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Soldiers are not",
+          "wearing contact lenses;",
+          "individuals requiring",
+          "corrective eye lenses",
+          "will wear prescription",
+          "eyeglasses, with optical",
+          "inserts fitted to the",
+          "individuals protective",
+          "mask."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief soldiers in range safety brief and conduct checks before entering chamber."
+          ]
+        },
+        "who": {
+          "values": [
+            "Squad/team leaders, OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Improper Mask Fit",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Conduct PMCS on",
+          "masks prior to training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Use proper TM to conduct PMCS"
+          ]
+        },
+        "who": {
+          "values": [
+            "Soldier, Team leader"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Improper Mask Fit",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers with mask",
+          "leaks/issues will be",
+          "removed from chamber",
+          "until issue is resolved."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Conduct proper seal checks before entering chamber"
+          ]
+        },
+        "who": {
+          "values": [
+            "Pre-Chamber NCO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Improper Mask Fit",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Mask Fitting",
+          "Test is conducted prior",
+          "to the training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Schedule time for M41 PATS prior to training"
+          ]
+        },
+        "who": {
+          "values": [
+            "Company CBRN Specialist, Team Leader"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Hot Weather Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Soldiers are",
+          "adequately nourished",
+          "and hydrated."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Conduct leader checks prior to training"
+          ]
+        },
+        "who": {
+          "values": [
+            "Squad/Team Leader"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Hot Weather Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Identify and monitor",
+          "high risk personnel."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Mark the JSLIST of high risk personnel with red tape prior to execution"
+          ]
+        },
+        "who": {
+          "values": [
+            "Squad/Team Leader"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Hot Weather Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Soldiers are",
+          "trained on hot weather",
+          "injury/heat illness",
+          "symptoms and",
+          "treatment."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Include in range safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Encounters with Venomous Wildlife (Rodents, Snakes and Insects)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief soldiers on the",
+          "various types of wildlife",
+          "that are hazardous and",
+          "warn them not to handle",
+          "or harass the wildlife."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Include in range safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Encounters with Venomous Wildlife (Rodents, Snakes and Insects)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief Soldiers that if",
+          "they see wildlife, they",
+          "should back away from",
+          "it slowly and do not",
+          "touch it."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Include in range safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Inadequate Response to Mishap/Injured Personnel",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure multiple forms",
+          "of communication are",
+          "available; primary,",
+          "alternate, contingency,",
+          "emergency (PACE) and",
+          "operational."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Primary - Cell Phone Alternate - Runner"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Inadequate Response to Mishap/Injured Personnel",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Qualified and equipped",
+          "medical personnel will",
+          "be present to respond",
+          "to any mishap."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Positions medical personnel in most readily accessible area of training area"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Improper Ground Guiding",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Establish dismount",
+          "points, beyond which",
+          "vehicles may not move",
+          "without ground guides."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Enforce dismount point at entrance to range"
+          ]
+        },
+        "who": {
+          "values": [
+            "Gate guard"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Improper Ground Guiding",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ground guides will not",
+          "position themselves",
+          "between the vehicle",
+          "being guided and",
+          "another object."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief all soldiers on responsibilities as a safety"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Distracted Drivers",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Drivers will not use",
+          "headphones,",
+          "earphones, cell phones",
+          "or other personal",
+          "communication devices",
+          "while driving Army",
+          "Vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ensure soldiers are aware of all regulations and policies."
+          ]
+        },
+        "who": {
+          "values": [
+            "VC's, Team/Squad Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Failure to Communicate/Implement Control Measures",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Unit leadership will",
+          "conduct thorough",
+          "mission briefings."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Provide OPORD and DRAW to all personnel planning or executing training"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "CS Exposure",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "The improvised CS",
+          "generator will not",
+          "exceed 150 degrees",
+          "Celsius in order to",
+          "prevent hazardous",
+          "gases from forming"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Measure temperature of hot plate with hand held infrared thermometer after each iteration"
+          ]
+        },
+        "who": {
+          "values": [
+            "In-chamber NCO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Tactical Vehicle maneuvering IVO of Dismounts",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All vehicles will have licensed drivers, certified to drive at night, possess a valid 5988 and dispatch"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Vehicle Rollover During Movement",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "On paved portions of the main tank trails: 60 KPH (36 MPH).",
+          "On gravel portions of the main tank trails: 50 KPH (30 MPH).",
+          "Range roads: 30 KPH (18 MPH).",
+          "When passing troops: 16 KPH (10 MPH).",
+          "Maximum of 5mph if operating within 8 meters of dismounted troops or with a ground guide."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "CS Chamber/Mask\rConfidence Training"
+      },
+      "hazard": "Hazardous road conditions as a result of inclement weather (Heavy Rain, slippery roads, etc)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around GTA.",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "I assess the overall initial risk to be medium due to critical severity of seldom probability.\rI assess the overall residual risk to be low due to critical severity of unlikely probability.\r\rMost Dangerous Risk: Negative Reaction to CS Gas\rMitigation: Mask Confidence Training requires constant supervision. MOS qualified CBRN personnel will be stationed in positions where they are most capable of preventing injury due to exposure to CS. This will include the OIC, pre-chamber NCO, and in-chamber NCO at a minimum. Medical personnel will be present on the range at all times and will be fully equipped with the necessary equipment and materials to limit potential injuries from exposure to CS. The range will be equipped with an eyewash station to support medical personnel.  NCO's should verify soldiers possess a pair of protective mask inserts, if required. \r\rMost Likely Risk: Hot Weather Exposure\rMitigation: Soldiers will be briefed by the RSO/OIC on the location of the Medical personnel and water station, and symptoms of heat exhaustion. If any soldiers are identified with any heat injuries, they will be given to the Medical personnel for evaluation. A Strip Map to the hospital will be on hand.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (4)/20JUN24-CBRN Chamber DRAW.pdf",
+  "source_directory_id": 163,
+  "source_directory_name": "New folder - Copy (4)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

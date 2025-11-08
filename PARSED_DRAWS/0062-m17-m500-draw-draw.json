@@ -1,0 +1,429 @@
+{
+  "mission_task_and_description": "M17/M500 Qualification, (28FEB23-01MAR23)",
+  "date": "2023-02-14",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Villapiano, Elijah, M.",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader, 2/Bull",
+    "unit": "BTRP 1/2 CR",
+    "work_email": "elijah.m.villapiano.mil@army.mil",
+    "telephone": "+1 (201) 874-9156",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "Company Range",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Weapons will be carried at the low ready with the muzzle facing down range.",
+          "Soldiers are briefed on orientation downrange and how to load and unload weapons systems properly.",
+          "Ensure that a qualified medic with equipment is on site. Medic is requested by the training unit and briefed and inspected by the OIC and RSO prior to opening range.",
+          "Ensure that all Soldiers on the firing line are in proper PPE uniform."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Briefings -Lane Safety Checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "Cadre, OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Negligent Discharge",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure that only Range RSO/OIC clear/inspect all weapons before Soldiers leave the CT area.",
+          "Ensure all Soldiers on the are in the proper uniform.",
+          "Range OIC and RSO commence self-imposed check-fire if a unintentional discharge occurs.",
+          "All Soldiers will be released and validated by the CP/Beachmaster"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, lane safeties and individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Unauthorized removal of Ammunition from Range",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Cadre will supervise the employment of all weapon systems, if a weapon is possibly damaged, Cadre will certify the damage and annotate on a 2404.",
+          "Soldier weapons will be check by Cadre member before firing after a Soldier falls or drops weapon.",
+          "RSO/OIC will ensure that weapons are not left unsecured and are properly maintained."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Cadre Supervision and Oversight"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Damaged Weapon Systems",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Cadre will supervise the employment of all weapon systems, if a weapon is possibly damaged, Cadre will certify the damage and annotate on a 2404.",
+          "Soldier weapons will be check by Cadre member before firing after a Soldier falls or drops weapon.",
+          "Weapons will be restored in proper condition prior to be being turned into the arms room."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Range Safety Briefing to all Personnel"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Cold Weather Mitigation (Winter Months)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Cadre will monitor weather and adjust uniform accordingly.",
+          "Soldiers will pack and bring ECWCS level 1-2, 4-6 as well as winter sleeping bags with bivy cover for overnight stays.",
+          "The OIC/RSO is responsible for weather calls and uniform. OIC/RSO will also update daily risk management worksheet.",
+          "GP tents should be available with bullet heaters to offset cold exposure for a continued period of time."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Range Safety Briefing to all Personnel"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Cadre, Individual Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Evacuation"
+      },
+      "hazard": "Hypothermia/Overheating",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ice Sheets/Warming Blankets will be staged at various points as well as with the Medics.",
+          "Soldiers identified as a heat/cold weather injury will immediately be treated by Cadre and Medics.",
+          "Rehearsals for treatment will be conducted prior to range going hot."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Range Safety Briefing to all Personnel"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Medics, Cadre, Individual Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Convoy"
+      },
+      "hazard": "Traffic Entanglements, Roadside Breakdown, and Damage to HN Property",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "VCs/TCs ensure proper spacing between vehicles. CDR brief standard spacing and speed limit during safety brief, and makes appropriate changes during the operation via FM.",
+          "PMCS before, during, and after all movements."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Unit SOP, TACSOP, AER 55-1, AER 385-55, and Safety Briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commanders, VCs/TCs, and Small Unit Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Convoy"
+      },
+      "hazard": "Inexperienced Driver",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Conduct driver/TC/VC training.",
+          "New and inexperienced driver will be closely monitored in the event of hazardous weather or traffic conditions.",
+          "Driver may NOT use any device that may distract attention from driving (Cell phone, electronic device, etc).",
+          "OIC/RSO adjust speed based on driver capabilities as necessary.",
+          "Ensure operators are briefed and aware of pedestrian traffic on roads, intersections, and crosswalks."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "VC enforce AER 385-55 App G, Risk Management, and Safety Spot Checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "Small Unit Leadership and VCs/TCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Convoy"
+      },
+      "hazard": "Adverse environmental and road conditions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Convoy speed set according to weather conditions.",
+          "Delay departure if conditions are unfavorable.",
+          "Updated weather forecasts prior to each leg along the route."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SOPs, Weather Updates, and SITREPs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Evacuation"
+      },
+      "hazard": "Slips, trips, falls, musculoskeletal injuries, & other misc injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers execute PLT/COY STX in Full Dragoon Standard.",
+          "Care is taken in unknown areas with rough terrain during STX lanes execution.",
+          "Additional caution will be taken when executing night operations (if conducted).",
+          "Soldiers climbing on top of tactical vehicles wear a helmet and maintain 3-points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "Lane OIC/NCOICs understand and has briefed the real world casualty evacuation plan."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane OIC/NCOIC, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Fire Downrange",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Cease fire will be called and range control notified if there is a fire downrange. There will be two fire extinguishers available on site."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "RSO monitors downrange for fires"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane safeties, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Unsafe firing due to wildlife on range.",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers check firing positions prior to making any adjustments, cease fire is called if there is any wild life present on the range. Soldiers will not disturb wildlife."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, RSO monitors downrange for wildlife."
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane safeties, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Soldiers accidentally entering down range area",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range layout briefed during safety brief, fires take all commands from the tower, lane safeties monitor fires on range."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Lane Safeties and RSO monitor downrange area."
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane Safeties, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Fire in Ammo Holding Area",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Fire extinguishers will be present adjacent to the ammunition point IAW GTA SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, RSO/OIC will enforce smoking in designated smoking area at least 50m from Ammo Point."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Unauthorized personnel on the range",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firing will cease and range control will be notified if any unauthorized civilians are present."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Gate guards will direct any non-authorized personnel away from the range"
+          ]
+        },
+        "who": {
+          "values": [
+            "Gate Guards, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "I assess overall initial risk to be medium based upon catastrophic severity and unlikely probability, as well as critical severity of seldom possibility. I assess overall residual risk to be low based on critical severity of unlikely probability.\r\rMost Likely Risk: Cold Weather Injury \rMitigation: Cadre will monitor weather and adjust uniform accordingly, Soldiers will pack and bring appropriate cold weather gear. The OIC/RSO is responsible for weather calls and uniform.\r \rMost Dangerous Risk: Fratricide\rMitigation: An RSO to Shooter ratio will be 1:1 on each lane, all weapons will be inspected prior to coming off the range, Shooters will be familiarized and oriented to the range with left and right limits prior to WET status.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (20) - Copy/M17_M500 DRAW.pdf",
+  "source_directory_id": 62,
+  "source_directory_name": "New folder (20) - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

@@ -1,0 +1,286 @@
+{
+  "mission_task_and_description": "Bull Troop 1/2CR Platoon STX (UAC and PA355) with Stryker Platform from 2 - 5 APR 2024.",
+  "date": "2024-03-13",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Porcaro, Clayton, N",
+    "rank_grade": "1LT/O2",
+    "duty_title_position": "1 Bull Platoon Leader",
+    "unit": "B TRP, 1SQDN, 2CR",
+    "work_email": "clayton.n.porcaro.mil@army.mil",
+    "telephone": "+1 (509) 610-8336",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "Bull Troop PLT STX CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Misuse of Blank Ammunition/Pyro",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "RSO/OIC will ensure all weapons have a blank firing adapter prior to training.",
+          "No blank firing will occur within 10' of other Soldiers",
+          "Pyrotechnics will be used in areas free of obstruction; all Vehicles will have firefighting equipment",
+          "Medic will be present at all times on the range.",
+          "All firers will be qualified on their weapons systems",
+          "Squad maneuvers will have a safety assigned."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Safeties Supervision - Safety clears weapon before leaving firing area"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Negligent Discharge",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers wear Full Dragoon Standard during execution.",
+          "Soldiers have been taught proper handling of weapons systems.",
+          "Soldiers will not handle or fire weapons systems with which they are untrained.",
+          "Ammo Point will enusre only blank ammuniton is issued.",
+          "Soldiers will move with weapons on safe"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Brief, CONOP, Training Plan, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leaders will adhere to GTA UXO procedures IAW with Range SOP",
+          "Notify the Range Control Firing Desk upon discovery or creation. Mark grid location and halt training if it poses a direct threat to Soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, OC, Safeties, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition Transportation and Storage"
+      },
+      "hazard": "Improper handling of ammunition or explosives",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leaders ensure individuals who handle ammunition and pyrotechnics are trained on proper handling procedures and safety.",
+          "Soldiers must handle all ammunition with care.",
+          "Soldiers must wear eye protection and gloves while handing pyrotechnics, ammunition and crating/packaging material.",
+          "Leaders must enforce no smoking except in designated areas.",
+          "Have two ten (10) pound fire extinguisher(s) on hand at ammo point.",
+          "Separate incompatible lots/types of ammunition and explosives.",
+          "Ammo shakedown will be conducted after every iteration to ensure all ammunition is accounted for and only the proper ammunition is used for the following iteration"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "ACSOP, AR 385-64, DA PAM 385-64, AER 385-64, Risk reduction briefings, Leader Involvement. All Ammo Handlers Certified. AR/DA PAM 385-63/64 , Applicable FM/TM, or Accompanying Instructions"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammunition NCO and Ammunition Detail"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Tactical Vehicle maneuvering IVO of Dismounts Vehicle",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA according to GTA SOP.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform wearing a seatbelt, or standing with a restraint harness.",
+          "No crews will be outside of vehicles while firing or maneuvering.",
+          "Leaders understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Tactical Vehicles will use a ground guide when maneuvering within 10 meters of dismounts."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Hazardous road conditions as a result of inclement weather (Heavy Rain, slippery roads, etc)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around GTA according to GTA SOP.",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC. RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Improper Use of Weapons Systems and Lasers",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will be trained and qualified prior to range",
+          "All weapons will remain oriented in a safe direction.",
+          "Lasers will only be used while actively engaging targets"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, SOPs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Team Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Slips, trips, falls & other misc. injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will execute Qualification in Full Dragoon Standard.",
+          "Soldiers climbing on top of tactical vehicles wear a helmet and maintain 3-points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "OIC/RSO understands and has briefed MEDEVAC plan on the real world casualty evacuation plan.",
+          "A designated vehicle will be marked properly for CASEVAC/MEDEVAC at the range tower.",
+          "Driver and Medic/CLS certified person will be briefed on routes, and strip maps with coordinates of AXP stored in vehicle.",
+          "Medic will carry medic certification paperwork at all times.",
+          "Driver and Medic will remain with MEDEVAC Vehicle at all times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane OIC/NCOIC, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Equipment Loss",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period IAW WE SOP.",
+          "All issued sensitive items tied down IAW SOP.",
+          "Sensitive items inventory conducted IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, SOPs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "Range OIC/RSOs provide oversight and supervision over the ranges, making sure that all operations follow the appropriate safety precautions. The Tactical OPORDs and CONOPs will reflect a scenario supporting safe maneuver. The range has an RSO and constant access to the range tower radio and telephone to contact the Range Control Firing Desk and 7ATC as appropriate. In the event of a real word MEDEVAC event on site, Safeties and Training Support Personnel are responsible for ceasing fire on the range and communication directly with the OIC/RSO of the range to coordinate MEDEVAC. SUAS subject matter expert will be present during sUAS Operations.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (6) - Copy/20240204- PLT STX DRAW _ Signed.pdf",
+  "source_directory_id": 105,
+  "source_directory_name": "New folder (6) - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

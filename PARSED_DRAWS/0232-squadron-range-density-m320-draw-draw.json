@@ -1,0 +1,309 @@
+{
+  "mission_task_and_description": "M320 Qualification",
+  "date": "2024-12-06",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Beard, Sarah E",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "L TRP, 3/2CR",
+    "work_email": "sarah.e.beard8.mil@army.mil",
+    "telephone": "+1 703-304-1643",
+    "uic_cin": "WDA6L0",
+    "training_support_or_lesson_plan_or_opord": "CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Transportation"
+      },
+      "hazard": "Vehicle accidents in motor pool, roads, tank trail",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All vehicle movements in the the motor pool and at range have a ground guide.",
+          "VCs will be out of VC hatch, and there will be at least 1 rear air guard.",
+          "All vehicles receive proper PMCS before, during, and after every movement.",
+          "Drivers and VCs obey all traffic laws and speed limits.",
+          "Maintain at least 25m separation from vehicles.",
+          "Do not exceed more than 10mph on unimproved roads.",
+          "Wear proper harness, helmet, eye pro, kit when out of hatch. When riding inside the Stryker, wear helmet and kit.",
+          "If the roads are in Red status due to inclement weather, utilize snow chains when driving. If the roads are in Black status, do not drive anywhere unless approved by higher headquarters."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Every vehicle has at least one ground guide while vehicle is moving within the cantonment area, at the fuel point, or in tightly congested and/or hard-to-navigate terrain. - All vehicles receive proper PMCS before, during, and after every movement. Any vehicle possessing a deadlining fault will not depart the motor pool. - VCs are responsible for safe speed and spacing of their vehicle within the convoy. VCs verbally instruct their drivers on driving maneuvers and serve as ground guides when entering congested areas. VCs/air guards communicate overhead clearance and blind spots. - Conduct a ramp brief prior to SP: Order of march, speed, distance between vehicles, traffic considerations, recovery, weather considerations. - Conduct PCC/PCI of comms and safety equipment prior to SP"
+          ]
+        },
+        "who": {
+          "values": [
+            "PLT leadership, VCs, drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Transportation"
+      },
+      "hazard": "Vehicle break down",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "All vehicles will be inspected for recovery BII prior to departing for range.",
+          "Crews will refresh recovery operations prior to departing for range."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Deliberate PCC/PCI and rehearsals prior to date of execution."
+          ]
+        },
+        "who": {
+          "values": [
+            "PLT leadership, VCs, drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Transportation"
+      },
+      "hazard": "Vehicular accidents due to wintry conditions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Maintain at least 25m separation from vehicles, and increase following distance as road conditions worsen.",
+          "Do not exceed more than 10mph on unimproved roads, and decrease speed as road conditions worsen.",
+          "Utilize snow chains on tires when tank trail status is Red status. If the roads are in Black status, do not drive anywhere unless approved by higher headquarters."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Conduct a ramp brief prior to SP: Order of march, speed, distance between vehicles, traffic considerations, recovery, weather considerations. - Conduct PCC/PCI of comms and safety equipment prior to SP. - Continually monitor weather conditions and USAG Bavaria road conditions. Adjust based on the situation on the ground and guidance from the Squadron and Troop Commander Teams."
+          ]
+        },
+        "who": {
+          "values": [
+            "PLT leadership, VCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Environmental"
+      },
+      "hazard": "Cold weather injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers are authorized to wear cold weather gear while stationary or doing light movement.",
+          "Everyone will continue to hydrate, drinking water throughout training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Soldiers are briefed on how to properly acclimatize to and dress for the weather expected during the training event. - Anyone exhibiting signs of cold weather injuries will be taken to the medic and their leaders will be notified as well."
+          ]
+        },
+        "who": {
+          "values": [
+            "PLT Leadership, SLs, TLs, Medics"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execution"
+      },
+      "hazard": "Improper ammo handling, storage, and distribution",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ammo will not be placed directly on the ground- utilize pallets and tarps provided by distro and bring extras in case there are not enough provided.",
+          "Ammo will be separated IAW yellow book.",
+          "Inspect all ammo prior to distribution and do not issue faulty ammo.",
+          "Leaders must ensure individuals who handle ammunition are trained on proper handling procedures and safety.",
+          "Leaders must enforce no smoking except in designated areas",
+          "Have ten pound fire extinguishers on hand",
+          "Separate incompatible lots/types of ammunition and explosives",
+          "Do not transport ammo and personnel on the same vehicle"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- A separate area for live ammo and dunnage turn-in is established and maintained by an ammo detail. - The ammo detail has an NCOIC at all times who is responsible for issuing/receiving ammo."
+          ]
+        },
+        "who": {
+          "values": [
+            "Range OIC, Support Personnel, Ammo NCOIC, Ammo Detail"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execution"
+      },
+      "hazard": "Soldiers not understanding range procedures/committing unsafe acts",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers receive a range safety brief prior to day and night firing.",
+          "Safeties reinforce safety standards as needed during the conduct of the range.",
+          "Safeties do not participate in training. They only focus on ensuring the safe conduct of the range."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- OIC conducts a range safety briefing before iterations. At a minimum, the range safety brief includes: admin areas, ammo safety, target descriptions and identification, procedures for entering and exiting off the range, contingency planning (fires, wildlife present, cease-fire procedures, weapons malfunction, etc.) and medical evacuation procedures. - Each maneuver safety will inspect weapon status of their designated element to reconfirm that all weapons are clear before exiting the range."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safety NCOs, PLT Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execution"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Brief all Soldiers on procedure when finding a UXO.",
+          "Cease fire, clear the area surrounding the UXO.",
+          "Mark UXO, call EOD and Range Operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execution"
+      },
+      "hazard": "Rounds impacting outside range fan",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Prior to execution, troops will receive a brief on the approved SDZ and locations of Range fans.",
+          "Range orientation brief during daily range safety brief by RSO.",
+          "Range fans clearly marked and visible.",
+          "Weapon systems properly cleared before leaving the firing line."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range orientation brief from the OIC/RSO prior to training, identify range fans before each iteration."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, OIC, safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execution"
+      },
+      "hazard": "Weapons malfunction or misfire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief and practice misfire procedures during PMI and on the range.",
+          "Ensure weapons and ammo are clean and free of damage prior to use. If there is any faulty or damaged ammunition or equipment, do not use it.",
+          "Ensure proper ammunition is used."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- All Soldiers undergo a PMI with their assigned weapons systems prior to conducting the live fire. - In the event of a weapons malfunction or ND, the Soldier will execute immediate and remedial action to fix the malfunction. - Safeties visually inspect each weapon prior to execution. - All weapons are on safe when not engaging target. - Weapons remain pointed downrange during execution."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, safeties, shooters"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Execution"
+      },
+      "hazard": "Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Treat every weapon as if it is loaded and keep it pointed down range.",
+          "Weapons will not be loaded until the Soldier is on the firing line, pointing their weapon down range, ready to fire.",
+          "Medical personnel on site and ready to respond. Immediate aid rendered by nearby personnel.",
+          "Range immediately put in Cease Fire Status.",
+          "The MEDEVAC vehicle will have a designated area with enough space allowing easy deployment and return. The MEDEVAC vehicle will contain a copy of the MEDEVAC route and location of the AXP.",
+          "MEDEVAC rehearsal and route rehearsal to AXP conducted prior to live fire training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Safety brief - The lead medic will brief his plan for MEDEVAC including the route. Medics will conduct a rehearsal as well as route recon. The Senior Medic will brief the MEDEVAC procedures and route to all personnel on the range during the safety brief. All vehicles are inspected for MEDEVAC strip map and procedures."
+          ]
+        },
+        "who": {
+          "values": [
+            "Medics, OIC, RSO, VCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": null,
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (56)/Squadron Range Density- M320 DRAW.pdf",
+  "source_directory_id": 232,
+  "source_directory_name": "New folder - Copy (56)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

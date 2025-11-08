@@ -1,0 +1,198 @@
+{
+  "mission_task_and_description": "3PLT Iron Troop 3d Squadron 2d Cavalry Regiment Executing on 18OCT2024",
+  "date": "2024-08-29",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Winston, Joshua R",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "I Troop 3/2 CR",
+    "work_email": "Joshua.R.Winston.mil@army.mil",
+    "telephone": "+49 151 21747387",
+    "uic_cin": "WDA6J0",
+    "training_support_or_lesson_plan_or_opord": "See LFX CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Medical"
+      },
+      "hazard": "Hot / Cold weather casualties",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range OIC will adjust",
+          "daily risk assessment as",
+          "conditions change.",
+          "All heat mitigation",
+          "equipment - ice sheets,",
+          "and water cans present",
+          "during training.",
+          "Designated periods of",
+          "low activity will be",
+          "included in the training",
+          "schedule.",
+          "Water point will be",
+          "briefed prior to execution",
+          "and made available to all",
+          "Soldiers to use",
+          "Leaders and medics will",
+          "enforce hydration and",
+          "constantly monitor for",
+          "symptoms of heat",
+          "exhaustion.",
+          "C.O.L.D. - keep it Clean,",
+          "prevent Overheating,",
+          "keep it Loose, keep it",
+          "Dry.",
+          "Dry and appropriate cold",
+          "weather clothing utilized",
+          "if weather permits.",
+          "Cold weather clothing included on the Range packing list."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief Packing List"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Safeties Medics Individual Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Obstacle Course Set-up"
+      },
+      "hazard": "-Slips/Trips/Falls -Uneven Ground -Objects on Walking Path -Personal Injuries (Eye, hand, head, back)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Personnel are",
+          "Briefed on Obstacle course conditions",
+          "Ensure Personnel stay",
+          "aware of their",
+          "surroundings",
+          "Ensure water is on hand",
+          "Ensure Personnel have",
+          "Proper PPE to complete obstacles"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Brief -Situational Awareness"
+          ]
+        },
+        "who": {
+          "values": [
+            "-OIC/NCOIC/RSO -Leaders -All"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Obstacle Course Execution"
+      },
+      "hazard": "Personal Injuries -Slips/Trips/Falls -Struck-by -Fatigue",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Personnel have proper Authorized Equipment (PPE)",
+          "Two-man-lift/Buddy System",
+          "Ensure stay Hydrated",
+          "Safety pads are placed underneath the confidence climb, Tough One, and Weaver",
+          "Ensure there is a spotter for the Low Belly Over, Wall Hanger, and Weaver",
+          "Ensure safety personnel are present prior to the execution of the confidence climb, Tough one, and Slide for Life",
+          "Ensuring soldiers are in the correct uniform at all times"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Briefs -Personnel/Equipment Checks -Safety Pads"
+          ]
+        },
+        "who": {
+          "values": [
+            "-OIC/NCOIC/RSO -Leaders -All"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Support"
+      },
+      "hazard": "-Injury to personnel execution the Obstacle Course",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Medical Personnel is on Standby",
+          "Ensure participants know where the Medic is located",
+          "Using the correct safety equipment on the range"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Brief -Designate Area -Safety Equipment"
+          ]
+        },
+        "who": {
+          "values": [
+            "-OIC/NCOIC/RSO -Safety Personnel -All"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "Causality Evacuation Vehicle"
+      },
+      "hazard": "-Vehicle for Multiple use -Personnel Not Trained -CLS/First Aid Equipment Incomplete -Missing Fire Extinguisher",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Vehicle is Assigned for EVAC Only",
+          "Ensure Operator Remains with Vehicle",
+          "Ensure Vehicle has Required Emergency Equipment",
+          "Vehicle will have a Fire Extinguisher",
+          "Ensure Personnel Know the Location of the Vehicle"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Brief -Designate/Mark Vehicle -Equipment Inspection"
+          ]
+        },
+        "who": {
+          "values": [
+            "-OIC/NCOIC/RSO -Safety Personnel -CLS/Medical Personnel -All"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "This is a living document. Newly identified risks will be recorded and mitigated accordingly and risk acceptance will be approved at the appropriate level.\r\rThe OIC, RSO, and range leadership will conduct a range safety brief prior to all live fire training. The OIC and RSO are overall responsible for safety. However, team leaders, squad leaders, and safeties have the responsibility to be actively engaged in range activities and Soldier actions so as to mitigate risk at the lowest level possible and ensure overall safety for the training event. \r\rRange OIC all first line supervisors are responsible for all actions on the range. Vehicle movement will be restricted on the range once Soldiers are dismounted. All vehicles will be ground guided and parked in designated area. Troops are briefed on the route, travel speed, trail distance, fire drills, roll over drills, communication plan and vehicle safety prior to SP. CASEVAC Vehicle (Arranged by Range OIC) is on sight.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (5)/OBS COURSE DRAW 17OCT2024.pdf",
+  "source_directory_id": 225,
+  "source_directory_name": "New folder - Copy (5)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

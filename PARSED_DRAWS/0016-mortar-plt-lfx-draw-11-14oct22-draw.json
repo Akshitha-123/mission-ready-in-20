@@ -1,0 +1,421 @@
+{
+  "mission_task_and_description": "MORTARS PLT LFX\r(11-14OCT22)",
+  "date": "2022-08-22",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Arghavani, Daniel, M",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "HHT, 1 SQDN, 2CR",
+    "work_email": "daniel.m.arghavani.mil@mail.mil",
+    "telephone": "+491624828213",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "MORTEP LFX",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "MORTAR LIVE FIRE"
+      },
+      "hazard": "FIRING OUTSIDE OF TARGET AREA",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "FDC will assure the deflection and",
+          "elevation given by the FO does not exceed range limits.",
+          "OIC and RSO will have prior knowledge of left and right limits, maximum and minimum elevations and will verify for each mission/correction. OIC will use safety circle to verify 60mm/81mm properly laid in."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "FDC, Section Sergeant, Evaluator, OIC/RSO and Mortar Platoon Leadership will consistently check target grids and data sent to FDC to compute fire missions. SOP #3 is on hand to reference SDZs."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC, FDC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MORTAR LIVE FIRE"
+      },
+      "hazard": "IMPROPER ROUND USAGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Rounds are clearly separated",
+          "by type (HE, FRTR, Illum) and size (120mm, 81mm, 60mm). Dunnage is separated. Only",
+          "rounds used for the day are broken down. Only one type of round broken down at a time."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ammo detail under consistent NCO leadership will be committed to running the ammo point. Mortar Leadership will ensure only the correct ammo is being issued and that issue and dunnage return is centralized and controlled."
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammo Detail, Mortar Leadership,OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MORTAR LIVE FIRE"
+      },
+      "hazard": "IMPROPER HANDLING OF MORTAR ROUNDS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will be briefed and",
+          "trained on the proper storage, handling and firing of the mortar",
+          "rounds."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All Mortar Platoon Leadership, Evaluator, and Range OIC / RSO will ensure mortar rounds are handled with constant care and stored in pre authorized and designated areas."
+          ]
+        },
+        "who": {
+          "values": [
+            "FDC, Section Sergeant, Platoon Sergeant, Platoon Leader, Evaluator, Range OIC, Range RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MORTAR LIVE FIRE"
+      },
+      "hazard": "DETONATION NEAR THE FIRING LINE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All soldiers will wear proper protective",
+          "equipment on the firing line to mitigate the effects of any blast. The",
+          "uniform is either a chicken vest or IOTV (plates in), ACH, ear protection, eye protection, OCPs (full) and knee",
+          "pads (no gloves)."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "NCOs, followed by Mortar Platoon Leadership and RSO will perform PCC and PCIs on soldiers to ensure everyone is in the correct uniform before firing."
+          ]
+        },
+        "who": {
+          "values": [
+            "Mortar Leadership, OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MORTAR LIVE FIRE"
+      },
+      "hazard": "MORTAR HANG FIRES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "After all Soldiers move back to a safe distance, the gun crew will",
+          "conduct hang fire procedures in",
+          "accordance with the applicable Technical Manual.",
+          "All Soldiers will announce the hang fire to the gun line."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Mortar hang fire procedures will be briefed and rehearsed prior to start of the live fire."
+          ]
+        },
+        "who": {
+          "values": [
+            "FDC, Section Sergeant, Platoon Sergeant, Platoon Leader, Evaluator, OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MORTAR LIVE FIRE"
+      },
+      "hazard": "MORTAR MISS FIRES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers on the firing line will announce the miss fire.",
+          "The gun crew will",
+          "conduct miss fire procedures in",
+          "accordance with the applicable Technical Manual."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Mortar miss fire verbal announcement procedures will be briefed and rehearsed prior to start of the live fire."
+          ]
+        },
+        "who": {
+          "values": [
+            "FDC, Section Sergeant, Platoon Sergeant, Platoon Leader, Evaluator, OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MORTAR LIVE FIRE"
+      },
+      "hazard": "MORTAR MISS FIRES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "If the round does not fire, the round will be extracted and placed in the dud pit."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "60mm, 81mm, and RMS6L 120mm Stryker Misfire Procedures will have already been trained and tested on during MORTEP Gunners Training. Additional mandatory Misfire training will take place at the start of each day prior the live fire for ALL 11C's on site."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO and section NCO's will enforce movement requirements"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MORTAR LIVE FIRE"
+      },
+      "hazard": "EQUIPMENT MALFUNCTIONS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All equipment involved in Mortar firing will be serviced prior to the",
+          "training cycle and be inspected before each Table and live firing",
+          "day."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Squad and Section Leaders ensure their tubes are up to date on pullback test and guns are bore sited. PL inspects TULSA accounts to make sure tubes are up to date and properly annotated. Squad Leaders and operators PMCS according to the TM before and after each event. Aiming Circles declinated within 3 weeks of LFX."
+          ]
+        },
+        "who": {
+          "values": [
+            "FDC, Section Sergeant, Platoon Sergeant, Platoon Leader, Evaluator, OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENT"
+      },
+      "hazard": "SEVERE WEATHER",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Monitor local weather for possible extremes in heat, thunderstorm activity, high winds, etc Avoid",
+          "working in open areas when lightning is observed."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "MORTEP Planning OIC and Mortar Platoon RTO will consistently monitor the weather and radar. Alibi days have been built into schedule to allow for weather caused make up days."
+          ]
+        },
+        "who": {
+          "values": [
+            "Platoon Leader, RTO, Range OIC, Range RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENT"
+      },
+      "hazard": "SLIPS, TRIPS, FALLS, MUSCULOSKELETAL INJURIES, & OTHER MISC INJURIES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers wear all assigned PPE, care is taken in unknown areas with rough terrain during execution. Additional caution will be taken when executing night operations. Leaders maintain close control of Soldiers to identify potential hazards."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, Rehearsals, Dragoon Standard Uniform"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EQUIPMENT"
+      },
+      "hazard": "PINCH POINTS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will wear proper PPE and exercise caution when working with Stryker variants. Helmets always worn on vehicle and maintain three points of contact."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefing, Training, PCC/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander, OIC/NCOIC, RSO, VCs, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EQUIPMENT"
+      },
+      "hazard": "SPILLS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All materials properly marked. HAZMAT clean up equipment on hand and ready."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "C/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "COLLISIONS WITH MILITARY OR CIVILIAN MOTOR VEHICLES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Mortars will move together in a convoy IOT to maximize control on range roads. Vehicles obey posted speed limits, following distances, and general awareness of civilian and other military traffic. Vehicles each have radios and JBCP and conduct commex."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander, OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "DRIVER FATIGUE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be given an in-depth safety briefing concerning road safety. Convoy Commander and Leaders will monitor Soldiers and convoy operations. Proper rest plan in place."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander, OIC/NCOIC, RSO, VCs, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM TRAINING AREA"
+      },
+      "hazard": "IMPROPER VEHICLE LOADING",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Remind soldiers to make sure brakes are set, engine is off, and at least",
+          "one wheel is chocked during loading and unloading"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Chock blocks and drip pans are required and will be inspected as soon as the MCV sets in position for the gunner. Any additional vehicles must set drip pan and chock block in once arrived on site."
+          ]
+        },
+        "who": {
+          "values": [
+            "Leadership, Range OIC, Range RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "RSO and OIC will orient soldiers to the range and conduct a safety brief each day prior to execution and each evening prior to limited visibility operations. NCOs will safety each other and all Soldiers. Safety will be monitored from Platoon Leader to Soldier and vice versa in order to ensure safe conduct of this LFX.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/23/Mortar PLT LFX DRAW (11-14OCT22).pdf",
+  "source_directory_id": 16,
+  "source_directory_name": "23",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

@@ -1,0 +1,224 @@
+{
+  "mission_task_and_description": "Bull Troop Dismounted Land Navigation 24 JUNE 2025",
+  "date": "2025-05-01",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Eckstrom, Ian, T",
+    "rank_grade": "2LT/O1",
+    "duty_title_position": "3 Bull 1/2 CR Platoon Leader",
+    "unit": "1/2 CR",
+    "work_email": "Ian.t.eckstrom.mil@army.mil",
+    "telephone": "Cell: +49 15120631855",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "Bull Troop Dismounted Land Navigation",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": null
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Leaders will adhere to GTA UXO procedures IAW with Range SOP",
+          "Notify the Range Control Firing Desk upon discovery or creation. Mark grid location and halt training if it poses a direct threat to Soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, OC, Safeties, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Tactical Vehicle maneuvering IVO of Dismounts",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA according to GTA SOP.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform wearing a seatbelt, or standing with a restraint harness.",
+          "No crews will be outside of vehicles while firing or maneuvering.",
+          "Leaders understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Tactical Vehicles will use a ground guide when maneuvering within 10 meters of dismounts."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Hazardous road conditions as a result of inclement weather (Heavy Rain, slippery roads, etc)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around GTA according to GTA SOP.",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC. RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training Area Operations"
+      },
+      "hazard": "Slips, trips, falls & other misc. injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will execute Qualification in Full Dragoon Standard.",
+          "Soldiers climbing on top of tactical vehicles wear a helmet and maintain 3-points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "OIC/RSO understands and has briefed MEDEVAC plan on the real world casualty evacuation plan.",
+          "Driver and Medic/CLS certified person will be briefed on routes, and strip maps with coordinates of AXP stored in vehicle.",
+          "Medic will carry medic certification paperwork at all times.",
+          "Driver and Medic will remain with MEDEVAC Vehicle at all times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane OIC/NCOIC, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training Area Operations"
+      },
+      "hazard": "Equipment Loss",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and following each iteration.",
+          "All sensitive items tied down IAW SOP.",
+          "Sensitive Item inventory conducted following training IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Leader involvement, inventories, thorough PCC/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "All Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training Area Operations"
+      },
+      "hazard": "Loss/Injury of personnel on land navigation course",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will be briefed on panic azimuths.",
+          "Each Soldier will carry a water source on the course",
+          "Designated CASEVAC vehicle and driver will be on standby",
+          "100% accountability will be conducted at the end of each iteration.",
+          "Safeties will be placed at each point."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO, Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training Area Operations"
+      },
+      "hazard": "Risk of Heat Exposure",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will carry a minimum of 2 quarts water on them at all times",
+          "Training will be conducted on RZ India which has numerous bodies of water to dunk.",
+          "Soldiers will be given 5 hours to find 3 points"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The OIC is ultimately responsible for the conduct of the training area, and will continuously monitor all aspects of operations and provide updated risk assessments to the Commander as the situation develops. Safeties will remain with each element throughout training. Platoon leadership will be present with each element. In the event of a real world MEDEVAC event on site, Safeties and Training Support Personnel are responsible for ceasing training and communicating directly with the OIC to coordinate MEDEVAC.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (32)/Land Nav DRAW_AJS.pdf",
+  "source_directory_id": 159,
+  "source_directory_name": "New folder - Copy (32)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

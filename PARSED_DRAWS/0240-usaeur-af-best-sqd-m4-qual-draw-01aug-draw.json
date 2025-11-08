@@ -1,0 +1,382 @@
+{
+  "mission_task_and_description": "2nd PLT, Killer Troop conducts M4 group and zero and qualification on ranges 124 and 126 on 01 August 2024 ISO USAEUR-AF Best SQD Competition.",
+  "date": "2024-06-27",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Golden, Dylan H",
+    "rank_grade": "2LT/O1",
+    "duty_title_position": "Platoon Leader",
+    "unit": "3/2CR, K TRP",
+    "work_email": "dylan.h.golden.mil@army.mil",
+    "telephone": "+49 15115288568",
+    "uic_cin": "WDA6K0",
+    "training_support_or_lesson_plan_or_opord": "USAEUR-AR Best SQD M4 CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Movement to Range"
+      },
+      "hazard": "Vehicular Accident",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Convoy Leaders will give ramp brief prior to movement. Vehicle Crews will wear all required PPE while operating tactical vehicles. Vehicles will follow range roads and use ground guides in parking areas."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ramp Brief, Proper PPE, Ground Guides, Follow Roads"
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Crews, Convoy Leaders, Training Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Execution"
+      },
+      "hazard": "Rounds Impacting Outside Range Fan",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Prior to execution, troops will receive a brief on the approved SDZ and locations of Range fans.",
+          "Range orientation brief during daily range safety brief by RSO.",
+          "Range fans clearly marked and visible.",
+          "Weapon systems properly cleared before leaving the firing line."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range orientation brief from the OIC/RSO prior to training, identify range fans before each iteration."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/ OIC Range Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Execution"
+      },
+      "hazard": "Negligent Discharge or Weapon Malfunction Causing Bodily Harm",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will wear all",
+          "required PPE while on the range.",
+          "All Soldiers will be",
+          "briefed on their",
+          "respective firing lane and",
+          "certify preliminary",
+          "marksmanship and",
+          "misfire procedures prior",
+          "to execution of live",
+          "iterations.",
+          "Lane safeties and the OIC / RSO will ensure weapon systems are properly oriented downrange and operating in a safe manner at all times.",
+          "Weapon systems will not",
+          "be loaded prior to arrival",
+          "at firing line.",
+          "Weapons will be visual cleared by RSO following completion of the lane.",
+          "All weapons will be inspected by SL prior to moving to any range.",
+          "Weapons will be pointed downrange at all times away from personnel when loaded.",
+          "Ensure a Medic and a dedicated evacuation vehicle is available at all times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PMI Conduct safety brief prior to each range Clear all soldiers on and off the range"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/ OIC Range Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Execution"
+      },
+      "hazard": "Unauthorized Range Access",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Gate guards will be",
+          "posted at all entry points to the range and at high traffic areas.",
+          "Communications with",
+          "the OIC Gate Guards",
+          "will be maintained at all",
+          "times.",
+          "Gate Guards will have",
+          "shifts that are not",
+          "excessive in length and",
+          "be provided supplies to",
+          "support their mission",
+          "(water, batteries,",
+          "frequencies, etc.).",
+          "Brief all participants to immediately report potential unauthorized access on the Range or in the live fire area to the OIC and RSO."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Brief Troops to Task - Gate Guards OIC/RSO Supervision"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Gate Guard personnel"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Execution"
+      },
+      "hazard": "Shooting while transitioning",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "RSO/OIC will ensure proper safety brief and explanation of tables to ensure understanding at the lowest level.",
+          "5 Safeties on 5 lanes will ensure that safety is maintained.",
+          "Weapons will always be downrange or oriented to the ground."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief PMI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Execution"
+      },
+      "hazard": "Hearing Loss",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Safeties check for hearing protection, to ensure Troopers have standard issue protection or they will be provided hearing protection prior to firing weapon."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs Lane Safeties"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Execution"
+      },
+      "hazard": "Eye Injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Firers will wear approved ballistic eye wear while at the range to prevent expelled brass, dirt, dust, and debris from damaging their eyes."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs Lane Safeties"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition"
+      },
+      "hazard": "Combustions / Fire at the ammo point",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ammo point will have at",
+          "least two 10 pound fire extinguishers on hand.",
+          "No smoking withing 50m of ammo point",
+          "Ammo will be stored in accordance with QUASAS Range OPS, and 2CR policy."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ammo point inspected by RSO and OIC"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC NCOIC Ammo Point"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Enviromental"
+      },
+      "hazard": "Inclement weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Reduce vehicle speed based on road condition",
+          "Use of ground guides and chem lights during poor visibility due to weather.",
+          "If lightning is in the immediate area all personnel will move to the nearest grounded hard stand structure or spread out in low ground away from all equipment."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief inclement weather condition and safety measures during safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Enviromental"
+      },
+      "hazard": "Fire on the Range",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "OIC will monitor temperature and humidity of ground surface.",
+          "Verify fire danger posted by Range Operation daily.",
+          "Identify fire team and have appropriate FFE on-hand and ready.",
+          "OIC will place range in \"DRY\" status and notify Range Operation."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief Fire fighting detail"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Fire fighting detail"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Enviromental"
+      },
+      "hazard": "Wildlife on Range",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will be briefed to leave wildlife alone.",
+          "Should wildlife be",
+          "present on a lane during",
+          "live fire, the lane safety",
+          "will halt the course of",
+          "fire. If wildlife does not",
+          "move from lane, the",
+          "range will be shutdown",
+          "until the animal moves",
+          "off the range, if animal",
+          "does not move, Range",
+          "Control will be called."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO Safeties All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Enviromental"
+      },
+      "hazard": "Hot Weather Injury",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ensure a Medic and a dedicated evacuation vehicle is available at all times.",
+          "Ice sheets, dunk tank, and arm immersion tank will be present at the range to treat any hot weather injuries."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief hot weather condition and safety measures during safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Safeties Medic"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The OIC, RSO, and range leadership will conduct a range safety brief prior to all live fire training. The OIC and RSO are overall responsible for safety. However, safeties and instructors have the responsibility to be actively engaged in range activities and soldier actions so as to mitigate risk at the lowest level possible and ensure overall safety for the training event. Safety briefs and inspections will also ensure all other mentioned risks are properly mitigated. At least one vehicle and medic will be on site in the unlikely event of any serious injuries.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (63)/USAEUR_AF Best SQD M4 qual DRAW 01AUG.pdf",
+  "source_directory_id": 240,
+  "source_directory_name": "New folder - Copy (63)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

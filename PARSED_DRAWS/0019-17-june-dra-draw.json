@@ -1,0 +1,227 @@
+{
+  "mission_task_and_description": "HHT Mortars, 1/2CR PLT/Sections STX 15-16 APR 25",
+  "date": "20250409",
+  "prepared_by": {
+    "name_last_first_middle_initial": "SMITH, PETER, C.",
+    "rank_grade": "1LT",
+    "duty_title_position": "PLATOON LEADER",
+    "unit": "HHT MORTARS,1/2CR",
+    "work_email": "peter.c.smith54.mil@army.mil",
+    "telephone": "314-599-3209",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "HHT Mortars PLT/SEC STX 15-16 APR",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "MANUEVER"
+      },
+      "hazard": "MANUEVERING IVO OF DISMOUNTS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA.",
+          "Maximum of 5mph if operating within 8 meters of dismounted troops or with a ground guide.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform with a seatbelt, or standing with a restraint harness.",
+          "Soldiers will be no higher than name-tape defilade if standing/outside of vehicle while it is moving.",
+          "Leaders understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Soldiers will sleep only in designated areas IAW War Eagle SOP.",
+          "Tactical Vehicles will use a ground guide when maneuvering within 10 meters of dismounts.",
+          "At night sleeping areas will be marked with chem lights and vehicles will not move once security has been established."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety & Ramp Briefs, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MANUEVER"
+      },
+      "hazard": "Vehicle Recovery Operations",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Any Vehicle recovery will be communicated up to the Commander.",
+          "Training: Ensure all personnel involved are trained in recovery procedures and equipment handling.",
+          "Pre-Operation Checks: Inspect the recovery vehicle, equipment, and surroundings for issues before starting.",
+          "Emergency Procedures: Establish clear response protocols for unexpected situations like equipment failure or injury.",
+          "Load Limits: Adhere to recommended load capacities for recovery tools to avoid over-strain.",
+          "Communication: Use clear and consistent hand signals or radios for team coordination."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety & Ramp Briefs, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "MANUEVER"
+      },
+      "hazard": "Hazardous road conditions as a result of inclement weather (Heavy Rain, slippery roads, etc)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around GTA according to GTA SOP.",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "Vehicles will monitor road conditions released by squadron to adhere to release authority standards. (Amber-CO, Red-SCO)"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MANUEVER"
+      },
+      "hazard": "Slips, trips, falls, miscellaneous injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers climbing on top of vehicles will wear helmets and maintain three points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "Medics are on hand, in designated MEDEVAC vehicle, and ready to respond during iterations.",
+          "MEDEVAC vehicle will meet all GTA requirements (marked in 4 locations, ability to lay litter flat).",
+          "Medics will conduct a full dress rehearsal for CASEVAC prior to SQD STX."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, CONOP distribution, coordination with Medics."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Medics, leaders."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MANUEVER"
+      },
+      "hazard": "Loss of communications with Range Control",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "If communications are lost, OIC will call cease fire until communications can be regained.",
+          "OIC/RSO utilize PACE plan (DSN, FM, cell phone, Staff duty base station)."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "OIC/RSO preparation, Safety brief."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MANUEVER"
+      },
+      "hazard": "Cold Casualty",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "OIC will monitor weather and include signs of cold weather injuries in safety brief if relevant",
+          "OIC/RSO/Medics understands and has briefed MEDEVAC plan on the real world casualty evacuation plan."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MANUEVER"
+      },
+      "hazard": "Inclement Weather",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Shelter in place location identified in safety brief",
+          "Monitor radar for incoming storms",
+          "follow guidance from range operations",
+          "listen for thunder, look for lightning"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Leadership, Training Population"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": null,
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/26/17 June DRA.pdf",
+  "source_directory_id": 19,
+  "source_directory_name": "26",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

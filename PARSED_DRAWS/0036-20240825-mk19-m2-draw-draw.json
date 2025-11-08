@@ -1,0 +1,655 @@
+{
+  "mission_task_and_description": "Mustang Troop conducts M2 .50 CAL & MK19 Ranges from 26-27 AUG 2024 during the 2CR Q4 range density week.",
+  "date": "2024-07-25",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Milauskas, John, R.",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "HHT, 1/2 CR",
+    "work_email": "john.r.milauskas.mil@army.mil",
+    "telephone": "314-599-3209",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "Mustang Troop M2 .50 CAL & MK19 Range 26-27AUG24",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "AMMUNITION STORAGE/ISSUE"
+      },
+      "hazard": "FIRE/EXPLOSION",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Keep area within 50",
+          "feet of ammunition clear",
+          "of vegetation, refuse,",
+          "empty packing",
+          "materials, and other fire",
+          "hazards."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range OIC and RSO will brief ammo detail on all regulations IAW GTA SUP and GTA SOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammo NCO, ammo detail, OIC, & RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AMMUNITION STORAGE/ISSUE"
+      },
+      "hazard": "FIRE/EXPLOSION",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Verify appropriate",
+          "number and type of fire",
+          "extinguishers are on",
+          "hand."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ammo NCO and Range OIC will verify all fire extinguishers are in tolerance and in accordance with QASAS regulations"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammo detail, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AMMUNITION STORAGE/ ISSUE"
+      },
+      "hazard": "FIRE/ EXPLOSION",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Verify appropriate number",
+          "and type of fire",
+          "extinguishers are on hand",
+          "and ensure that the ammo",
+          "point is clear of any hazards",
+          "and cellphones are not",
+          "used within proximity of",
+          "ammo. No smoking or",
+          "vaping on or near ammo",
+          "point"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ammo detail will ensure that all residual fire hazards such as wooden boxes and other items that can cause a fire are removed from the ammo point and ensure that cellphones are not used"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammo detail, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AMMUNITION STORAGE/ ISSUE"
+      },
+      "hazard": "FIRE/EXPLOSION",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range OIC will ensure",
+          "that all range detail",
+          "soldiers are briefed on",
+          "fire fighting",
+          "responsibilities and",
+          "proper use of fire",
+          "extinguishers"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Firecon memo will be approved, signed and brief down to the established firefighting detail"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammo detail, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AMMUNITION STORAGE/ ISSUE"
+      },
+      "hazard": "IMPROPER POSITIONING OF AMMUNITION",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ammunition will be",
+          "stored and issued IAW",
+          "GTA SUP and GTA SOP"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ammunition will only be placed on the ammo pad and will not be issued until all criteria has been met IAW GTA SOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammo detail, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AMMUNITION STORAGE/ ISSUE"
+      },
+      "hazard": "IMPROPER POSITIONING OF AMMUNITION",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ensure ammunition is",
+          "protected from",
+          "environmental",
+          "elements."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ammo detail will utilize non-flammable tarps when storing ammunition"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammo detail, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MANUEVERING VEHICLES ON GTA"
+      },
+      "hazard": "TACTICAL VEHICLE MANEUVERING IVO DISMOUNTS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA. Speed will be reduced during hours of limited visibility",
+          "Speed limit is based on the following: Road Conditions, Vehicle Type and Visibility.",
+          "Normal Driving Conditions:",
+          "On paved portions of the main tank trails: 60 KPH (36 MPH).",
+          "On gravel portions of the main tank trails: 50 KPH (30 MPH).",
+          "Range roads: 30 KPH (18 MPH).",
+          "When passing troops: 16 KPH (10 MPH).",
+          "Maximum of 5mph if operating within 8 meters of dismounted troops or with a ground guide.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform with a seatbelt, or standing with a restraint harness.",
+          "Soldiers will be no higher than name-tape defilade if standing/outside of vehicle while it is moving.",
+          "Leaders deliver a convoy brief IAW TACSOP and understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Soldiers will sleep only in designated areas IAW War Eagle SOP.",
+          "All vehicles will have licensed drivers, certified to drive at night, posess a valid 5988 and dispatch"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MANUEVERING VEHICLES ON GTA"
+      },
+      "hazard": "HAZARDOUS ROAD CONDITIONS AS A RESULT OF INCLEMENT WEATHER (HEAVY RAIN, SLIPPERY ROADS, ETC)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around GTA.",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "INCLEMENT WEATHER FACTORS"
+      },
+      "hazard": "LIGHTNING, HIGH WINDS, AND RAIN",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Lightning: Pull antennas down. Ensure Soldiers are under cover",
+          "Move to lightning protection area",
+          "High winds/Rain: reduce speed,wear proper PPE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Front Line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MEDICAL EVACUATION"
+      },
+      "hazard": "MEDICAL EMERGENCY DUE TO INJURY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Medical Vehicle located in a central area",
+          "Strip Map to Ambulance Exchange Point/ hospital on Hand",
+          "PMCS of EVAC VIC",
+          "SMs will be brief on the terrain in the training area and possible hazards"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Soldiers briefed on location of Medics/ CLS"
+          ]
+        },
+        "who": {
+          "values": [
+            "Truck Commander, NCOIC, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "UNINTENDED/ ACCIDENTAL DISCHARGE",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ammunition will not be",
+          "loaded into weapons",
+          "until firers have reached",
+          "the designated firing",
+          "point.",
+          "Preliminary",
+          "Marksmanship",
+          "Instruction (PMI) will be",
+          "conducted prior to",
+          "training/mission",
+          "execution.",
+          "Personnel will take all",
+          "firing commands from",
+          "range personnel.",
+          "Muzzle",
+          "awareness/orientation",
+          "strictly enforced.",
+          "Ensure weapons are",
+          "maintained on safe until",
+          "target is acquired.",
+          "Ensure personnel are",
+          "aware that anyone can",
+          "call a cease fire",
+          "whenever an unsafe act",
+          "is observed.",
+          "Ensure ballistic helmet",
+          "and appropriate body",
+          "armor are worn. Ensure",
+          "full Dragoon Standard is",
+          "maintained past ammo",
+          "point"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Shooters will take all commands from the tower and range safety will ensure that firers do not load their weapon until on the designated firing point -OIC and RSO will give all firing commands from the range tower -Lane safeties ensure muzzle and trigger discipline at all times -All personnel will receive a safety brief prior to execution and be in full dragoon standard and eye protection during execution"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, Safeties, Shooters"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "PERSONNEL STRUCK BY VEHICLE ON ROAD",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will avoid crossing the road unless absolutely necessary, and only with the authorization of the appropriate authority.",
+          "Road crossings will be conducted with the assistance of designated road guards, who will be properly positioned to ensure the safety of personnel and to facilitate the crossing process.",
+          "All personnel will cross the road together in a group, in a controlled and orderly manner, to minimize the risk of accidents and to ensure proper coordination and communication."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "RISK OF INJURY DUE TO TRIPS AND FALLS WHILE WALKING ON UNEVEN TERRAIN",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range conditions will be thoroughly briefed during the safety brief, including the hazards present on the range and the appropriate safety procedures to follow.",
+          "To minimize the risk of injury, all personnel on the range will walk, even when not armed, and will be alert for any potential hazards.",
+          "A Combat Lifesaver (CLS) qualified Soldier will be available at a designated site to provide medical assistance if needed.",
+          "Adequate training and oversight will be provided to all personnel involved in range operations, to ensure that they are aware of the risks and the proper procedures to follow.",
+          "Ongoing monitoring and review will be conducted to ensure that the safety procedures remain effective and up to date."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, aid station"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, CLS Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "DEHYDRATION",
+      "initial_risk_level": null,
+      "control": {
+        "values": [
+          "During the safety brief, emphasize the importance of staying hydrated and provide guidance on how to recognize and respond to signs of dehydration or heat-related illness. This includes ensuring that all soldiers are aware of the location and availability of potable water sources, and encouraging them to drink water frequently throughout the day. heat-related illnesses.",
+          "Ensure that potable water is readily available in sufficient quantities at all times, and that all soldiers have access to water whenever needed, including during physical activity or when working in areas with limited shade or ventilation.",
+          "Monitor soldiers for signs of dehydration or other heat-related illnesses, and provide prompt medical attention to anyone who exhibits symptoms such as dizziness, weakness, confusion, or a rapid heartbeat."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, CLS Soldier - SPC Cryer"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "VEHICLE MOVEMENT"
+      },
+      "hazard": "VEHICLE ROLLOVER/VEHICLE MOVEMENT IN LIMITED VISIBILITY CONDTIONS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Adhere to posted speed limits and maintain a safe following distance of at least 50 meters to reduce the risk of collisions or other accidents.",
+          "Conduct regular vehicle inspections and maintenance to ensure optimal performance and safety.",
+          "All air guards and drivers must wear proper PPE, including harnesses, helmets, and body armor, to protect against potential hazards during operations.",
+          "Implement a ground guide protocol to assist with vehicle movement off of hardball roads, with ground guides in plain view of drivers to ensure safety and effective communication.",
+          "No vehicle travels alone on or off the GTA",
+          "No Soldiers will ride in the back of FMTV's/LMTV's without commander approval"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Before PMCS, Ramp Brief covering roll over drills, PCC/PCI's, commex before SP with all vehicles"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, VC's, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF MACHINE GUN RANGE"
+      },
+      "hazard": "RICOCHET, WEAPON ORIENTED OTHER THAN DOWNRANGE",
+      "initial_risk_level": null,
+      "control": {
+        "values": [
+          "All personnel on the firing line not firing during the Sniper Range will wear full Dragoon standard to minimize the risk of ricochet.",
+          "Soldiers will be thoroughly briefed on the potential hazards of ricochet and the importance of maintaining proper muzzle discipline throughout the qualification."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, range construction, spot checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, safeties, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF MACHINE GUN RANGE"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will be briefed by the Range Safety Officer (RSO) regarding potential wildlife hazards and instructed not to interact with or touch any wildlife.",
+          "If any Soldier identifies wildlife on the range during live fire, they will immediately call for a cease fire.",
+          "The RSO will conduct a thorough briefing outlining the potential wildlife hazards to ensure all Soldiers are aware of the risks and how to respond in case of an encounter."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF MACHINE GUN RANGE"
+      },
+      "hazard": "WEAPONS MALFUNCTION",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will conduct regular weapons maintenance and inspections before and during range operations",
+          "In the event of a weapon malfunction, immediate action and remedial action will be taken",
+          "If the weapon malfunction persists after remedial action, level 20 armorers will be notified to inspect the weapon system",
+          "Soldiers will remain aware of their surroundings and ensure their weapon is always pointed downrange and in a safe direction, to minimize the risk of an accidental discharge due to a weapons malfunction."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, lane safeties"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/ RSO, Soldiers, lane safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF MACHINE GUN RANGE"
+      },
+      "hazard": "FRATRICIDE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will utilize hand and arm signals to communicate with each other and lane safeties.",
+          "The lane safety will have a red lens flashlight to signal cease fire if needed.",
+          "All Soldiers will be reminded to positively identify their targets before engaging.",
+          "Before the start of the range, a safety brief will be conducted to emphasize the importance of situational awareness and proper communication."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing, lane safeties, full PPE"
+          ]
+        },
+        "who": {
+          "values": [
+            "Individual Soldiers, lane safeties, RSO, platoon leadership"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF MACHINE GUN RANGE"
+      },
+      "hazard": "AMMO PROBLEMS, EXPLOSIONS, COOK-OFFS, ETC",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ammunition will be transported and stored IAW GTA SOP #5 to mitigate the risk of ammo problems, explosions, cook-offs, and other related issues.",
+          "All Soldiers will be briefed on proper actions to take when encountering ammunition malfunctions, to ensure immediate actions are taken to prevent any further risks."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief and Range Orientation"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane Safeties, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF MACHINE GUN RANGE"
+      },
+      "hazard": "SOLDIERS MOVING DOWN RANGE TO CHECK TARGETS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will take commands from the tower before moving down range.",
+          "Weapons will be cleared and placed on safe prior to movement.",
+          "Soldiers will stand behind their weapon and not move until instructed to do so by the tower."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, weapons checked before movement."
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane Safeties, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "I assess the overall initial risk to be medium as a result of an occasional probability of a catastrophic event; I assess the overall residual risk to be low due to an seldom probability of a moderate event.\r\rMost Dangerous Risk: Negligent Discharge\rMitigation: Soldier will use select switch discipline and only place the weapon system on fire prior to engaging targets. Upon completion of each engagement, selector switches will be placed on safe. Safeties will control the direction and safety for each shooter. \rMost Likely Risk: Slips, Trips, and Falls with Heavy Equipment\rMitigation: Ensuring proper PPE is worn during operations and slowing down any nonessential movement to ensure soldiers move heavy equipment through the woods. Part of the mitigation will be to brief about weather conditions and empower soldiers to modify any surface deem unsafe before and during the training event. Moving a controlled rate in order to prevent slips, trips ,and fall.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/41/20240825 MK19+M2 DRAW.pdf",
+  "source_directory_id": 36,
+  "source_directory_name": "41",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

@@ -1,0 +1,26 @@
+{
+  "mission_task_and_description": null,
+  "date": null,
+  "prepared_by": {
+    "name_last_first_middle_initial": null,
+    "rank_grade": null,
+    "duty_title_position": null,
+    "unit": null,
+    "work_email": null,
+    "telephone": null,
+    "uic_cin": null,
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [],
+  "overall_residual_risk_level": null,
+  "overall_supervision_plan": null,
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (26) - Copy/202307 SQD LFX DRAW.pdf",
+  "source_directory_id": 68,
+  "source_directory_name": "New folder (26) - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

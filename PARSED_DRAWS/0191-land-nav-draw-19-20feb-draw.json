@@ -1,0 +1,265 @@
+{
+  "mission_task_and_description": "3/2 CR Mortar Platoon Land Navigation \r19-20FEB2025 Land Nav West",
+  "date": "2025-01-24",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Jang, James, D.",
+    "rank_grade": "1LT/O2",
+    "duty_title_position": "Mortar Platoon Leader",
+    "unit": "3/2CR HHT",
+    "work_email": "james.d.jang.mil@army.mil",
+    "telephone": "314-599-3707",
+    "uic_cin": "WDA6T0",
+    "training_support_or_lesson_plan_or_opord": "Land Navigation",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Lost Soldiers",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Personnel will be briefed on safety measures and panic azimuths.",
+          "Panic Azimuth is 90 degrees",
+          "Soldiers will start in Teams to mitigate weaker Soldiers being alone. Experienced Soldiers will teach new Soldiers and build their skills before they execute the lane by themselves.",
+          "Soldiers will carry phones wrapped in duct tape to be used in the event of an emergency.",
+          "In the case that a Soldier is still untrained after the first iteration, that Soldier will be paired with a leader to walk the next iteration.",
+          "PL/PSG will be roaming around the AO to ensure training is conducted to standard and safely.",
+          "At the conclusion of the iteration if not all Soldiers are back the following actions will occur.",
+          "Immediately the vehicles will sound their horns every 5 mins.",
+          "Soldiers will be briefed that at 15 mins after the conclusion of the event to open their phones and begin to contact their leadership.",
+          "At 20 mins contact teams will be pushed out to try to try to find the Soldiers dismounted. Additionally, vehicles will patrol main roads to see/pick up Soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "RSO conducts effective briefs and supervision SLs OIC"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Stryker rollover or accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All drivers will conduct",
+          "vehicle PMCS prior to movement, all Soldier's will adhere to posted speed limit signs, drive",
+          "defensively, and wear",
+          "restraint harnesses.",
+          "The driver will have a",
+          "minimum of 6 hours of",
+          "rest prior to departure.",
+          "All personnel inside the",
+          "vehicle will wear the",
+          "appropriate PPE IAW 2CR standard.",
+          "Ground guides will be used when maneuvering all vehicles onto the range.",
+          "Sleeping areas will be marked with Chem lights and engineer tape. Soldiers will not sleep next to any vehicle.",
+          "Ground guides will be used entering and exiting motor pools.",
+          "Use of proper hand and arm signals when maneuvering all vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Conduct safety brief at each phase, addressing: speed, route, and vehicle safety"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Driver Vehicle Commander Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Movement Under Limited Visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief crews on procedures during limited visibility conditions.",
+          "Soldiers will use NODs, DVEs, and RWS FLIR during limited visibility and night time operations.",
+          "White light will be use when conducting admin moves.",
+          "Ground guides will be used during times of degraded visibility."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs and PCIs Brief limited visibility conditions during safety brief."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Crews Instructors"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Inclement weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Use of snow chains when snow and ice are on the ground.",
+          "Reduce vehicle speed based on road condition",
+          "Use of ground guides and chem lights during poor visibility due to weather.",
+          "If lightning is in the immediate area all personnel will move to the nearest grounded hard stand structure or spread out in low ground away from all equipment."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ensure Soldiers know how to install snow chains properly. Brief inclement weather condition and safety measures during safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Instructors"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Musculoskeletal Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be briefed on terrain prior to training and leadership will ensure no undue risks are taken.",
+          "Soldiers will carry phones wrapped in duct tape to be used in the event of an emergency",
+          "CASEVAC vehicle will be staged at the start point.",
+          "If Soldier is unable to move to the start point, they will contact their leadership and a push team will be sent out with a litter and the medic."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief CASEVAC Medic"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO NCOs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Brief all Soldiers on procedure when finding a UXO.",
+          "Clear the area surrounding the UXO.",
+          "Mark UXO, call EOD and Range Operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Hot/Cold Weather Injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range OIC/RSO will monitor the weather and change the uniform accordingly.",
+          "Soldiers will carry water when executing the lane"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Weather Checks Water Consumption"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Wildlife",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will be briefed to leave wildlife alone and",
+          "how to identify",
+          "venomous insects/snakes.",
+          "Soldiers will be going in groups initially which will decrease the likelihood of encounter with animals.",
+          "Soldiers will be moving with red lens and white lens for emergencies."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief Group Iteration"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO OIC Squad mates"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The OIC, RSO, and range leadership will conduct a range safety brief prior to all training. The OIC and RSO are overall responsible for safety. However, safeties and instructors have the responsibility to be actively engaged in range activities and Soldier actions so as to mitigate risk at the lowest level possible and ensure overall safety for the training event. Safety Brief and inspections will also ensure all other mentioned risks are properly mitigated. At least one vehicle and medic or CLS person will be on site in the unlikely event of any serious injuries. If a Soldier receives an injury that renders them unable to make it to the Aid Station they will contact their leadership. A pusher team will be sent to retrieve the Soldier with a litter, litter bearers and a medic. Recommend approval.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (19)/Land Nav DRAW 19-20FEB.pdf",
+  "source_directory_id": 191,
+  "source_directory_name": "New folder - Copy (19)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

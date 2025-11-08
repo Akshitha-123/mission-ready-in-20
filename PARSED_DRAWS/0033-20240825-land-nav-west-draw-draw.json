@@ -1,0 +1,313 @@
+{
+  "mission_task_and_description": "Mustang Troop conducts Land Navigation at Land Nav West from 13-14 AUG 2024 setting conditions for E2B exection",
+  "date": "2024-07-25",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Milauskas, John, R.",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "HHT, 1/2 CR",
+    "work_email": "john.r.milauskas.mil@army.mil",
+    "telephone": "314-599-3209",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "Mustang Troop Land Nav 13-14AUG24",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "MANUEVERING VEHICLES ON GTA"
+      },
+      "hazard": "TACTICAL VEHICLE MANEUVERING IVO DISMOUNTS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA. Speed will be reduced during hours of limited visibility",
+          "Speed limit is based on the following: Road Conditions, Vehicle Type and Visibility.",
+          "Normal Driving Conditions:",
+          "On paved portions of the main tank trails: 60 KPH (36 MPH).",
+          "On gravel portions of the main tank trails: 50 KPH (30 MPH).",
+          "Range roads: 30 KPH (18 MPH).",
+          "When passing troops: 16 KPH (10 MPH).",
+          "Maximum of 5mph if operating within 8 meters of dismounted troops or with a ground guide.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform with a seatbelt, or standing with a restraint harness.",
+          "Soldiers will be no higher than name-tape defilade if standing/outside of vehicle while it is moving.",
+          "Leaders deliver a convoy brief IAW TACSOP and understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Soldiers will sleep only in designated areas IAW War Eagle SOP.",
+          "All vehicles will have licensed drivers, certified to drive at night, posess a valid 5988 and dispatch"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MANUEVERING VEHICLES ON GTA"
+      },
+      "hazard": "HAZARDOUS ROAD CONDITIONS AS A RESULT OF INCLEMENT WEATHER (HEAVY RAIN, SLIPPERY ROADS, ETC)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around GTA.",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "INCLEMENT WEATHER FACTORS"
+      },
+      "hazard": "LIGHTNING, HIGH WINDS, AND RAIN",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Lightning: Pull antennas down. Ensure Soldiers are under cover",
+          "Move to lightning protection area",
+          "High winds/Rain: reduce speed,wear proper PPE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Front Line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MEDICAL EVACUATION"
+      },
+      "hazard": "MEDICAL EMERGENCY DUE TO INJURY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Medical Vehicle located in a central area",
+          "Strip Map to Ambulance Exchange Point/ hospital on Hand",
+          "PMCS of EVAC VIC",
+          "SMs will be brief on the terrain in the training area and possible hazards"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Soldiers briefed on location of Medics/ CLS"
+          ]
+        },
+        "who": {
+          "values": [
+            "Truck Commander, NCOIC, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "PERSONNEL STRUCK BY VEHICLE ON ROAD",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will avoid crossing the road unless absolutely necessary, and only with the authorization of the appropriate authority.",
+          "Road crossings will be conducted with the assistance of designated road guards, who will be properly positioned to ensure the safety of personnel and to facilitate the crossing process.",
+          "All personnel will cross the road together in a group, in a controlled and orderly manner, to minimize the risk of accidents and to ensure proper coordination and communication."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "RISK OF INJURY DUE TO TRIPS AND FALLS WHILE WALKING ON UNEVEN TERRAIN",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range conditions will be thoroughly briefed during the safety brief, including the hazards present on the range and the appropriate safety procedures to follow.",
+          "To minimize the risk of injury, all personnel on the range will walk, even when not armed, and will be alert for any potential hazards.",
+          "A Combat Lifesaver (CLS) qualified Soldier will be available at a designated site to provide medical assistance if needed.",
+          "Adequate training and oversight will be provided to all personnel involved in range operations, to ensure that they are aware of the risks and the proper procedures to follow.",
+          "Ongoing monitoring and review will be conducted to ensure that the safety procedures remain effective and up to date."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, aid station"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, CLS Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE OPERATIONS"
+      },
+      "hazard": "DEHYDRATION",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "During the safety brief, emphasize the importance of staying hydrated and provide guidance on how to recognize and respond to signs of dehydration or heat-related illness. This includes ensuring that all soldiers are aware of the location and availability of potable water sources, and encouraging them to drink water frequently throughout the day. heat-related illnesses.",
+          "Ensure that potable water is readily available in sufficient quantities at all times, and that all soldiers have access to water whenever needed, including during physical activity or when working in areas with limited shade or ventilation.",
+          "Monitor soldiers for signs of dehydration or other heat-related illnesses, and provide prompt medical attention to anyone who exhibits symptoms such as dizziness, weakness, confusion, or a rapid heartbeat."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, CLS Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "VEHICLE MOVEMENT"
+      },
+      "hazard": "VEHICLE ROLLOVER/VEHICLE MOVEMENT IN LIMITED VISIBILITY CONDTIONS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Adhere to posted speed limits and maintain a safe following distance of at least 50 meters to reduce the risk of collisions or other accidents.",
+          "Conduct regular vehicle inspections and maintenance to ensure optimal performance and safety.",
+          "All air guards and drivers must wear proper PPE, including harnesses, helmets, and body armor, to protect against potential hazards during operations.",
+          "Implement a ground guide protocol to assist with vehicle movement off of hardball roads, with ground guides in plain view of drivers to ensure safety and effective communication.",
+          "No vehicle travels alone on or off the GTA",
+          "No Soldiers will ride in the back of FMTV's/LMTV's without commander approval"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Before PMCS, Ramp Brief covering roll over drills, PCC/PCI's, commex before SP with all vehicles"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, VC's, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "WILDLIFE FACTORS"
+      },
+      "hazard": "ANIMALS ON THE RANGE/ INSECT BITES/ ANIMAL ATTACK",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Identify wildlife threats in the training area, temporarily halt training if animal appears. Do not engage the wildlife.",
+          "Contact animal/range control as needed."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief and enforcement"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LAND NAVIGATION"
+      },
+      "hazard": "SOLDIERS LOST DURING LAND NAV EXECUTION",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be thoroughly briefed on the boundaries of the Land Navigation Course. They will also have chem lights and head lamps for extra visibility at night.",
+          "Cadre will constantly patrol boundaries of land Navigation Course.",
+          "Panic Azimuth will be written on score sheets."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Cadre patrols"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "I assess the overall initial risk to be medium due to critical severity of unlikely probability.\rI assess the overall residual risk to be low due to critical severity of unlikely probability.\r\rMost Dangerous Risk: Lost Soldier in the training area\rMitigation: Soldiers will be thoroughly briefed on the boundaries of the Land Navigation Course. Soldiers will be given blocks on instruction prior to execution and will walk the land navigation course with an experienced NCO. The OIC, NCOIC, and RSO will ensure that any SM assessed to require additional training will receive the training and be paired with a partner while navigating the course. They will also have chem lights and head lamps for extra visibility at night. Cadre will constantly patrol boundaries of land Navigation Course. Panic Azimuth will be written on score sheets. Platoon NCOs will begin to drive the boundary roads 30 minutes prior to the end of the allotted time to ensure accountability of all SMs following land navigation testing.  \rMost Likely Risk: Medical Emergency due to injury walking in uneven terrain. \rMitigation: Medical Vehicle located in a center of training area. Platoon NCOs will be patrolling the course in case of emergencies.\r-Strip Map to Ambulance Exchange Point/ hospital on Hand\r-PMCS of EVAC VIC. SMs will be brief on the terrain in the training area and possible hazards.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/39/20240825 Land Nav West DRAW.pdf",
+  "source_directory_id": 33,
+  "source_directory_name": "39",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

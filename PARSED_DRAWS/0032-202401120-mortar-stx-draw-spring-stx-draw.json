@@ -1,0 +1,456 @@
+{
+  "mission_task_and_description": "HHT Mortars and HHT Med PLT 1/2CR PLT/Sections STX 07-09 MAY 24",
+  "date": "2024-01-19",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Price, Jacob M.",
+    "rank_grade": "1LT",
+    "duty_title_position": "PLATOON LEADER",
+    "unit": "HHT Mortars, 1/2 CR",
+    "work_email": "jacob.m.price6.mil@army.mil",
+    "telephone": "+49 15172472628, 314-599-3209",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "HHT Mortars PLT/Section STX 12-14 FEB 24",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "MANUEVER"
+      },
+      "hazard": "MANUEVERING IVO OF DISMOUNTS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA.",
+          "Maximum of 5mph if operating within 8 meters of dismounted troops or with a ground guide.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform with a seatbelt, or standing with a restraint harness.",
+          "Soldiers will be no higher than name-tape defilade if standing/outside of vehicle while it is moving.",
+          "Leaders understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Soldiers will sleep only in designated areas IAW War Eagle SOP.",
+          "Tactical Vehicles will use a ground guide when maneuvering within 10 meters of dismounts."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety & Ramp Briefs, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "WEATHER"
+      },
+      "hazard": "HAZARDOUS CONDITIONS DUE TO WEATHER",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around the GTA",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "If there is lightning in the area, training will halt, SMs will move to covered areas or areas away from high conductors.",
+          "SMs will ground equipment in a formation until it is safe to continue training"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC. RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "STX ACTIVITIES"
+      },
+      "hazard": "DRIVER FATIGUE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be given an in-depth safety briefing concerning road safety before all movement.",
+          "Leaders will monitor Drivers to ensure proper amount of sleep is achieved.",
+          "Leaders ensure a rest plan is in place to ensure drivers are prepared to operate vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rest Plan"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane OIC/NCOIC, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "STX ACTIVITIES"
+      },
+      "hazard": "IMPROPER USE OF A WEAPON SYSTEM AND LASERS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will be trained on proper use of equipment prior to range",
+          "All weapons will remain oriented in a safe direction."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, SOPs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Team Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "STX ACTIVITIES"
+      },
+      "hazard": "SLIPS, TRIPS, FALLS, AND OTHER MISC. INJURIES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will execute training in Full Dragoon Standard.",
+          "Additional caution will be taken when executing night operations.",
+          "Soldiers climbing on top of tactical vehicles wear a helmet and maintain 3-points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "OIC/RSO understands and has briefed MEDEVAC plan on the real world casualty evacuation plan.",
+          "A designated vehicle will be marked properly for CASEVAC/MEDEVAC at the troop TAA.",
+          "Driver and Medic/CLS certified person will be briefed on routes, and strip maps with coordinates of AXP stored in vehicle.",
+          "CLS qualified persons will carry certification paperwork at all times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "STX ACTIVITIES"
+      },
+      "hazard": "EQUIPMENT LOSS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period IAW WE SOP.",
+          "Sensitive items will be accounted for after every mission/iteration.",
+          "All issued sensitive items tied down IAW Troop SOP.",
+          "Sensitive items inventory conducted IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, SOPs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "STX ACTIVITIES"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "SMs will notify leaders of wildlife when spotted.",
+          "SMs will not touch, provoke or in any way interact with wildlife."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "TRAINING LANES"
+      },
+      "hazard": "DAMAGED WEAPON SYSTEM",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Cadre will supervise the employment of all weapon systems, if a weapon is possibly damaged, Cadre will certify the damage and annotate on a 2404.",
+          "Soldier weapons will be check by Cadre member before firing after a Soldier falls or drops weapon.",
+          "Weapons will be restored in proper condition prior to be being turned into the arms room."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Briefing to all Personnel, Inspecting Weapon before and after iterations"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LAND NAVIGATION"
+      },
+      "hazard": "DEHYDRATION/ HOT WEATHER INJURY",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Supervisors continuously monitor Soldiers for hot weather injuries and water. Training area has ample water refill sites. Soldiers given safety brief on weather."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCCs/PCI's, Leaders continuously monitor Soldiers"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSOs, Lane Safeties, NCOs, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LAND NAVIGATION"
+      },
+      "hazard": "INCLEMENT/COLD WEATHER INJURY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers have packed for appropriate weather contingencies. Soldiers continuously hydrate. Strykers used as warming areas if necessary."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs, NCO Supervision, Continuously monitor weather"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSOs, NCOs, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LAND NAVIGATION"
+      },
+      "hazard": "LOST SOLDIER",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Soldiers understand the boundaries of training area, starting point, Lost Soldier SOP, and Panic Azimuths. Roving Patrols on exterior of the training area and lane safeties on the course."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Disseminate Lost Soldier SOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LAND NAVIGATION"
+      },
+      "hazard": "SOLDIER INJURY IN TRAINING AREA",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldier's briefed on potential hazards based on range reconnaissance, safeties patrolling the course, roving JLTV/TMP prepared to move casualties"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Safeties remain vigilant on the course"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LAND NAVIGATION"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers are briefed potentially dangerous wildlife in the GTA. Soldiers and safeties will not approach wildlife."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Leaders ensure Soldiers stay away from animals. Range Control notified if necessary"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LAND NAVIGATION"
+      },
+      "hazard": "LIGHTNING",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Continuously monitor weather conditions to identify lighting threats. Soldiers will move to safe location and remove all metal objects."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "OIC and safeties communicate to identify and disseminate threats. Pre-designate lightning area"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, NCO's"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "LAND NAVIGATION"
+      },
+      "hazard": "SLIPS, TRIPS, FALLS",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will move off the road if able or be assisted off the road by other situationally aware Soldiers. The follow-on vehicle will pick them up."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Leader and Battle-Buddy awareness."
+          ]
+        },
+        "who": {
+          "values": [
+            "All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "TRAINING LANES"
+      },
+      "hazard": "DAMAGED WEAPON SYSTEM",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Cadre will supervise the employment of all weapon systems, if a weapon is possibly damaged, Cadre will certify the damage and annotate on a 2404.",
+          "Soldier weapons will be check by Cadre member before firing after a Soldier falls or drops weapon.",
+          "Weapons will be restored in proper condition prior to be being turned into the arms room."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Briefing to all Personnel, Inspecting Weapon before and after iterations"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "I assess the overall initial risk to be medium as a result of a occasional probability of a moderate severity event; I assess the overall residual risk to be low due to an seldom probability of a moderate severity event. \r\rMost Dangerous Risk: Cold Weather Injury\rMitigation: Supervisors/NCO's and Leadership continuously monitor Soldiers for cold weather injuries and water intake. Vehicles has ample amount of water before leaving motor pool for training. Soldiers given safety brief on weather. If temperature drops below freezing at night, soldiers will be cycled through Strykers; which will be used as our heating mechanism. \r\rMost Likely Risk : Slips, Trips, and Falls with Heavy Equipment\rMitigation: Ensuring proper PPE is worn during operations and slowing down any nonessential movement to ensure soldiers move heavy equipment in and out of vehicle safely. Par of the mitigation will be to briefed about weather conditions and empower soldiers to modify any surface deem unsafe before and during the training event.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/38/202401120 MORTAR STX DRAW spring stx.pdf",
+  "source_directory_id": 32,
+  "source_directory_name": "38",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

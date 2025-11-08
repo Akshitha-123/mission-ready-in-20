@@ -1,0 +1,26 @@
+{
+  "mission_task_and_description": "M320/AT-4",
+  "date": "20241107",
+  "prepared_by": {
+    "name_last_first_middle_initial": "SMITH, PETER, C.",
+    "rank_grade": "1LT",
+    "duty_title_position": "PLATOON LEADER",
+    "unit": "B TRP/1/2CR",
+    "work_email": "PETER.C.SMITH54.MIL@ARMY.MIL",
+    "telephone": "(DSN, Commercial (Include Area Code)) 3106996768",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "(as required) BULL THUNDER AT4/CARLG/M320",
+    "signature_of_preparer": null
+  },
+  "subtasks": [],
+  "overall_residual_risk_level": null,
+  "overall_supervision_plan": "x\n\nPage 8 of 9\nPREVIOUS EDITION IS OBSOLETE.\nDD FORM 2977, NOV 2020\nRISK ASSESSMENT MATRIX\nProbability (Expected frequency)\nFrequent: \nContinuous, \nregular, or \ninevitable \noccurences\nLikely: \nSeveral or \nnumerous \noccurences\nOccasional: \nSporadic or \nintermittent \noccurences\nSeldom: \nInfrequent \noccurences\nUnlikely: \nPossible \noccurences \nbut \nimprobable\nSeverity (expected consequence)\nA\nB\nC\nD\nE\nCatastrophic: Mission failure, unit readiness eliminated; \ndeath, unacceptable loss or damage\nI\nEH\nEH\nH\nH\nM\nCritical: Significantly degraded unit readiness or mission \ncapability; severe injury, illness, loss or damage\nII\nEH\nH\nH\nM\nL\nModerate: Somewhat degraded unit readiness or mission \ncapability; minor injury, illness, loss, or damage\nIII\nH\nM\nM\nL\nL\nNegligible: Little or no impact to unit readiness or mission \ncapability; minimal injury, loss, or damage\nIV\nM\nL\nL\nL\nL\nLEGEND:\nEH - Extremely High Risk\nH - High Risk\nM - Medium Risk\nL - Low Risk\n13. RISK ASSESSMENT REVIEW (Required when assessment applies to ongoing operations or activities)\na. DATE\nb. LAST NAME\nc. RANK/GRADE\nd. DUTY TITLE/POSITION\ne. SIGNATURE OF REVIEWER",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (16)/DRA AT4,CARL-G.320.pdf",
+  "source_directory_id": 141,
+  "source_directory_name": "New folder - Copy (16)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

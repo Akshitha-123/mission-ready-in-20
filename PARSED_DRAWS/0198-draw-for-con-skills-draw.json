@@ -1,0 +1,127 @@
+{
+  "mission_task_and_description": "CON SKILLS MEDICAL, 27 NOV-08 DEC",
+  "date": "2023-10-11",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Pelletier, Joseph, W.",
+    "rank_grade": "SFC/E7",
+    "duty_title_position": "Platoon Sergeant",
+    "unit": "K-TRP/ 3-2CR",
+    "work_email": "joseph.w.pelletier3.mil@army.mil",
+    "telephone": "+49 15121609600",
+    "uic_cin": "WDA6K0",
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Movement to MSTC"
+      },
+      "hazard": "Vehicular Accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leaders will give ramp brief prior to movement."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ramp Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Canidates"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Movement to MSTC"
+      },
+      "hazard": "Weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Training will cease in the event of severe weather. GTA range operations desk will be called if the weather is put into question."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Cadre"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Movement to MSTC"
+      },
+      "hazard": "Wildlife",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Service Members will be briefed not to interact with local wildlife. Medic will attend to any injuries from local wildlife/insects."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Land Navigation Cadre, SMs, Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Air MedEvac Operations"
+      },
+      "hazard": "Flying aircraft, spinning rotors",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Conduct Aircraft familiarization with Air Crew and Flight Medics"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ramp Brief at AC"
+          ]
+        },
+        "who": {
+          "values": [
+            "Air Crew and Flight Medics"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    }
+  ],
+  "overall_residual_risk_level": "M",
+  "overall_supervision_plan": null,
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (25)/DRAW for CON SKILLS.pdf",
+  "source_directory_id": 198,
+  "source_directory_name": "New folder - Copy (25)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

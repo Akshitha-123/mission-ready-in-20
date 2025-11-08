@@ -1,0 +1,332 @@
+{
+  "mission_task_and_description": "M500 Mossberg Qualification",
+  "date": "2024-06-21",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Porcaro, Clayton, N",
+    "rank_grade": "1LT",
+    "duty_title_position": "Platoon Leader",
+    "unit": "B TRP, 1SQDN, 2CR",
+    "work_email": "clayton.n.porcaro.mil@outlook.com",
+    "telephone": "+1 509 610 8336",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "M500 Mossberg Qualification",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firer will fire in safe directions and will be controlled from behind by RSO/lane safeties",
+          "Firer will take all directions from the tower",
+          "Medic will be present at all times on the range and will have a vehicle present",
+          "OIC will notify range control of any injury occurring on the range",
+          "Targetry will be placed between range fans",
+          "Muzzle awareness will be maintained at all times",
+          "Firer will be certified on load, unload and clearing procedures prior to firing on the range",
+          "Lane safeties will ensure safe firing techniques",
+          "Firing Lanes will be oriented across range, and none will be ahead or behind other lanes"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-NCOIC gives all commands to to load weapons and engage targets on the lane -Safeties actively supervise firers and call cease-fire freeze at the sight of any unsafe act -Safeties clear all weapons before leaving the firing area and ensure that all weapons are on safe and unloaded whenever firers enter or leave the range -Leadership will ensure that no targets are within mutual firing lanes"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Injury from Negligent Discharge",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firers will identify range fans when they arrive at range and additionally when they arrive at their lane prior to firing",
+          "Safeties will ensure that weapons are oriented properly and downrange at all times",
+          "All weapons will be inspected twice after clearing",
+          "All firers will be qualified on their assigned weapon, optics and lasers"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Firers oriented to the range during the safety brief -Certified on load, unload, and clearing procedures prior to the range during dedicated PMI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO, Lane Safeties, Troop Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Misfire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Weapons will remain on safe and unloaded until instructed by the NCOIC",
+          "Proper clearing procedures will be briefed, implemented, and supervised",
+          "Weapons will be oriented downrange at all times until cleared off of the range by a safety"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Firers certified on load, unload, and clearing procedures prior to the range during dedicated PMI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO, Lane Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Surface Danger Zones",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firer will only fire in safe directions and will be controlled from behind by lane safeties and the RSO",
+          "Targetry will be placed between the range fans",
+          "Muzzle awareness will be maintained and monitored at all times",
+          "Lane safeties will ensure safe firing within their designated lanes and within the approved range fans"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Leadership will ensure that no two lanes share mutual targets during the Range Recon -Leadership will proof the firing lanes and ensure that each is fit for training -Safety Supervision of firers during execution"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO, Lane Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Loss of Communication with Range Control",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range will immediately go to a dry status until communication with Range Control is restored",
+          "If communication is lost, Troop Leadership will attempt to reach Range Control by FM, JBCP, DSN, and Cell Phone, calling back to Staff Duty to relay if necessary."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-PCCs/PCIs and frequent comms checks with Range Control -Leader Awareness and engagement"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Lost or Damaged Equipment",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All equipment will be secured and tied down appropriately",
+          "All Leaders will conduct 100% accountability and hands on checks of all sensitive items prior to leaving range",
+          "All Firers that leave range before it is closed will have their sensitive items checked prior to leaving"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-PCCs/PCIs -Sensitive Items check before and after the range, focusing on tie downs and security and accountability of sensitive items"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO, Leaders at all levels, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Mounted Movement"
+      },
+      "hazard": "Vehicle Roll-over/Break down",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "VCs will follow all traffic signs and posted speed limits",
+          "VCs will be out of the hatch at all times during the movement to the range",
+          "VCs will be provided the route to the range prior to execution to ensure that they maintain safe practices and understand where they are bringing their vehicle",
+          "Ground Guides will be used in restrictive terrain, in the motor pool, within the gates of the range itself",
+          "Communication will be maintained between VCs and the convoy commander during movement to allow for quick reactions to emergency situations"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Ramp Brief prior to SP for Range -Commex Prior to SP for Range"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Leaders, VCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Mounted Movement"
+      },
+      "hazard": "Vehicle Collision",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Drivers will maintain appropriate speeds and following distances between vehicles during movement.",
+          "Drivers and VCs will take extra precautions when driving in the vicinity of civilian vehicles and at turns",
+          "Drivers and VCs will maintain communication between themselves and the convoy commander to ensure shared understanding of road conditions",
+          "Drivers and VCs will adjust speed and following distance according to visibility and traffic"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Mounted Movement"
+      },
+      "hazard": "Personnel Injured Outside of the Hatch",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All personnel outside of vehicle hatches will be in full Dragoon Standard and properly wearing a functional harness during the movement from the motor pool to the range"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ramp Brief Leader enforcement of standard"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Leaders, VCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Environmental Factors"
+      },
+      "hazard": "Wildlife",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firing will cease if wildlife enters the range area and commence once the range is clear of wildlife",
+          "Any Soldier, Lane Safety, or Leader that spots wildlife on the range will call the range to ceasefire using appropriate hand and arm signal"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Environmental Factors"
+      },
+      "hazard": "Hot Weather Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "OIC and NCOIC will publish uniform prior to training based off of analysis of the current weather and projections during the training",
+          "RSO and OIC will monitor weather conditions and adjust uniform accordingly",
+          "Medic will be on standby to treat hot weather injuries",
+          "Water cans and water sources will be topped off"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Uniform Inspections, Safety Brief, Monitoring Soldier Wellness Throughout, Ensuring Water Sources Are Topped Off"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Leaders, Medics"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "OIC and Leadership will conduct a Range Reconnaissance to proof the range prior to the execution of the qualification. Convoy Commander will complete Convoy Ramp Brief prior to SP for the Range. OIC and RSO will orient Soldiers to the range, specifically highlighting the firing line, firing positions, range fans, ammo point, and clearing areas during the Safety Brief. Soldiers will coach/safety each other on the firing line with NCOs serving as safeties in a 1:2 ratio during the Shotgun Portion of the Range.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (11) - Copy/M500 Draw_unsigned.pdf",
+  "source_directory_id": 51,
+  "source_directory_name": "New folder (11) - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

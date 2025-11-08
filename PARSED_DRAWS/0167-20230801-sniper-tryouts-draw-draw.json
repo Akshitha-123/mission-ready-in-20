@@ -1,0 +1,240 @@
+{
+  "mission_task_and_description": "1/2CR Sniper Tryouts",
+  "date": "2023-07-31",
+  "prepared_by": {
+    "name_last_first_middle_initial": "KELLEY, MICHAEL, R.",
+    "rank_grade": "SSG/E-6",
+    "duty_title_position": "SNIPER SECTION SERGEANT",
+    "unit": "HHT, 1/2CR",
+    "work_email": "MICHAEL.R.KELLEY89.MIL@ARMY.MIL",
+    "telephone": "+4915224464188",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "CONOP Attached",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Personnel struck by vehicle on road.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will only cross at designated locations with crossing guards.",
+          "Trail vehicle will stop rear traffic before soldiers cross."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "ALL PERSONEL WILL BE BRIEFED AT THE BEGINNING OF THE OPERATION."
+          ]
+        },
+        "who": {
+          "values": [
+            "NCOIC, RSO, OIC WILL BRIEF."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Injury while moving on uneven terrain",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range conditions briefed during safety brief. Soldiers will walk while on the range, even when not armed. Medics will be available at designated site.",
+          "All personnel will be briefed on the location of the MEV.",
+          "All personnel will have their phone on them and the OIC/ RSO numbers saved.",
+          "CLS personnel will be present at all times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, proper dissemination of information pertaining to locations of medical equipment"
+          ]
+        },
+        "who": {
+          "values": [
+            "- OIC/ RSO, Medical personnel."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Dehydration",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be briefed on the importance of drinking water at the safety brief, Soldiers will have a water source available at all times.",
+          "Soldiers will not wear snivel gear unless directed to do so by Platoon Leadership",
+          "No snivel gear will be worn on movements",
+          "Soldiers will step off for mission with nine quarts of water",
+          "Trucks will be on standby for CASEVAC."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Snipers will ensure soldiers are drinking water."
+          ]
+        },
+        "who": {
+          "values": [
+            ": Lane Safeties, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Adverse Weather Conditions"
+      },
+      "hazard": "Extreme Hot Weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure that prior hot weather injuries are marked. Leaders monitor soldier nutrition and hydration. Use buddy system to identify possible cold weather injuries."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Thorough PCCs/PCIs, Safety Brief, uniform standards, ensure all soldiers have a water source"
+          ]
+        },
+        "who": {
+          "values": [
+            "Snipers, RSO, OIC, Medics"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Evacuation"
+      },
+      "hazard": "Medical emergency due to loss of life, limb, or eyesight",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All emergencies will be handled by range control and emergency medical personnel.",
+          "Medic will be in a centralized location during training and in a trail medevac vehicle during road march."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Medical personnel briefed"
+          ]
+        },
+        "who": {
+          "values": [
+            "Snipers, RSO, OIC, Medics"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Evacuation"
+      },
+      "hazard": "Medical Emergency due to injury",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Medical Vehicle located in a central area, Strip Map to Ambulance Exchange Point/ hospital on Hand"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Soldiers briefed on location of medics"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, OIC, Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Soldiers becoming lost during land navigation training",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "All Soldiers will have their cell phones on their person during training for emergency situations, they will also have chem lights and head lamps for extra visibility at night.",
+          "All Soldiers will have their cell phones on them in case of emergency.",
+          "All Soldiers will be briefed on panic azimuths and range boundaries."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All Soldiers will be given the cell phone numbers of NCOIC, OIC before leaving for the lane."
+          ]
+        },
+        "who": {
+          "values": [
+            "NCOIC, OIC, RANGE SAFETIES."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Vehicle Rollover During Movement",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Each vehicle will adhere to posted speed limits and maintain a following distance of no less than 50 meters",
+          "All air guards and drivers will wear harnesses, helmets, and body armor",
+          "Ground guides will be in plain view of drivers and will be utilized when pulling vehicles off of hardball roads, particularly IVO linkup point."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All personnel will be briefed before the beginning of the operation."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/ RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "I assess the overall initial risk to be medium due to catastrophic severity of unlikely probability.\rI assess the overall residual risk to be low due to critical severity of unlikely probability. \r\rMost Dangerous Risk: Vehicle Accident\rMitigation: Foot movements will all be conducted off roads on the troop marching trail or inside the training areas. Soldiers will have visible markings during day and night movements. Road crossings will be deliberate and only occur at designated locations.\r\rMost Likely Risk: Lower extremity injury during movement on uneven terrain under limited visibility\rMitigation: Lane walkers will be CLS qualified. A casevac vehicle will be present at all times.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (8)/20230801 Sniper Tryouts DRAW.pdf",
+  "source_directory_id": 167,
+  "source_directory_name": "New folder - Copy (8)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

@@ -1,0 +1,268 @@
+{
+  "mission_task_and_description": "Apache Troop 12 Mile Foot March (07March2025)",
+  "date": "2025-02-10",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Cross, Imoni, L.",
+    "rank_grade": "1LT / O2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "1/2CR",
+    "work_email": "imoni.l.cross.mil@army.mil",
+    "telephone": "+1 (785) 787-7961",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": "Apache Troop 12 Mile Foot March",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Dismounted movement on Rose Barracks and GTA."
+      },
+      "hazard": "Troop diverting from planned route.",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "OIC will mark route before Troop steps off and backside support personnel will be emplace."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Backside Support"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted movement on Rose Barracks and GTA."
+      },
+      "hazard": "Accident with military or civilian vehicle.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Troop will have chem light attached to rucksack.",
+          "Red lens turned on during low visibility hours."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Leaders, Troops"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted movement on Rose Barracks and GTA."
+      },
+      "hazard": "Ruck injuries to include heat/cold injury.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Medical support will be on standby to treat casualties.",
+          "Soldiers will wear prescribed packing list to mitigate heat injuries.",
+          "Movement breaks as needed with deliberate hydration."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Leaders, Troops"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted movement on Rose Barracks and GTA."
+      },
+      "hazard": "Encounter with wildlife.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will avoid all animals and wildlife as possible.",
+          "Leaders and Troops will report any concerning encounters to the OIC/NCOIC or Command Team..",
+          "Immediate notification of any animal showing potential signs of rabies."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Leaders, Troops"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted movement on Rose Barracks and GTA."
+      },
+      "hazard": "Slips, Trips, Falls.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Troops will maintain red lens during limited visibility hours.",
+          "Troops will maintain tactical staggered column formation with proper spacing to refrain from tripping over one another."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, SOPs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Leaders, Troops"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Dismounted movement on Rose Barracks and GTA."
+      },
+      "hazard": "Strains and Fractures.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Troops will conduct proper preparation drills, stretching, and mobility exercises to prepare for ruck."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Prep Drill, Stretching, Dynamic Warm-Up"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Leaders, Troops"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Mounted Movement on Rose Barracks and GTA."
+      },
+      "hazard": "Personnel injured while operating vehicle and falling off vehicles.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Maintain three (3) points of contact while on top of any vehicle.",
+          "Personnel will not jump off vehicles, climb off/down.",
+          "Wear ACH when climbing on/off or on top any vehicle.",
+          "No candidate will climb on top of a vehicle for any reason as part of a lane."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, SOPs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Leaders, Troops"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Mounted Movement on Rose Barracks and GTA."
+      },
+      "hazard": "Troops getting run over by trail vehicle.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicle will maintain at least 50 meters from Troops in formation with hazards flashing.",
+          "When uploading casualties/fallouts, vehicle and personnel will ensure truck is stopped and brakes are engaged.",
+          "Troops being carried will be in proper uniform, seated, and vehicle tarp will be down and Troop belt latched."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, SOPs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Leaders, Troops"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Mounted Movement on Rose Barracks and GTA."
+      },
+      "hazard": "Hazardous road conditions as a result of inclement weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers wear seat belts/restraints. No exceptions.",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "Vehicle movements off-roads and/or on steep slopes will be minimized and taken with an abundance of precuation.",
+          "Recovery vehicles will be on standby.",
+          "Movements will be reported upon start and completion."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Leaders, Troops"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": null,
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (64) - Copy/12mi Foot March DRAW.pdf",
+  "source_directory_id": 110,
+  "source_directory_name": "New folder (64) - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

@@ -1,0 +1,210 @@
+{
+  "mission_task_and_description": "Bull Troop GTA500 Tactical Road March (TRM) 07APR25",
+  "date": "2025-03-14",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Burns, Cavan, F",
+    "rank_grade": "1LT/O2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "B TRP, 1/2CR",
+    "work_email": "cavan.f.burns.mil@army.mil",
+    "telephone": "+49 1515 3349666",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "Bull Troop GTA500 CONOP 17MAR2025",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Preparation"
+      },
+      "hazard": "Equipment falling off trucks",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "No non mission critical items on the outside of vehicles",
+          "All mission critical items must be secured with at least one point of redundancy."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-PCCs conducted morning of movement by VCs, SLs, and PSGs. -PCIs conducted by PLs and CO/XO"
+          ]
+        },
+        "who": {
+          "values": [
+            "-VCs, SLs, PSGs, PLs, CO, and XO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Preparation"
+      },
+      "hazard": "Vehicle breakdown",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "PMCS and dispatches will be completed 26MAR25 in preparation.",
+          "New PMCS will be completed the morning of movement."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-SLs and PSGs will supervise PMCSing, PLs will ensure maintenance tasks are complete for movement"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Truck Crews -SLs -PSGs -PLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Preparation"
+      },
+      "hazard": "Lost Communications",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Convoy Level COMMEX on 07APR25 across all systems.",
+          "Troop Level COMMEX on the morning of movement to ensure functional PACE plan."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-PLs, crews, and RTOs will install and test radio equipment in the trucks day prior. -CO and XO will confirm functionality the morning of movement."
+          ]
+        },
+        "who": {
+          "values": [
+            "-PL's, RTO's, VC's"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Main Route"
+      },
+      "hazard": "Vehicular Accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Speed Limit (30kmh road, 20kmh trail)",
+          "100m spacing minimum",
+          "Center-line driving",
+          "Ground guides in tight or congested areas"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Full convoy brief conducted by Serial OIC -VCs/TCs control/instruct their drivers"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Serial OICs -VCs/TCs -Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Recovery"
+      },
+      "hazard": "Injured appendage or other noncritical injury (i.e. smashed finger)",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Wear PPE throughout the mission (ACH, gloves, eye pro) including when dismounted."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Briefed by Serial Commanders and PLs -Enforced by SLs and PSGs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Serial Commanders -PLs -SLs and PSGs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Recovery"
+      },
+      "hazard": "Critical/life-limb-eyesight injury (i.e. Soldier hit by Styker)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ground guides mandatory if troops are dismounted"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Briefed by Serial Commanders and PLs -Enforced by SLs and PSGs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Serial Commanders -PLs -SLs and PSGs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weather"
+      },
+      "hazard": "Road Conditions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Assess road conditions prior to SP",
+          "Reduce speed for hazardous road conditions",
+          "Monitor USAG Bavaria Road Conditions every hour on the hour"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Briefed by Serial Commanders and PLs -Enforced by SLs and PSGs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Serial Commanders -PLs -SLs and PSGs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The initial risk level was medium. The deliberate rehearsals and COMMEX ensure all SMs are aware of the route plan and contingency plans in place. Additionally, all SMs will have a copy of the Convoy Safety Checklist, on them at all times. The PCCs/PCIs prior to SP will mitigate any faulty load plans and ensure all equipment stays on the truck. Finally, the Convoy Brief will be another reminder for SMs of safe convoy practices, and it will allow for any questions to be asked prior to SP. Due to all the reasons stated above, the residual risk is mitigated to low.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (30)/B TRP GTA500 DRAW.pdf",
+  "source_directory_id": 157,
+  "source_directory_name": "New folder - Copy (30)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

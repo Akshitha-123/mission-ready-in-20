@@ -1,0 +1,419 @@
+{
+  "mission_task_and_description": "SQD STX __-__MAR23",
+  "date": "2023-02-24",
+  "prepared_by": {
+    "name_last_first_middle_initial": "CARPENTER, BRYAN, L.",
+    "rank_grade": "CPT",
+    "duty_title_position": "TROOP COMMANDER",
+    "unit": "HHT, 1-2 CR",
+    "work_email": "BRYAN.L.CARPENTER2.MIL@ARMY.MIL",
+    "telephone": "599-3200",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "SQD STX",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "MRA Operations"
+      },
+      "hazard": "Negligent Discharge",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers wear Full Dragoon Standard during execution.",
+          "Soldiers have been taught proper handling of weapons systems.",
+          "Soldiers will not handle or fire weapons systems with which they are unfamiliar or untrained.",
+          "Ammo Point will fully separate all types of ammunition, be it blank, or different DODICs IAW Range SOP V.",
+          "There will be no mixing of ammunition types when issued to training Soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP, Training Plan, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO, Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MRA Operations"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Notify the Range Operations upon discovery or creation. Mark grid location and halt training if it poses a direct threat to Soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, OC, Safeties, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition Transportation and Storage"
+      },
+      "hazard": "Improper handling of ammunition or explosives",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leaders must ensure individuals who handle ammunition and pyrotechnics are trained on proper handling procedures and safety.",
+          "Soldiers must handle all ammunition with care.",
+          "Soldiers must wear eye protection and gloves while handing pyrotechnics, ammunition and crating/packaging material.",
+          "Leaders must enforce no smoking except in designated areas.",
+          "Have ten (10) pound fire extinguisher(s) on hand at ammo point.",
+          "Separate incompatible lots/types of ammunition and explosives.",
+          "Ammo shakedown will be conducted after every iteration to ensure all ammunition is accounted for and only the proper ammunition is used for the following iteration"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "TACSOP, AR 385-64, DA PAM 385-64, AER 385-64, Risk reduction briefings, Leader Involvement. All Ammo Handlers Certified. AR/DA PAM 385-63/64 , Applicable FM/TM, or Accompanying Instructions"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammunition NCO and Ammunition Detail"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on MRA"
+      },
+      "hazard": "Tactical Vehicle maneuvering IVO of Dismounts",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA.",
+          "Maximum of 5mph if operating within 8 meters of dismounted troops or with a ground guide.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform with a seatbelt, or standing with a restraint harness.",
+          "Soldiers will be no higher than name-tape defilade if standing/outside of vehicle while it is moving.",
+          "Leaders understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Soldiers will sleep only in designated areas IAW War Eagle SOP.",
+          "Tactical Vehicles will use a ground guide when maneuvering within 10 meters of dismounts."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety & Ramp Briefs, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Hazardous conditions as a result of inclement weather (Heavy Rain, Lightning, slippery roads, etc)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around the MRA.",
+          "Vehicles will reduce to speeds IOT allow safe operation of vehicle through terrain.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "If there is lightning in the area, training will halt, SMs will move to covered areas or areas away from high conductors.",
+          "SMs will ground equipment in a formation until it is safe to continue training"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC. RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Driver Fatigue",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be given an in-depth safety briefing concerning road safety at Range 211.",
+          "Leaders will monitor Drivers to ensure proper amount of sleep is achieved.",
+          "Leaders ensure a rest plan is in place to ensure drivers are prepared to operate vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rest Plan"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane OIC/NCOIC, CDRs, PLs, PSGs, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Improper Use of Weapons Systems and Lasers",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will be trained on proper use of equipment prior to range",
+          "All weapons will remain oriented in a safe direction."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, SOPs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Team Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Slips, trips, falls & other misc. injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will execute training in Full Dragoon Standard.",
+          "Additional caution will be taken when executing night operations.",
+          "Soldiers climbing on top of tactical vehicles wear a helmet and maintain 3-points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "No soldier will be out of the front hatch of a ICV-D while the vehicle is moving on unimproved roads",
+          "OIC/RSO understands and has briefed MEDEVAC plan on the real world casualty evacuation plan.",
+          "A designated vehicle will be marked properly for CASEVAC/MEDEVAC at the troop TAA.",
+          "Driver and Medic/CLS certified person will be briefed on routes, and strip maps with coordinates of AXP stored in vehicle.",
+          "Medic will carry medic certification paperwork at all times.",
+          "Driver and Medic will remain with MEDEVAC Vehicle at all times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Equipment Loss",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period IAW WE SOP.",
+          "Sensitive items will be accounted for after every mission/iteration.",
+          "All issued sensitive items tied down IAW Troop SOP.",
+          "Sensitive items inventory conducted IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, SOPs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Wildlife in MRA",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SMs will notify leaders of wildlife when spotted.",
+          "SMs will not touch, provoke or in any way interact with wildlife."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Loss of Communication with Range Operations",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "If communication with Range Operations is lost, the OIC/RSO will notify troop command.",
+          "DSN, Cell Phone and Staff Duty will be used to regain communication with Range Operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "CONOP, Safety/Range Brief, check in with Range Control before range hot"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOIC, Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Firing Blank Ammunition"
+      },
+      "hazard": "Firing Blanks with a Soldier in front of them and less than five feet away.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will not fire their weapon when another soldier is less than 5 feet in front of them.",
+          "Soldier's will \"safety kill\" OPFOR if they are too close."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOIC, Medics, Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Civilian Considerations"
+      },
+      "hazard": "Maneuvering vehicles in the MRA with civilians",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be briefed on routes and areas of land that off limits to maneuvering mounted and dismounted.",
+          "Soldiers will not fire or employ ordinance within 800 meters of an inhabited dwelling.",
+          "Drivers will maintain situational awareness of their surroundings while operating vehicles in the publicly used MRA.",
+          "OIC and RSO will conduct deliberate inspections of each dispatch book IAW with the SOP prior to SP"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety/Ramp Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOIC, Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Civilian Considerations"
+      },
+      "hazard": "Hot/Cold Weather Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be briefed on weather conditions and carry appropriate items from their ECWS. Refresher class on signs of hot and cold weather injuries. 1SG sets the uniform and NCOs enforce those standards to reduce threat of heat/cold weather related injuries. All snivel gear will be removed before conducting movements or training events."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "1SG, NCOs, RSO, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "This is a living document. Newly identified risks will be recorded and mitigated accordingly and risk acceptance will be approved at the appropriate\rlevel. If risk exceeds a Commander's authority, the subordinate Commander will provide risk mitigation courses of actions (COAs) to higher headquarters IOT obtain risk acceptance approval.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/18/SQD STX DRAW - Scouts.pdf",
+  "source_directory_id": 10,
+  "source_directory_name": "18",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

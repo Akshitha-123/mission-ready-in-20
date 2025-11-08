@@ -1,0 +1,344 @@
+{
+  "mission_task_and_description": "1/2CR Sniper Tryouts\r02APR2024-03APR2024",
+  "date": "2024-02-22",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Dunn, Aaron, H",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "Scout PLT HHT, 1/2CR",
+    "work_email": "aaron.h.dunn.mil@army.mil",
+    "telephone": "314-599-3213",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "1/2CR Sniper Tryouts CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Forced Ruck March"
+      },
+      "hazard": "Dehydration",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Each candidate will have at minimum three quarts of water at all times.",
+          "The trail vehicle will have six water cans on hand."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/PCI, Enforcement"
+          ]
+        },
+        "who": {
+          "values": [
+            "NCOIC, Cadre, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Forced Ruck March"
+      },
+      "hazard": "Heat Casualty",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Soldiers are in the correct uniform and have no cold weather/wet weather gear on unless static for more than 30mins",
+          "Medical Personnel will be in the trail vehicle in the event a possible heat injury occurs."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/PCI, Enforcement"
+          ]
+        },
+        "who": {
+          "values": [
+            "NCOIC, Cadre, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Forced Ruck March"
+      },
+      "hazard": "Ankle injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Candidates will be inspected prior to step off to ensure serviceability of their boots.",
+          "Medical Personnel will be in the trail vehicle in the event a possible heat injury occurs."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/PCI, Enforcement"
+          ]
+        },
+        "who": {
+          "values": [
+            "NCOIC, Cadre, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Firing/Live Fire Exercise/Weapons Qualification"
+      },
+      "hazard": "Negligent Discharges",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will maintain muzzle awareness.",
+          "Ensure Soldiers wear all required PPE for training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief/Range Brief and enforcement"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC/RSO and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Firing/Live Fire Exercise/Weapons Qualification"
+      },
+      "hazard": "Inexperienced Soldiers",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Demonstration of proper weapon safety on the range.",
+          "Soldiers will maintain muzzle awareness.",
+          "Ensure Soldiers wear all PPE for training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief/Range Brief and enforcement"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC/RSO and Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Wildlife Factors"
+      },
+      "hazard": "Animals on the range/Insect Bites/ Animal Attack",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Identify wildlife threats in the training area, temporarily halt training if animal appears. Do not engage the wildlife.",
+          "Contact animal/range control as needed."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief and enforcement"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather Factors"
+      },
+      "hazard": "Lightning, High Winds, and Rain",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Lightning: Pull antennas down. Ensure Soldiers are under cover",
+          "Move to lightning protection area",
+          "High winds/Rain: reduce speed,wear proper PPE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/ PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Cold Weather Injuries"
+      },
+      "hazard": "Chilblains, Frostbite, and Hypothermia",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Cadre will patrol the sleeping area throughout the night.",
+          "Proper Cold Weather gear and sleeping gear will be inspected prior to bed down."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCC/ PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Land Navigation"
+      },
+      "hazard": "Soldier lost in Land Navigation Training Area",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be thoroughly briefed on the boundaries of the Land Navigation Course. They will also have chem lights and head lamps for extra visibility at night.",
+          "Cadre will constantly patrol boundaries of land Navigation Course.",
+          "Panic Azimuth will be written on score sheets."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Cadre patrols"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Evacuation"
+      },
+      "hazard": "Medical Emergency due to injury",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Medical Vehicle located in a central area",
+          "Strip Map to Ambulance Exchange Point/ hospital on Hand",
+          "PMCS of EVAC VIC"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Soldiers briefed on location of Medics/ CLS"
+          ]
+        },
+        "who": {
+          "values": [
+            "Truck Commander, NCOIC, Front line leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Vehicle Rollover During Movement",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Each vehicle will adhere to posted speed limits and maintain a following distance of no less than 50 meters",
+          "All air guards and drivers will wear harnesses, helmets, and body armor",
+          "Ground guides will be in plain view of drivers and will be utilized when pulling vehicles off of hardball roads, particularly IVO linkup point."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All personnel will receive Ramp/convoy brief prior to SP."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Injury while moving on uneven terrain with load (60lbs Ruck)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All personnel will be briefed on route.",
+          "All personnel will only move as fast as the terrain will allow."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Confirmation Brief of Sniper Candidates"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Lane Walkers"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "I assess the overall initial risk to be medium due to catastrophic severity of unlikely probability.\rI assess the overall residual risk to be low due to critical severity of unlikely probability.\r\rMost Dangerous Risk: Negligent Discharges\rMitigation: Sniper cadre will conduct a demonstration of proper weapon safety on the range. Soldiers will maintain muzzle awareness at all times, and all Soldiers will wear all PPE for training. \rMost Likely Risk: Lower extremity injury during movement on uneven terrain under limited visibility.\rMitigation: Lane walkers will be CLS qualified. A CASEVAC vehicle will be present at all times.\rComprehensive safety and range briefs will be given to every Soldier prior to conduct of every tryout event. Range OIC, RSO, and Safeties will be on look out at all times for unsafe acts. Medical Personnel/CLS will constantly provide check ups on candidates.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder/20240222 Sniper Tryouts DRAW DD2977.pdf",
+  "source_directory_id": 49,
+  "source_directory_name": "New folder",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

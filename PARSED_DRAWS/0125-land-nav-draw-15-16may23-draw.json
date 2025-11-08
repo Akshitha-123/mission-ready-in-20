@@ -1,0 +1,183 @@
+{
+  "mission_task_and_description": "Land Navigation",
+  "date": "2023-04-19",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Karadayi, Kyle",
+    "rank_grade": "2LT/O-1",
+    "duty_title_position": "Platoon Leader",
+    "unit": "A TRP, 1 SQDN, 2CR",
+    "work_email": "kyle.n.karadayi.mil@army.mil",
+    "telephone": "DSN: 314-599-3235",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": "Land Navigation West and South",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Conduct Dismounted Tactical Movement/Maneuver in and around wildlife."
+      },
+      "hazard": "Injuries from encounters with wildlife such as foxes, wolves or deer",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief soldiers on wildlife safety, animals will be left alone and not antagonized."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "External Factors"
+      },
+      "hazard": "Dehydration/Heat Exhaustion",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Every soldier will carry 3 quarts of water following Dragoon Standard."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Inspect soldiers are topped off on water."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "External Factors"
+      },
+      "hazard": "Trips, sprains, leg injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Advise soldiers of dangerous terrain."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "External Factors"
+      },
+      "hazard": "Soldiers getting lost",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Panic Azimuth given",
+          "Identify boundary roads",
+          "Roving safeties"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "External Factors"
+      },
+      "hazard": "Rain/lighting",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ensure all personnel are equipped with proper uniform."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct mounted movement to training site"
+      },
+      "hazard": "Vehicle accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ramp brief conducted prior to departure from Motor Pool",
+          "ALL SMs will wear Dragoon Standard",
+          "Safety equipment inspected prior to departure",
+          "Dispatch books inspected prior to departure",
+          "All drivers and VCs will understand the route"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ramp brief and inspections conducted prior to departure to training"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "RSO and OIC will orient soldiers to the range and conduct a safety brief. Rovers will be moving throughout the Land Navigation courses to ensure Soldiers are safe.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (77) - Copy - Copy/Land Nav (DRAW) 15-16MAY23.pdf",
+  "source_directory_id": 125,
+  "source_directory_name": "New folder (77) - Copy - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

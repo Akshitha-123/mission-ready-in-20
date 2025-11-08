@@ -1,0 +1,520 @@
+{
+  "mission_task_and_description": "Apache Troop / Student Age Center (SAC) Community Outreach Event - 07AUG24",
+  "date": "2024-07-29",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Cochran, Hunter, C",
+    "rank_grade": "1LT/02",
+    "duty_title_position": "A1 Platoon Leader",
+    "unit": "A Troop, 1 SQDN, 2CR",
+    "work_email": "hunter.c.cochran.mil@army.mil",
+    "telephone": "+1 (682) 406-3317",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": "SAC Community Outreach",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Maneuvering Vehicles on Rose Barracks"
+      },
+      "hazard": "Tactical Vehicle maneuvering IVO of Dismounts",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around Rose Barracks.",
+          "Maximum of 5mph if operating within 8 meters of dismounted troops or with a ground guide.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "All Soldiers inside of a tactical vehicle will either be seated in a designated seating platform with a seatbelt, or standing with a restraint harness.",
+          "Soldiers will be no higher than name-tape defilade if standing/outside of vehicle while it is moving.",
+          "Leaders understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "Tactical Vehicles will use a ground guide when maneuvering within 10 meters of dismounts."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety & Ramp Briefs, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Hazardous conditions as a result of inclement weather (Heavy Rain, Lightning, slippery roads, etc)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicles adhere to all speed limits when operating around Rose Barracks",
+          "Vehicles will reduce speeds IOT allow safe operation.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "If there is lightning in the area, training will halt, SMs will move to covered areas or areas away from high conductors.",
+          "SMs will ground equipment in a formation until it is safe to continue training"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Slips, trips, falls & other misc. injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers climbing on top of tactical vehicles wear a helmet and maintain 3-points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "No soldier will be out of the front hatch of a ICV-D while the vehicle is moving on unimproved roads",
+          "OIC/RSO understands and has briefed MEDEVAC plan on the real world casualty evacuation plan.",
+          "A designated vehicle will be marked properly for CASEVAC/MEDEVAC.",
+          "Driver and Medic/CLS certified person will be briefed on routes, and strip maps with coordinates of AXP stored in vehicle.",
+          "Medic will carry medic certification paperwork at all times.",
+          "Driver and Medic will remain with MEDEVAC Vehicle at all times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Equipment Loss",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and during training period IAW WE SOP.",
+          "Sensitive items will be accounted for after every mission/iteration.",
+          "All issued sensitive items tied down IAW Troop SOP.",
+          "Sensitive items inventory conducted IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, SOPs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Hot/Cold Weather Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will be briefed on weather conditions and carry appropriate items from their ECWS. -Refresher class on signs of hot and cold weather injuries. -OIC sets the uniform and NCOs enforce those standards to reduce threat of heat/cold weather related injuries."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Accidental Discharge of a Weapon",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Prior to event, clear any weapon system mounted on Strykers",
+          "Prior to event, conduct deliberate ammunition shakedown in/around vehicles and soldiers",
+          "Remove firing pin of weapon systems",
+          "Ensure weapons are always pointed in safe direction"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Weapons Clearing, SOPS, Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Injury from moving/rolling vehicle",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Prevent children from approaching/being within arms reach of any part of Stryker that could shift the gear of the vehicle",
+          "All of the keys to the vehicles will stay out of ignition and in centralized location or with driver",
+          "Chock blocks present under wheels of parked vehicles",
+          "Vehicle in park / Breaks engaged"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, SOPS, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Vehicle top hatches hitting children",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure all hatches are opened and secured prior to start of event",
+          "Secure all hatches with 550 cord so they can't move/close shut"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions, Leaders Spot Checking"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Rear troop door closes on individual",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Rear troop door is opened completely, on flat surface, prior to start of event",
+          "Vehicle engine remains off throughout duration of event",
+          "Training audience brief on dangers of door, unsafe locations around door, and raising switches to avoid"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions, Leaders Spot Checking"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Injuries from cuts by sharp edges in/around Stryker vehicles",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Vehicle crews identify and mark overly sharp and protruding areas inside of the vehicles with Red Duct Tape.",
+          "Children under constant supervision when inside of vehicles. Soldiers monitor to ensure children are avoiding any unsafe surfaces."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Visual Markings, Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Slips, trips, or falls when on/around rear ramp of vehicle.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure soldiers assist children as they enter the vehicles.",
+          "Soldiers ensure children are not jumping off or on to the rear ramp."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Inadvertent Classified Information Leak",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Equipment that broadcasts or uses classified data is not displayed to training audience"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Fire in Vehicles",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure the Fire Extinguishers inside of the Strykers are present and serviceable",
+          "Ensure the serviceability of the AFES systems in each vehicle"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PMCS of Vehicles, Safety Brief, CONOP, PCC/PCI, Spot Checking by Leaders"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Children getting lost",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers brief children on dangers of leaving immediate training area",
+          "Soldier identify to the children the limits of where they may be. Use traffic cones and white engineer tape and instruct children to not pass this area",
+          "Soldiers be attentive to PAX count upon arrival to station and at exit (line up single file and count)",
+          "SAC workers preferably could move with the groups of kids and walk with them to the follow on stations"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Lane marking, Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Instructional period being deemed harsh or offensive by parent or guardian of children",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Initiative by SAC or 1/A to create a signed waiver for each legal guardian to sign off stating they approve of the demonstration",
+          "Have alternative instructional plan for those students that can not participate in the Stryker round robin."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Creation of waiver, Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Instructional Period in/around Vehicles"
+      },
+      "hazard": "Children touching any potentially overly dangerous medical material while in/around the MEV",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure that any areas in/around the MEV that would have children present have the following items removed: needles, drugs/controlled substances, automatic defibrillators"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions, Spot checking by leadership"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Exposure to heavy rain, lightning, hail, or extreme winds/tornado",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Immediately move the children in a quick and orderly fashion to a safe, secure area with strong overhead cover (not conductor).",
+          "Take cover underneath sturdy tables or desks",
+          "Cancel main outdoor training plan and continue, when safe, with alternate training plan"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Monitoring current and future weather updates, Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Inclement Weather"
+      },
+      "hazard": "Heat Injury",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Minimize the time children spend in direct sunlight. Find and utilize areas of shade.",
+          "Keep vehicle hatches opened (secured and fastened)",
+          "Ensure there is a Medic on Standby at MEV site with CLS Bag",
+          "Soldiers be attentive to warning signed of heat injuries (heat exhaustion, heat stroke)",
+          "Have a cooler with iced bottles of water for each child. Hand out during round robin event",
+          "At the MEV station have an arm immersion heat dump site"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, CONOP, PCC/PCI, Constant monitoring of conditions"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOs, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "This is a living document. Newly identified risks will be recorded and mitigated accordingly and risk acceptance will be approved at the appropriate level. If risk exceeds a Commander's authority, the subordinate Commander will provide risk mitigation courses of actions (COAs) to higher headquarters IOT obtain risk acceptance approval.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/4/Petting Zoo DRAW unsigned.pdf",
+  "source_directory_id": 34,
+  "source_directory_name": "4",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

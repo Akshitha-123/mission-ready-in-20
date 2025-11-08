@@ -1,0 +1,243 @@
+{
+  "mission_task_and_description": "LIVE AT4 RANGE, RG 105\r(28AUG2024)",
+  "date": "2024-07-25",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Cochran, Hunter C",
+    "rank_grade": "1LT/02",
+    "duty_title_position": "A1 Platoon Leader",
+    "unit": "A Troop, 1 SQDN, 2CR",
+    "work_email": "hunter.c.cochran.mil@army.mil",
+    "telephone": "+1 (682) 406-3317",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": "AT4 RANGE CONOP 28 AUG 24",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firer will fire in safe directions and will be controlled from behind by RSO/lane safeties",
+          "Firer will take all directions from the tower",
+          "Medic will be present at all times on the range and will have a vehicle present",
+          "OIC will notify range control of any injury occurring on the range",
+          "Targetry will be placed between range fans",
+          "Muzzle awareness will be maintained at all times",
+          "Firer will be certified on load, unload and clearing procedures prior to firing on the range",
+          "Lane safeties will ensure safe firing techniques",
+          "Firing Lanes will be oriented across range, and none will be ahead or behind other lanes"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- NCOIC gives all commands to upload weapons - Safeties Supervision - Safety clears weapon before leaving firing area - Leadership will ensure no two ranges are within each others’ firing lane"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Ignorance of load, unload, and clearing procedures",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "RSO will give a demonstration of the range procedures during the safety brief",
+          "All firers will do a \"dry run\" with inert AT-4s before the range goes hot",
+          "Firers will identify range fans prior to firing",
+          "Safeties will ensure that weapons are oriented properly",
+          "All weapons will be inspected after clearing",
+          "All firers will be qualified on their assigned weapon, optics and lasers"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Safety Briefing - Safety Supervision - Team Leaders - Buddy Clear"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Burns/Abrasions from materials leaving the weapon system",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Medics will be at range to treat any burns or other minor injuries"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Leader awareness - Safety Briefing -Clearly Marked \"No entry\" back-blast area."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Range Fire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Personnel will not move forward of firing position unless instructed to do so"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Communications will be maintained with Range Control"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Loss of Communication with Range Control",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range will immediately go to cold status until communication is resorted",
+          "Back up will be cell phone to Company and SQDN Offices, and to Range Control"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- PCIs/PCCs - Leader awareness"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Lost/Damaged Equipment",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All equipment will be secured and tied down appropriately",
+          "All leaders will put hands on all sensitive items prior to leaving the range"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- PCIs/PCCs - Sensitive Items check before and after the range"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "External Factors"
+      },
+      "hazard": "Wildlife on Range",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firing will cease if wildlife enters the range area and commence once the range is clear of wildlife"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Range Safety Briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "External Factors"
+      },
+      "hazard": "Low Flying Aircraft",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firing will cease on range until aircraft has left range area",
+          "Range Control will be notified of aircraft by OIC or RSO"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Range Safety Briefing - Leader Supervision"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "OIC and RSO will orient soldiers to the range and conduct a safety brief immediately following range occupation. Soldiers will coach/safety each other on the firing line with NCOs safetying in a 1:1 ratio. Newly Identified risks will be recorded and mitigated accordingly and risk acceptance will be improved at the appropriate level. Every Soldier will be considered a safety. If they see an unsafe act they will call a cease fire and notify everyone to stop training until the issue is resolved. This is a living document. OIC and RSO will continuously monitor all aspects of the range.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/3/AT4 DRAW for CO Signature.pdf",
+  "source_directory_id": 23,
+  "source_directory_name": "3",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

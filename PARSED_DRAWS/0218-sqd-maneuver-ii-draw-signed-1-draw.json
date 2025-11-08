@@ -1,0 +1,293 @@
+{
+  "mission_task_and_description": "L 3/2CR SQD Maneuver II, 08OCT2024",
+  "date": "2024-06-19",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Jackson, Karl, W",
+    "rank_grade": "1LT/O2",
+    "duty_title_position": "L TRP 2nd PLT PL",
+    "unit": "L 3/2CR",
+    "work_email": "karl.w.jackson2.mil@army.mil",
+    "telephone": "+1 (401) 864-6942",
+    "uic_cin": "WDA6LO",
+    "training_support_or_lesson_plan_or_opord": "SQD Maneuver Training",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Unauthorized Range Access",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Gate guards will be",
+          "posted at high traffic areas.",
+          "Communications with",
+          "the OIC Gate Guards",
+          "will be maintained at all",
+          "times.",
+          "Gate Guards will have",
+          "shifts that are not",
+          "excessive in length and",
+          "be provided supplies to",
+          "support their mission",
+          "(water, batteries,",
+          "frequencies, etc.).",
+          "Brief all participants to immediately report potential unauthorized access on the Range to the OIC and RSO."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Brief Troops to Task OIC/RSO Supervision"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Gate Guard personnel"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Stryker rollover or accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All drivers will conduct",
+          "vehicle PMCS prior to movement, all Soldier's will adhere to posted speed limit signs, drive",
+          "defensively, and wear",
+          "restraint harnesses.",
+          "The vehicle will have a",
+          "licensed driver and a",
+          "vehicle commander.",
+          "The driver will have a",
+          "minimum of 6 hours of",
+          "rest prior to departure.",
+          "All personnel inside the",
+          "vehicle will wear the",
+          "appropriate PPE IAW 2CR standard.",
+          "Ground guides will be used when maneuvering all vehicles in congested areas",
+          "Use of proper hand and arm signals when maneuvering all vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Conduct safety brief at each phase, addressing: speed, route, and vehicle safety"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Driver Vehicle Commander Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Movement Under Limited Visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief crews on procedures during limited visibility conditions.",
+          "Soldiers will use NODs, DVEs, and RWS FLIR during limited visibility and night time operations.",
+          "White light will be use when conducting admin moves.",
+          "Ground guides will be used during times of degraded visibility."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs and PCIs Brief limited visibility conditions during safety brief."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Crews Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Inclement weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Use of snow chains when snow and ice are on the ground.",
+          "Reduce vehicle speed based on road condition",
+          "Use of ground guides and chem lights during poor visibility due to weather.",
+          "If lightning is in the immediate area all personnel will move to the nearest grounded hard stand structure or spread out in low ground away from all equipment."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ensure Soldiers know how to install snow chains properly. Brief inclement weather condition and safety measures during safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Brief all Soldiers on procedure when finding a UXO.",
+          "Clear the area surrounding the UXO.",
+          "Mark UXO, call EOD and Range Operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Fire on the Range",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "OIC will monitor temperature and humidity of ground surface.",
+          "Verify fire danger posted by Range Operation daily.",
+          "Identify fire team and have appropriate FFE on-hand and ready.",
+          "OIC will place range in \"DRY\" status and notify Range Operation."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief Fire fighting detail"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Fire fighting detail"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Wildlife on Range",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will be briefed to leave wildlife alone and",
+          "how to identify",
+          "venomous insects/snakes."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO Safeties All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Cold Weather Injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range OIC/RSO will monitor the weather and change the uniform accordingly."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Movement Through Rough Terrain",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Participants will be briefed prior to training to take care in low visibility and avoid hazardous terrain",
+          "OIC will make determinations as to the pasability of terrain"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Breif"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The OIC, RSO, and range leadership will conduct a range safety brief prior to all training. The OIC and RSO are overall responsible for safety. However, safeties and instructors have the responsibility to be actively engaged in range activities and Soldier actions so as to mitigate risk at the lowest level possible and ensure overall safety for the training event. Safety Brief and inspections will also ensure all other mentioned risks are properly mitigated. At least one vehicle and medic will be on site in the unlikely event of any serious injuries.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (43)/SQD Maneuver II DRAW Signed 1.pdf",
+  "source_directory_id": 218,
+  "source_directory_name": "New folder - Copy (43)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

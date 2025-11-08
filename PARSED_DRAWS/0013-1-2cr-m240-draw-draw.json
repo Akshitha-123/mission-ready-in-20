@@ -1,0 +1,313 @@
+{
+  "mission_task_and_description": "M240 QUALIFICATION RANGE\r(12-22APR22)",
+  "date": "2022-03-24",
+  "prepared_by": {
+    "name_last_first_middle_initial": "ARGHAVANI, DANIEL, M",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "PLATOON LEADER",
+    "unit": "C TRP, 1 SQDN, 2CR",
+    "work_email": "DANIEL.M.ARGHAVANI.MIL@ARMY.MIL",
+    "telephone": "+49 162 4828213",
+    "uic_cin": "WASFC0",
+    "training_support_or_lesson_plan_or_opord": "M240 QUALIFCATION RANGE",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "COLLISION WITH MILITARY OR CIVILIAN MOTOR VEHICLES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "TROOPS WILL MOVE IN PLATOON SIZED ELEMENTS IOT MINIMIZE THE POSSIBILITY OF COLLISIONS.",
+          "EACH VEHICLE WILL HAVE AN FM RADIO AND ADHERE TO 50-100 m INTERVALS BETWEEN VEHICLES.",
+          "WILL ADHERE TO SQDN SOP REGARDING VC AND REAR GUARD AWARENESS."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "CONVOY SAFETY BRIEF, RAMP BRIEF"
+          ]
+        },
+        "who": {
+          "values": [
+            "CONVOY COMMANDER, VCs, RSO, ALL LEADERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "LOST/DAMAGE EQUIPMENT",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "ALL EQUIPMENT WILL BE SECURED AND TIED DOWN",
+          "ALL LEADERS WILL PUT HANDS ON ALL SENSITIVE ITEMS BEFORE LEAVING RANGE"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs, HANDS ON SENSITIVE ITEMS"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "DRIVER FATIGUE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SOLDIERS WILL BE GIVEN AN IN-DEPTH SAFETY BRIEF CONCERNING ROAD SAFETY",
+          "LEADERS WILL MONITOR SOLDIERS AND VEHICLE OPERATIONS.",
+          "LEADERS ENSURES A REST PLAN IS IN PLACE TO ENSURE DRIVERS ARE PREPARED TO OPERATE VEHICLES"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFTEY BRIEF, RAMP BRIEF, PLATOON LEADERSHIP"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, ALL LEADERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M240 QUAL"
+      },
+      "hazard": "AMMUNITION ACCOUNTABILITY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "EACH SOLDIER WILL BE ISSUED AMMUNITION ONLY PRIOR TO EXECUTION. UPON COMPLETION OF THE LANE EACH SOLDIER WILL BE FUNNELED THROUGH A CHOKE POINT WHERE ALL AMMUNITION WILL BE TURNED INTO THE ASP, AND EACH SOLDIER'S WEAPON AND MAGAZINES WILL BE INSPECTED FOR AMMUNTION."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, PCC/PCI/CHOKE POINT AT ASP"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, SAFETIES, SOLDIERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M240 QUAL"
+      },
+      "hazard": "NEGLIGENT DISCHARGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SOLDIERS WILL USE TRIGGER DISCIPLINE AND ONLY PLACE ROUNDS IN THE WEAPON AND CHARGE THE WEAPON PRIOR TO ENGAGING TARGETS.",
+          "UPON COMPLETION OF EACH ENGAGEMENT, SELECTOR SWITCHES WILL BE PLACED ON SAFE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, SPOT CHECKS"
+          ]
+        },
+        "who": {
+          "values": [
+            "ALL LEADERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M240 QUAL"
+      },
+      "hazard": "RICHOCHET, WEAPON ORIENTED OTHER THAN DOWNRANGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "FULL DRAGOON STANDARD WILL BE WORN WHEN ON THE FIRING LINE DURING EXECUTION OF M240 QUALS.",
+          "SOLDIERS BRIEFED REGARDING BOTH POSSIBILILITY OF RICHOCHET AND IMPORTANCE OF MAINTAINING MUZZLE DISCIPLINE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, RANGE CONSTRUCTION, SPOT CHECKS"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, SAFETIES, SOLDIERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M240 QUAL"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "ANY SOLDIER WHO IDENTIFIES WILDLIFE ON THE RANGE DURING LIVE FIRE WILL IMMEDIETLY CALL CEASE FIRE",
+          "SOLIDERS WILL NOT INTERACT WITH OR TOUCH ANY WILDLIFE",
+          "RSO WILL CONDUCT BRIEFING OUTLINING POTENTIAL WILDLIFE HAZARDS"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, SOLDIERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M240 QUAL"
+      },
+      "hazard": "WEAPONS MALFUNCTION",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "IMMEDIATE ACTION WILL BE PERFORMED, FOLLOWED BY REMEDIAL ACTION. IF WEAPON MALFUNCTION CONTINUES AFTER REMEDIAL ACTION, LEVEL 20 ARMORERS WILL BE CALLED TO CHECK WEAPON SYSTEM."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, LANE SAFETIES"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, SOLDIERS, LANE SAFETIES"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M240 QUAL"
+      },
+      "hazard": "HOT/COLD WEATHER INJURIES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SOLDIERS WILL BE BRIEFED ON WEATHER CFONDITIONS AND CARRRY APPROFPRIATE EQUIPMENT.",
+          "REFRESHER CLASS ON SIGNS OF HEAT/COLD WEATHER INJURIES.",
+          "OIC/RSO WILL DICTATE UNIFORM STANDARD. NCOS ENFORCE THOSE STANDARDS TO REDUCE THREAT OF HEAT/COLD RELATED INJURIES"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF AND PCC/PCIS"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, ALL LEADERS, MEDICS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M240 QUAL"
+      },
+      "hazard": "AMMUNITION LOSS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "RSO WILL WALK THE RANGE WITH LANE SAFETIES AND VERIFY ALL BRASS HAS BEEN POLICED."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, LANE SAFETIES"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, LANE SAFTIES, ASP NCOIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M240 QUAL"
+      },
+      "hazard": "FRATRICIDE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "EACH SOLDIER WILL HAVE A LANE SAFETY AND BE BRIEFED ON THEIR SECTOR OF FIRE. ALL SOLDIERS WILL WEAR FULL DRAGOON STANDARD AND KEEP WEAPONS POINTED DOWN RANGE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEFING, LANE SAFETIES, FULL PPE"
+          ]
+        },
+        "who": {
+          "values": [
+            "INDIVIDUAL SOLDIERS, LANE SAFETIES, RSO, PLATOON LEADERSHIP"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "OIC and RSO will orient soldiers to the range and conduct a safety brief. Soldiers will coach/safety each other on the firing line with NCO's safetying in a 1:1 ratio. Newly Identified risks will be recorded and mitigated accordingly and risk acceptance will be improved at the appropriate level. Every Soldier will be considered a safety, if they see an unsafe act they will call a cease fire and notify everyone to stop training. This is a living document. OIC and RSO will continuously monitor all aspects M240 Qual.  Newly identified risks will be recorded and mitigated accordingly and risk acceptance will be approved at the appropriate level.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/20/1-2CR M240 DRAW.pdf",
+  "source_directory_id": 13,
+  "source_directory_name": "20",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

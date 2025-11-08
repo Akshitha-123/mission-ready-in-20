@@ -1,0 +1,861 @@
+{
+  "mission_task_and_description": "Operation Trident Ready PLT STX located on TA4, FARP West, and Urban Assault Course (11NOV23-19DEC23). \rNon-standard training on US/NATO/Partner Army Equipment.",
+  "date": "2023-10-26",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Cesarski, Peter, J",
+    "rank_grade": "CPT/O-3",
+    "duty_title_position": "Commander",
+    "unit": "BTRP 1/2 CR",
+    "work_email": "peter.j.cesarski.mil@army.mil",
+    "telephone": "314-599-3290",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "7ATC OPERATION TRIDENT READY",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Weapons Utilization"
+      },
+      "hazard": "Fratricide (Blank Ammo)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Weapons will be carried at the low ready with the muzzle facing down range.",
+          "Soldiers are briefed on orientation downrange and how to load and unload weapons systems properly.",
+          "Ensure that a qualified medic with equipment is on site. Medic is requested by the training unit and briefed and inspected by the OIC and RSO prior to opening range.",
+          "Ensure that all Soldiers on the firing line are in proper PPE uniform."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Safety Briefings -Lane Safety Checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "Cadre, OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Utilization"
+      },
+      "hazard": "Negligent Discharge (Blank Ammo)",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ensure that only Range RSO/OIC clear/inspect all weapons before Soldiers leave the CT area.",
+          "Ensure all Soldiers on the are in the proper uniform.",
+          "Range OIC and RSO commence self-imposed check-fire if a unintentional discharge occurs.",
+          "All Soldiers will be released and validated by the CP/Beachmaster"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, lane safeties and individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammo Management"
+      },
+      "hazard": "Unauthorized removal of Ammunition from Range",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Cadre will supervise the employment of all weapon systems, if a weapon is possibly damaged, Cadre will certify the damage and annotate on a 2404.",
+          "Soldier weapons will be check by Cadre member before firing after a Soldier falls or drops weapon.",
+          "RSO/OIC will ensure that weapons are not left unsecured and are properly maintained."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Cadre Supervision and Oversight"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Utilization"
+      },
+      "hazard": "Damaged Weapon Systems",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Cadre will supervise the employment of all weapon systems, if a weapon is possibly damaged, Cadre will certify the damage and annotate on a 2404.",
+          "Soldier weapons will be check by Cadre member before firing after a Soldier falls or drops weapon.",
+          "Weapons will be restored in proper condition prior to be being turned into the arms room."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Range Safety Briefing to all Personnel"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical"
+      },
+      "hazard": "Causality Evacuation",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range OIC and RSO will identify the nearest AXP/HLZ during planning.",
+          "Each day of operations, Range OIC and RSO will conduct a \"Down Man\" drill to rehearse and time treatment and movement of causality from POI to AXP.",
+          "Should an injury happen, Soldier will conduct self aid and buddy aid. Medic will arrive on scene of POI and all Soldiers will take further direction from Qualified Medic.",
+          "E112 will be called and Range Control/BDE Safety will be notified of any injury for \"Life, Limb, or Eyesight.\""
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Range Safety Briefing to all Personnel"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Medics, Cadre, Individual Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Environmental"
+      },
+      "hazard": "Cold Weather Mitigation (Winter Months)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Cadre will monitor weather and adjust uniform accordingly.",
+          "Soldiers will pack and bring ECWCS level 1-2, 4-6 as well as winter sleeping bags with bivy cover for overnight stays.",
+          "The OIC/RSO is responsible for weather calls and uniform. OIC/RSO will also update daily risk management worksheet.",
+          "GP tents should be available with bullet heaters to offset cold exposure for a continued period of time."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Range Safety Briefing to all Personnel"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Cadre, Individual Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Environmental"
+      },
+      "hazard": "Hypothermia/Overheating",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ice Sheets/Warming Blankets will be staged at various points as well as with the Medics.",
+          "Soldiers identified as a heat/cold weather injury will immediately be treated by Cadre and Medics.",
+          "Rehearsals for treatment will be conducted prior to range going hot."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Range Safety Briefing to all Personnel"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Medics, Cadre, Individual Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammo Management"
+      },
+      "hazard": "Cross-mix Ammunition",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Separated by LOT number and by DODIC.",
+          "Squad Leaders will ensure proper distribution on-site.",
+          "Responsible NCO will be present and manning the ammo pad at all times."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-7th ATC Policies on Range Operation -Range Safety Briefing to all Personnel"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Medics, Cadre, Individual Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tactical Movements"
+      },
+      "hazard": "Catastrophic Vehicle Accident - Vehicle Roll-overs and major collisions",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Ensure that all drivers are licensed and trained, and there is CLS capability in each vehicle.",
+          "Soldiers will sit on seating platforms only.",
+          "Soldiers will wear seat belts and will not be seated where there is not a restraining system while vehicle moving.",
+          "TC, VC, and Air Guards wear safety harness.",
+          "All Soldier wear at minimum ACH/CVC, eye protection, and gloves. Soldiers will also wear IOTV when riding outside the hatch.",
+          "Soldiers will not be higher than name tape defilade when vehicles are moving.",
+          "Soldiers will not ride in same compartment with cargo, unless cargo is fully restrained in all directions.",
+          "Ensure all drivers are licensed to operate the equipment they are driving.",
+          "VCs/TCs ensure proper spacing between vehicles.",
+          "CDR or OIC briefs standard spacing and speed limit during safety brief, and makes appropriate changes during the operation via TSM/FM.",
+          "Platoon Sergeants ensure soldiers rehearse rollover drills IAW SOP",
+          "All UKF will receive hands-on instruction prior to operating vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "TACSOP, Leader Supervision, and Daily Assessments, Rollover Drills, TRM SOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Leadership and First Line Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Incorporation"
+      },
+      "hazard": "Accidents with LN POVs and commercial vehicles",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "OIC/RSO will reduce speed in rural areas and narrow road ways.",
+          "Drivers and VCs will execute defensive driving techniques while driving.",
+          "VCs/ TCs ensure proper spacing between vehicles.",
+          "Standard spacing and speed limit during safety brief, and makes appropriate changes during the operations via FM.",
+          "Drivers obey all traffic signs.",
+          "Place warning triangles 300m from disabled vehicle in both directions. - Stay on shoulder and away from roadway when recovering disabled vehicles or at a halt.",
+          "VCs/TCs must stay alert and enforce safety and operating standards.",
+          "No driving on pedestrian roadways or highways should take place."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Unit SOP, TACSOP, AER 55-1, AER 385-55, and Convoy Safety Briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commanders, VCs/TCs, and Small Unit Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Incorporation"
+      },
+      "hazard": "Traffic Entanglements, Roadside Breakdown, and Damage to HN Property",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "VCs/TCs ensure proper spacing between vehicles. CDR brief standard spacing and speed limit during safety brief, and makes appropriate changes during the operation via FM.",
+          "PMCS before, during, and after all movements."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Unit SOP, TACSOP, AER 55-1, AER 385-55, and Safety Briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commanders, VCs/TCs, and Small Unit Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Incorporation"
+      },
+      "hazard": "Inexperienced Driver",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Conduct driver/TC/VC training.",
+          "New and inexperienced driver will be closely monitored in the event of hazardous weather or traffic conditions.",
+          "Driver may NOT use any device that may distract attention from driving (Cell phone, electronic device, etc).",
+          "OIC/RSO adjust speed based on driver capabilities as necessary.",
+          "Ensure operators are briefed and aware of pedestrian traffic on roads, intersections, and crosswalks."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "VC enforce AER 385-55 App G, Risk Management, and Safety Spot Checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "Small Unit Leadership and VCs/TCs"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Incorporation"
+      },
+      "hazard": "Adverse environmental and road conditions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Convoy speed set according to weather conditions.",
+          "Delay departure if conditions are unfavorable.",
+          "Updated weather forecasts prior to each leg along the route."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SOPs, Weather Updates, and SITREPs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Incorporation"
+      },
+      "hazard": "Driver fatigue",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure drivers get proper rest before SP to reduce the potential for traffic accidents caused by operator fatigue.",
+          "Commanders will establish and enforce specific rest and duty hour limits for operators.",
+          "Operators will be provided with at least 8 consecutive hours of rest during any 24–hour period.",
+          "Supervisors will emphasize sleep, especially the night before a mission",
+          "VCs/TCs must be observant for sporadic/abnormal patterns of travel.",
+          "VCs/TCs must communicate with Convoy Commanders if they observed unsafe behavior and call the movement to a halt to correct behavior."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Small Unit Leadership, and VCs/TCs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tactical Movements"
+      },
+      "hazard": "Slips, trips, falls, musculoskeletal injuries, & other misc injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers execute PLT/COY STX in Full Dragoon Standard.",
+          "Care is taken in unknown areas with rough terrain during STX lanes execution.",
+          "Additional caution will be taken when executing night operations (if conducted).",
+          "Soldiers climbing on top of tactical vehicles wear a helmet and maintain 3-points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "Lane OIC/NCOICs understand and has briefed the real world casualty evacuation plan."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Rehearsals"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane OIC/NCOIC, Medics, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Language Barriers"
+      },
+      "hazard": "All military operations will be conducted across a significant language barrier.",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Linguists will be employed to maneuver at the PLT and COY level during STX.",
+          "Trainers will identify any UAF soldiers with English language abilities.",
+          "All training materials will be translated into Ukranian."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Linguist placement, translated materials"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Weapon Malfunction",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ammunition uploading conducted IAW TMs.",
+          "Operate weapon system IAW TM.",
+          "Training Support Personnel will have a dedicated area on the range to conduct concurrent training with PTU as needed.",
+          "Armorers will have repair kits on hand.",
+          "Range cadre will have additional tools and lubricants on hand.",
+          "Range cadre and Training Support Personnel will supervise all malfunctions handling."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Safety Brief - Conduct of Range Brief - Units conduct daily PCC/PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "- PTU Leadership -Training Support Personnel -OC/Ts -Troop Armorer/FST -Range safeties -OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Educate PTU on Danger, Identification, Marking, and Reporting of UXO",
+          "EOD handles all UXO.",
+          "Do not touch any identified UXO.",
+          "Soldiers are advised never to touch anything on the ground in the training area that they cannot positively identify as not having an explosive hazard."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Static Range Safety Brief - LFX Range Safety Brief - Unit SOPs. - Conduct of Range Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Safeties -Training Support Personnel - PTU Leadership -Graf EOD 475-8332"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tactical Vehicle Movement"
+      },
+      "hazard": "Excessive Speed",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Speed limit is based on the following: Road Conditions, Vehicle Type and Visibility.",
+          "Normal Driving Conditions:",
+          "On paved portions of the main tank trails: 60 KPH (36 MPH)",
+          "On gravel portions of the main tank trails: 50 KPH (30 MPH)",
+          "Range roads: 30 KPH (18 MPH)",
+          "When passing troops: 16 KPH (10 MPH)",
+          "Limited Visibility/Inclement weather Driving Conditions:",
+          "RSO, OIC, 7ATC Safety Office, and GTA Range Operations may reduce speed limits.",
+          "Built up areas: All vehicles reduce speed to 10 MPH when approaching, entering, or",
+          "driving in/around built up areas.",
+          "In all cases where there is a speed limit sign or other posted instructions – obey the posted",
+          "limit and / or sign.",
+          "RSOs understand the range, participate in setup, and conduct COG Risk Mitigation Brief as needed",
+          "RSOs brief all Range Cadre and Training Support Personnel the risks on their range",
+          "Trainng Support Personnel brief PTU the Conduct of Range brief, including all risks briefed by the RSOs"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Obey posted speed limit signs. -Safety briefs -Follow GTA SOP #1 -Unit SOPs -Drivers Familiarization prior to Ranges (2/2CR)"
+          ]
+        },
+        "who": {
+          "values": [
+            "-RTU Leadership -Vehicle commanders and operators -Training Support Personnel -OC/Ts - Safeties - RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tactical Vehicle Movement"
+      },
+      "hazard": "Personnel injured while operating vehicle and falling off vehicles.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Maintain three (3) points of contact while on top of any vehicle.",
+          "Personnel will not jump off vehicles, climb off/down",
+          "Wear ACH when climbing on/off or on top any vehicle."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "- Safety Brief - SOPs, Training Briefings, FM, TMs -Leader Supervision"
+          ]
+        },
+        "who": {
+          "values": [
+            "-PTU Leadership -Vehicle commanders and operators -Training Support Personnel -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "Environmental"
+      },
+      "hazard": "Spilled petroleum products in or on vehicle components or compartments into the environment",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Inspect daily PMCS using sight and smell for evidence of spilled flammable petroleum products. Apache Troop backside Support Personnel execute secondary PMCS daily.",
+          "Use secondary containment devices to capture residual spills",
+          "Report all spills greater than 1.5 gls immediately to Training Support Personnel",
+          "Training Support Personnel completes and published 5 W's IAW CCIR matrix; Sends to RSO, OIC, GTA Firing Desk"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Daily PMCS by RTU and TSP -PCC/PCIs - Load plan inspections -Range Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-PTU Leadership -Training Support Personnel -Vehicle commanders and operators -RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct SUAS\rOperations"
+      },
+      "hazard": "Loss of Link (LOL) or possible loss of Air Vehicle (AV) due to multiple AVs operating in close proximity",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "1. Keep AVs at least 200",
+          "meters above other",
+          "Ground Control Stations",
+          "(GCS).",
+          "2. If AVs are operating",
+          "within the same ROZ,",
+          "separate AVs by altitude",
+          "if approved by ATC",
+          "3. Keep GCS at least 400",
+          "meters away other GCS."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-TM -ATTP -Safety briefs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct SUAS\rOperations"
+      },
+      "hazard": "Ceilings below VFR minimals",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Operators will not",
+          "operate AV below VFR",
+          "minimum unless they have",
+          "an approved risk",
+          "assessment where the",
+          "weather change is",
+          "annotated"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Get a military weather brief before flights to determine if the ceilings are below minima."
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct SUAS\rOperations"
+      },
+      "hazard": "Inclement weather to include lightning",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Land AV as soon as",
+          "practical, disassemble",
+          "GCS and all operators",
+          "will take cover as",
+          "necessary."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct SUAS\rOperations"
+      },
+      "hazard": "Live Propeller",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Operators will not approach air vehicle from the rear",
+          "Operators will notify all personnel in the area of live propeller"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Operators will only approach air vehicle from the front and echo the command \"Battery In\" when powering up the air vehicle"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct SUAS\rOperations"
+      },
+      "hazard": "Air Vehicle damage",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Operators will fly with a Master Trainer present"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Master Trainer will be near the operators ready to take control of the air vehicle if necessary"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct SUAS\rOperations"
+      },
+      "hazard": "Mid-Air collision",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Operators will only fly in approved airspace"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Restricted Operating Zones will be established for 1 air vehicle at a time"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SUAS Master Trainer (MT)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Conduct SUAS\rOperations"
+      },
+      "hazard": "Tree Collision",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Operators will operate above 150' AGL",
+          "Leave air vehicle in tree IAW local SOP"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Fly above the highest point in ROZ. Do not climb tree or disturb tree. Notify German Forest Division through Range Operations"
+          ]
+        },
+        "who": {
+          "values": [
+            "UAS Operators"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Unauthorized visitors on range",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Only one range entry points, all other access is closed off to traffic",
+          "All entry points will be behind firing lines",
+          "Gate guards will notify OIC/RSO of the personnel and vehicles moving on and off the range",
+          "Gate guards will not allow any personnel on the range without OIC/RSO acknowledgment",
+          "OIC and RSO will maintain strict accountability of all trainees, training support, range cadre, and visitors on the range."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Range Safety Brief -Gate Guard Orientation Brief -Rehearsals -Range certification"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Unit Leadership -Interpreters -Unit Training Support -Gate Guards -Range Safeties -OIC, RSOs"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    }
+  ],
+  "overall_residual_risk_level": "M",
+  "overall_supervision_plan": "I assess overall initial risk to be high based upon catastrophic severity of seldom probability. I assess the overall residual risk to be medium based on catastrophic severity of unlikely probability.\r\rMost Likely Risk 1: Cold Weather Injury \rMitigation: Cadre will monitor weather and adjust uniform accordingly, Soldiers will pack and bring appropriate cold weather gear. The OIC/RSO is responsible for weather calls and uniform.\rMost Likely Risk 2: Vehicle Accident \rMitigation: Cadre will monitor weather and road conditions, leaders will execute pre-movement Vehicle Inspections, Briefs and Rollover Drills prior to all movements.   \rMost Dangerous Risk: Live ammunition brought to STX from previous ranges.\rMitigation: Ammunition will be separated by DODIC number, Squad Leaders will ensure proper distribution on-site. OIC/RSO will conduct ammo shakedown at the start of each training day. Safeties will validate magazines and loading procedures. Range Control will be notified immediately of any changes.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (35)/20231026 OTR PLT STX DRAW.pdf",
+  "source_directory_id": 162,
+  "source_directory_name": "New folder - Copy (35)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

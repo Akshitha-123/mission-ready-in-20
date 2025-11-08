@@ -1,0 +1,334 @@
+{
+  "mission_task_and_description": "Claymore Range, 23AUG24",
+  "date": "2024-07-30",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Zeilstra, Justin, A",
+    "rank_grade": "2LT/O1",
+    "duty_title_position": "L TRP 3rd PLT PL",
+    "unit": "L 3/2CR",
+    "work_email": "justin.a.zeilstra.mil@army.mil",
+    "telephone": "+49 162 4811772",
+    "uic_cin": "WDA6LO",
+    "training_support_or_lesson_plan_or_opord": "Lightning Troop Claymore Training",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Movement to DEMO 1"
+      },
+      "hazard": "Vehicle Accidents in the cantonment area",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All vehicle movements in the cantonment area have a ground guide. All vehicles are up to date on all services, and receive proper PMCS before, during, and after every movement",
+          "Convoy Leaders will give ramp brief prior to movement. Vehicle Crews will wear all required PPE while operating tactical vehicles. Vehicles will follow range roads and use ground guides in parking areas."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Every vehicle has at least one ground guide while vehicle is moving within the cantonment area, at the fuel point, or in tightly congested and/or hard-to-navigate terrain. Vehicle Commanders (VCs) conduct proper PCC prior to every movement to inspect dispatch logs; vehicles are inspected by their operator and QA/QC'd by a mechanic before being dispatched. Any vehicle delinquent on services or possessing a deadlining fault is switched out with another vehicle prior to leaving the cantonment area."
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Crews, Convoy Leaders, Training Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Movement to DEMO 1"
+      },
+      "hazard": "Poor Road Conditions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All vehicle crews are licensed on all equipment. Soldiers refrain from medications that impair one's ability to operate weaponry or heavy machinery/vehicles prior to execution",
+          "Vehicle Crews will place snow chains on their vehicles if road conditions deteriorate. Additionally, Vehicle Crews will drive at reduced speed limits to and from the Range. These actions will be conducted on order from Convoy Leaders."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PLTs verify that all vehicle crews participating in TNG are licensed and trained on their equipment. VCs conducts PCCs prior to every movement to include an inspection of dispatch log and drivers licenses. All Soldiers refrain from medication at least 24 hours prior to and throughout the training event. Prior to every movement, PLT leadership conducts PCIs to verify driver's logs and licenses."
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Leaders, Vehicle Crews, Training Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Ammo handling, storage and distribution",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ammo NCOIC will be certified and conduct all procedures in accordance with GTA SOP",
+          "Ammo will not be placed on the ground, Provide adequate guards for ammo while range is not occupied.",
+          "All ammo handling procedures will be followed for transport, storage, and distribution"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Brief PCC/PCI Ammo Handler Certs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Hearing Loss",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Safeties check for hearing protection, to ensure Troopers have standard issue protection or they will be provided hearing protection prior to firing weapon."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs, Extra Hearing Protection available at range, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Eye and Body Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firers will wear APEL approved ballistic eyewear while at the range to prevent expelled dirt, dust, and debris from damaging their eyes.",
+          "Firers will wear ACH and Body Armor with front and side plates at all times on the range"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCIs, Lane Safeties, Safety Validation exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "SM Down Range and Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief range limits and cease fire procedures movement downrange will be controlled by the range safeties.",
+          "Range safeties will ensure that no SMs are downrange of live Claymores prior to the setup and detonation of a Live Claymore."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Mishandling of Claymore/Unfamiliar with Equipment",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SMs will conduct iterations on a Dummy Claymore, and a Blank Claymore iteration with instructor validation prior to detonating a live Claymore. Instructor will stop SM during the live Claymore iteration for any Safety Violations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Dummy Claymore Training, Blank Claymore certification iteration, Instructor observation"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Instructors, Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Misfire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will conduct misfire procedures IAW Chapter 2 of TC 3-22.23 (FM 23-23)"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Dummy Claymore Training, Blank Claymore certification iteration, Instructor observation"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Instructors, Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Emergency"
+      },
+      "hazard": "MEDEVAC Process",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "The MEDEVAC vehicle will have a designated area with enough space allowing easy deployment and return. The MEDEVAC vehicle will contain a copy of the MEDEVAC route and location of the AXP. The vehicle utilizes a pre-designated route which will be confirmed clear of all personnel and vehicles prior to start of the LFX. All Soldiers will be briefed on the MEDEVAC vehicles route. A MEDEVAC rehearsal and route rehearsal to the AXP is conducted daily prior to the start of live fire training in both day and night iterations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "The lead medic will brief his plan for MEDEVAC including the route. Medics will conduct a rehearsal as well as route recon at least once daily. The Senior Medic will brief the MEDEVAC procedures and route to all personnel on the range during the daily safety brief. All vehicles are inspected for MEDEVAC strip map and procedures"
+          ]
+        },
+        "who": {
+          "values": [
+            "Medics, OIC/RSO, VCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Environment"
+      },
+      "hazard": "Weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range will cease fire with severe weather that would impact live Claymore detonation. Range OIC will contact GTA range operations desk if the weather is called into question."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Environment"
+      },
+      "hazard": "Wildlife on the Range",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SMs will be instructed to not interact with local wildlife. Range OIC/NCOIC, RSO, Instructors, or SMs will call a cease fire to training if local wildlife is present in detonation zone."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Safety Validation Exercise, Observation of detonation zone"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations / Environment"
+      },
+      "hazard": "Fire on the Range",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "If a fire occurs on the range, range operations will cease and the fire detail will attempt to put out the fire with fire beaters. If the fire cannot be extinguished, the OIC will call Range Operations for additional support.",
+          "If a fire occurs IVO the ammo point, the same procedures will be followed, but fire extinguishers may be employed. If a fire reaches within the ammo point, all personnel will evacuate to a a predetermined rally point at a minimum 400m distant from the ammo point and behind a terrain feature or hard cover."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Employ Fire Beaters and/or Fire Extinguishers; Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Fire Detail, Ammo Detail, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "This is a living document. Newly identified risks will be recorded and mitigated accordingly and risk acceptance will be approved at the appropriate level. The RCO reserves the authority to authorize HIGH RISK mission. If risk exceeds a Commander's authority, the subordinate Commander will provide risk mitigation courses of actions (COAs) to higher headquarters IOT obtain risk acceptance approval.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (49)/Claymore DRAW Signed 23 August 24.pdf",
+  "source_directory_id": 224,
+  "source_directory_name": "New folder - Copy (49)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

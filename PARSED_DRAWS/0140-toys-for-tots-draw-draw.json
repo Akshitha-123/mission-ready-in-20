@@ -1,0 +1,139 @@
+{
+  "mission_task_and_description": "Bull Troop Toys For Tots Ruck March (Neustadt an der Waldnaab to Windischeschenbach) 28DEC24",
+  "date": "2024-12-20",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Chamblee, Brandel, E",
+    "rank_grade": "1LT/02",
+    "duty_title_position": "3 Bull Platoon Leader",
+    "unit": "B TRP, 1SQDN, 2CR",
+    "work_email": "brandel.e.chamblee.mil@army.mil",
+    "telephone": "+1 (602) 315-3628",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": "Bull Troop Toys For Tots Ruck March",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": null
+      },
+      "hazard": "Hazard: Limited Visibility Effect: Vehicles hitting participants, Participants not seeing other hazards along the route",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Participants will have headlamps and PT belts. Road guards will be stationed at all road crossings with PT belts, flash lights, and traffic cones. Route will seldom be on a road and will instead utilize trails",
+          "Initial: C-III-M",
+          "Residual: D-III-L"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Include safety brief in convoy brief. Ensure participants and trail vehicle."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, NCOIC, Safeties, CLS Certified SM"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": null
+      },
+      "hazard": "Hazard: Fatigue Effect: injury, impaired judgement, illness",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ensure route is thoroughly reconnoitered and marked so participants do not ruck more than 12 miles",
+          "Roaming medic will monitor participants",
+          "Trail vehicle will collect participants that are unable to continue",
+          "Initial: D-II-M",
+          "Residual: D-III-L"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Multiple recons, CLS Certified SM"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, CLS Certified SM"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": null
+      },
+      "hazard": "Hazard: Inclement Weather Effect: Hot/cold weather injuries, increased risk for slipping",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers have appropriate wet/cold weather gear.",
+          "Water points with each road guard",
+          "Roaming medics will monitor participants and have ice sheets and medical supplies.",
+          "Initial: C-III-M",
+          "Residual: C-II-L"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief participants about hazards, roaming medics, WALK kits, ice sheets"
+          ]
+        },
+        "who": {
+          "values": [
+            "NCOIC, Squad Leaders, CLS Certified SM"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": null
+      },
+      "hazard": "Hazard: Civilian traffic Effect: collision with pedestrian",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ensure road guards and participants maintain situational awareness, look out for vehicles on the road. Participants and road guards wear reflective belts and headlamps",
+          "Initial: D-II-M",
+          "Residual: E-II-L"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief participants and road guards of PPE expectations"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, Squad Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": null,
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (15)/Toys For Tots DRAW.pdf",
+  "source_directory_id": 140,
+  "source_directory_name": "New folder - Copy (15)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

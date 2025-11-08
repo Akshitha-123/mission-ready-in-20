@@ -1,0 +1,236 @@
+{
+  "mission_task_and_description": "Killer Troop conducts a claymore range at Demo 1 on 10 October 2024.",
+  "date": "2024-06-25",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Golden, Dylan H",
+    "rank_grade": "2LT/O1",
+    "duty_title_position": "Platoon Leader",
+    "unit": "3/2CR, K TRP",
+    "work_email": "dylan.h.golden.mil@army.mil",
+    "telephone": "+49 15115288568",
+    "uic_cin": "WDA6K0",
+    "training_support_or_lesson_plan_or_opord": "M18A1 Employment Range CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Movement to Demo 1"
+      },
+      "hazard": "Vehicular Accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Convoy Leaders will give ramp brief prior to movement.",
+          "Vehicle Crews will wear all required PPE while operating tactical vehicles.",
+          "Vehicles will follow range roads and use ground guides in parking areas."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ramp Brief, Proper PPE, Ground Guides, Follow Roads"
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Crews, Convoy Leaders, Training Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Live Claymore Use and Detonation"
+      },
+      "hazard": "Ammo handling, storage and distribution",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ammo will not be placed on the ground, will be covered with fire retardant tarps, and separated by DODIC.",
+          "Adequate guards will be provided for ammo.",
+          "All ammo handling procedures will be followed for transport, storage, and distribution."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs, Ammo NCOIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Live Claymore Use and Detonation"
+      },
+      "hazard": "Hearing Loss",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Safeties check for hearing protection, to ensure Troopers have standard issue protection or they will be provided hearing protection prior to firing weapon."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Live Claymore Use and Detonation"
+      },
+      "hazard": "Eye and Body Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firers will wear approved ballistic eye wear while at the range to prevent expelled dirt, dust, and debris from damaging their eyes.",
+          "Firers will wear Helmet and Body Armor while down range for additional protection."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCIs, Lane Safeties, Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Live Claymore Use and Detonation"
+      },
+      "hazard": "SM Down Range and Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief range limits and cease fire procedures; movement downrange will be controlled by the range safeties.",
+          "Range safeties will ensure that no SMs are downrange of live Claymores prior to the setup and detonation of a Live Claymore."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs, Lane Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Live Claymore Use and Detonation"
+      },
+      "hazard": "Mishandling of Claymore",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SM's will conduct numerous iterations on a Dummy Claymore with instructor validation prior to detonating a live Claymore.",
+          "Instructor will stop SM during the live Claymore iteration for any Safety Violations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Dummy Claymore Training, Blank Claymore certification iteration, Instructor observation"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Instructors, Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Environmental"
+      },
+      "hazard": "Inclement Weather",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range will cease fire with severe weather that would impact live Claymore detonation.",
+          "Range OIC will contact GTA range operations desk if the weather is called into question."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Enviromental"
+      },
+      "hazard": "Wildlife",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "SMs will be instructed to not interact with local wildlife.",
+          "Range OIC/NCOIC, RSO, Instructors, or SMs will call a halt to training if local wildlife is present in detonation zone."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Observation of detonation zone"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The OIC, RSO, and range leadership will conduct a range safety brief prior to all live fire training. The OIC and RSO are overall responsible for safety. However, safeties and instructors have the responsibility to be actively engaged in range activities and soldier actions so as to mitigate risk at the lowest level possible and ensure overall safety for the training event. Safety briefs and inspections will also ensure all other mentioned risks are properly mitigated. At least one vehicle and medic will be on site in the unlikely event of any serious injuries.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (26)/Killer Claymore OCT DRAW.pdf",
+  "source_directory_id": 199,
+  "source_directory_name": "New folder - Copy (26)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

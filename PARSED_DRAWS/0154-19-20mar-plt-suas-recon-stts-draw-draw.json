@@ -1,0 +1,250 @@
+{
+  "mission_task_and_description": "PLT sUAS Recon STTs (19-20MAR)",
+  "date": "2025-03-10",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Burns, Cavan, F",
+    "rank_grade": "1LT/O2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "B TRP, 1/2CR",
+    "work_email": "cavan.f.burns.mil@army.mil",
+    "telephone": "+49 1515 3349666",
+    "uic_cin": "WASFB0",
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Tactical Vehicle maneuvering IVO of Dismounts",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will adhere to all speed limits when operating around GTA. Speed will be reduced during hours of limited visibility",
+          "Maximum of 5mph if operating within 8 meters of dismounted troops or with a ground guide.",
+          "Vehicle movement formations maintain safe and proper following distances.",
+          "Soldiers will be no higher than name-tape defilade if standing/outside of vehicle while it is moving.",
+          "Leaders will understand the real world casualty evacuation plan and brief subordinates accordingly.",
+          "All vehicles will have licensed drivers, certified to drive at night, posess a valid 5988 and dispatch"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Safeties, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Hazardous road conditions as a result of inclement weather (Heavy Rain, slippery roads, etc)",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Drivers/VCs adhere to posted speed limits.",
+          "Vehicle maneuvers limited to predetermined routes on RG 201",
+          "Leaders execute deliberate range reconnaissance and identify possible dangerous areas.",
+          "Vehicles will reduce speed in the event of hazardous road conditions."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI, Safety Brief, CONOP, Roll-over Drills, Rehearsals, Concept of Medical Support"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, NCOs, VCs, Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Vehicle Collision",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ground guides will be used when maneuvering all vehicles within range gates",
+          "Ground guides will be used entering and exiting motor pools/parking areas",
+          "Use of proper hand and arm signals when maneuvering all vehicles",
+          "Vehicles will follow posted speed limits and proper following distances while driving/convoying within GTA",
+          "Troop Commanders are the release authority for movement between ranges, based on assessment of Crew rest.",
+          "All Troopers wear PPE, seatbelts, and gunners restraints when moving inside tactical vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy CDRs inspect licenses as well as conduct standard convoy brief prior to any movement of, vehicles within GTA"
+          ]
+        },
+        "who": {
+          "values": [
+            "PLs, PSGs, SLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Maneuvering vehicles on GTA"
+      },
+      "hazard": "Vehicle Rollover",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Follow posted speed limits for proper convoy movements",
+          "All soldiers conduct ramp brief to include roll over drills prior to SP",
+          "All Troopers wear PPE, seatbelts, and gunners restraints when moving inside tactical vehicles.",
+          "All equipment inside vehicles will be secured."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Convoy Commanders execute standard convoy brief and safety inspection prior to SP. -Standard PMCS and dispatching procedures -Monitor posted road conditions."
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commanders, PLs, PSGs, SLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training"
+      },
+      "hazard": "Slips, trips, falls, miscellaneous injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers climbing on top of vehicles will wear helmets and maintain three points of contact.",
+          "No unharnessed Soldiers when vehicles are moving.",
+          "CASEVAC vehicle will meet all GTA requirements (marked in 4 locations, ability to lay litter flat)."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, CONOP distribution"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, leaders."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training"
+      },
+      "hazard": "Equipment Loss",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to and following each iteration.",
+          "All sensitive items tied down IAW SOP.",
+          "Sensitive Item inventory conducted following training IAW Squadron Recovery SOP."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Leader involvement, inventories, thorough PCC/PCIs."
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders at all levels, soldiers."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training"
+      },
+      "hazard": "Loss of communications with Range Control",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "If communications are lost, OIC will call cease fire until communications can be regained.",
+          "OIC/RSO utilize PACE plan"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "OIC/RSO preparation, Safety brief."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training"
+      },
+      "hazard": "Cold Casualty",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "RSO and medics will monitor the weather conditions and keep OIC informed of weather situations",
+          "Previous cold weather casualties will be identified by medics on each range",
+          "Troopers use appropriate level of ECWCS system based on the weather condition"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief inclement weather conditions during safety brief. Troop leadership dictate and inspect ECWCS level."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, OIC, PLs, PSGs, SLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "Through the deliberate preparation, proper equipment, and safety briefs, the training will be executed in a safe manner. \r\rThe convoy commander will hold responsibility during the movements to and from the range. Upon arrival, the safety will be handled by all individuals, but it will primarily be handled by the OIC and RSO. \r\rFrequent spot checks of soldiers and the weather will shape the overall plan for training, and it will drive any change, if necessary.\rSafety briefs will be conducted before each iteration.  \r\rThe overall training plan has been and will be mitigated to a residual risk level of low.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (28)/19-20MAR PLT sUAS Recon STTs DRAW.pdf",
+  "source_directory_id": 154,
+  "source_directory_name": "New folder - Copy (28)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

@@ -1,0 +1,202 @@
+{
+  "mission_task_and_description": "Trench RXLs and combat PT at Range 201 on 04APR24.",
+  "date": "2024-04-01",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Jang, James D.",
+    "rank_grade": "1LT",
+    "duty_title_position": "3rd PLT Platoon Leader",
+    "unit": "L Trp 3/2CR",
+    "work_email": "james.d.jang.mil@army.mil",
+    "telephone": "+49 170 3250755",
+    "uic_cin": "WDA6L0",
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Movement under limited visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "1. All Soldiers will wear all required PPE while on the range and in the training area.",
+          "2. All weapons will be inspected by SL/ PSG prior to moving to any range.",
+          "3. Ensure MEDEVAC plan is understood by all soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "1. PPE is mandatory to wear during all training 2. NOD's BII will be inspected prior to SP 3. Safety Brief prior to training"
+          ]
+        },
+        "who": {
+          "values": [
+            "1. OIC 2. TL's, SL's, PSG"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Stryker rollover or accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "1. All drivers will conduct",
+          "vehicle PMCS prior to movement, all Soldier's will adhere to posted speed limit signs, drive",
+          "defensively, and wear",
+          "restraint harnesses.",
+          "2. The vehicle will have a",
+          "licensed driver and a",
+          "vehicle commander.",
+          "3. The driver will have a",
+          "minimum of 6 hours of",
+          "rest prior to departure.",
+          "4. All personnel inside the",
+          "vehicle will wear the",
+          "appropriate PPE IAW 2CR standard.",
+          "5. Ground guides will be used entering and exiting motor pools.",
+          "6. Use of proper hand and arm signals when maneuvering all vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "1. PMCS Vics 2. PPE worn in vehicles 3. Safety Ramp brief before SP"
+          ]
+        },
+        "who": {
+          "values": [
+            "1. Vehicle Crews 2. OIC 3. TL's, SL's, PSG, trainers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Movement Under Limited Visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief crews on procedures during limited visibility conditions.",
+          "Soldiers will use NODs, DVEs, and RWS FLIR during limited visibility and night time operations.",
+          "White light will be use when conducting admin moves.",
+          "Ground guides will be used during times of degraded visibility."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs and PCIs Brief limited visibility conditions during safety brief."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Crews Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Inclement weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Reduce vehicle speed based on road condition",
+          "Use of ground guides and chem lights during poor visibility due to weather.",
+          "If lightning is in the immediate area all personnel will move to the nearest grounded hard stand structure or spread out in low ground away from all equipment."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief inclement weather condition and safety measures during safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Safeties Crews"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Brief all Soldiers on procedure when finding a UXO.",
+          "Clear the area surrounding the UXO.",
+          "Mark UXO, call EOD and Range Operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Heat Casualty",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Platoon Medic will be on-site with his aid bag",
+          "Water will be available on the vehicles",
+          "PLT Leadership will control work hours and effort in accordance with the weather."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Checks on soldiers condition Water station near the vehicles."
+          ]
+        },
+        "who": {
+          "values": [
+            "Medic PL, PSG, SLs, TLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The PL and PSG will ensure all control measures are in place for safe training. However, team leaders, squad leaders, and VCs have the responsibility to be actively engaged in patrolling lanes and Soldier actions so as to mitigate risk at the lowest level possible and ensure overall safety for the training event.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (54)/Trench DRAW L TRP 3-2CR.pdf",
+  "source_directory_id": 230,
+  "source_directory_name": "New folder - Copy (54)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

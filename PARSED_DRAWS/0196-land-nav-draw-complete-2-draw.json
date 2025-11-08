@@ -1,0 +1,26 @@
+{
+  "mission_task_and_description": "2. DATE (DD/MM/YYYY) 3. PREPARED BY a. Name (Last, First, Middle Initial) b. Rank/Grade c. Duty Title/Position d. Unit e. Work Email f. Telephone (DSN/Commercial (Include Area Code)) g. UIC/CIN (as required) h. Training Support/Lesson Plan or OPORD (as required) i. Signature of Preparer Five steps of Risk Management: (1) Identify the hazards (2) Assess the hazards (3) Develop controls & make decisions (4) Implement controls (5) Supervise and evaluate (Step numbers not equal to numbered items on form) 4. SUBTASK/SUBSTEP OF MISSION/TASK How: Who: How: Who: How: Who: How: Who: How: Who: Additional entries for items 5 through 9 are provided on page 2. 10. OVERALL RESIDUAL RISK LEVEL (All controls implemented): 11. OVERALL SUPERVISION PLAN AND RECOMMENDED COURSE OF ACTION a. Name (Last, First, Middle Initial) b. Rank/Grade c. Duty Title/Position d. Signature of Approval Authority 12. APPROVAL OR DISAPPROVAL OF MISSION OR TASK e. Additional Guidance: DD FORM 2977, JAN 2014 APPROVE DISAPPROVE EXTREMELY HIGH HIGH MEDIUM LOW Page 1 of ____ Pages 5. HAZARD 6. INITIAL RISK 7. CONTROL 9. RESIDUAL RISK LEVEL 8. HOW TO IMPLEMENT/ WHO WILL IMPLEMENT Adobe Professional X LEVEL Land Naviagtion Course 07/03/2023 Ogg, Nathaniel H. SGT/E-5 Squad Leader HHT MTR 3/2 CR nathaniel.h.ogg.mil@army.mil WDA6T0 Land Navigation Movement around Land Navigation Course Weather L - Saftey brief covering temperature and precipitation levels. Ensure everyone understands snivel and WW gear. - Check gear and saftey brief - Leaders L Dehydration L - Brief importance of consuming fluids - Leaders check water sources - Check water source, brief - Leaders L Injury M - Saftey Brief covering uneven terrain - Brief on CASEVAC plan - Conduct saftey brief - Leaders, Medic L Lost M - Panic azimuths - Pairs and teams - Ensure leaders are monitoring - Brief azimuths, conduct checks - Leaders L Wildlife L - Brief how animals can be dangerous and/or protected. Do not touch. - Saftey Brief - Leaders L SIGN Once all soldiers have arrived at the Land Nav course, the NCOIC/OIC will conduct a mass brief on the hazards of weather, dehydration, injuries sustained, soliders getting lost and the wildlife. They will also go over CASEVAC/MEDEVAC procedures, water points and location of latrines. The soldiers will they conduct their day portion where they will go out in teams and find the given points. Once complete, the soldiers will be briefed on the hazards of night land nav, explaining the importance of navigating the uneven terrain. Leaders will be monitoring the course and will be implementing all of the controls to mitigate risk. SIGN 4. SUBTASK/SUBSTEP OF MISSION/TASK 5. HAZARD 6. INITIAL RISK LEVEL 7. CONTROL 9. RESIDUAL RISK LEVEL 8. HOW TO IMPLEMENT/ WHO WILL IMPLEMENT DELIBERATE RISK ASSESSMENT WORKSHEET How: Who: How: Who: How: Who: How: Who: How: Who: How: Who: How: Who: How: Who: How: Who: How: Who: How: Who: How: Who: How: Who: DD FORM 2977, JAN 2014 Page ____ of ____ Pages How: Who: 13. RISK ASSESSMENT REVIEW (Required when assessment applies to ongoing operations or activities) b. Last Name c. Rank/Grade d. Duty Title/Position e. Signature of Reviewer a. Date 14. FEEDBACK AND LESSONS LEARNED 15. ADDITIONAL COMMENTS OR REMARKS Risk Assessment Matrix Probability (expected frequency) Frequent: Continuous, regular, or inevitable occurrences Likely: Several or numerous occurrences Occasional: Sporadic or intermittent occurrences Seldom: Infrequent occurrences Unlikely: Possible occurrences but improbable Severity (expected consequence) Catastrophic: Death, unacceptable loss or damage, mission failure, or unit readiness eliminated I Critical: Severe injury, illness, loss, or damage; significantly degraded unit readiness or mission capability II EH L Moderate: Minor injury, illness, loss, or damage; somewhat degraded unit readiness or mission capability III L L Negligible: Minimal injury, loss, or damage; little or no impact to unit readiness or mission capability IV L L L L Legend: EH – extremely high risk H – high risk M – medium risk L – low risk DELIBERATE RISK ASSESSMENT WORKSHEET A B C D E DD FORM 2977, JAN 2014 Page ____ of ____ Pages EH EH H H H H H M M EH M M M SIGN SIGN SIGN 1. Mission/Task Description: Briefly describe the overall Mission or Task for which the deliberate risk assessment is being conducted. 9. Residual Risk Level: After controls are implemented, determine resulting probability, severity, and residual risk level.",
+  "date": null,
+  "prepared_by": {
+    "name_last_first_middle_initial": null,
+    "rank_grade": null,
+    "duty_title_position": null,
+    "unit": null,
+    "work_email": null,
+    "telephone": null,
+    "uic_cin": null,
+    "training_support_or_lesson_plan_or_opord": "i. Signature of Preparer Five steps of Risk Management:",
+    "signature_of_preparer": null
+  },
+  "subtasks": [],
+  "overall_residual_risk_level": null,
+  "overall_supervision_plan": "DD FORM 2977, JAN 2014",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (23)/Land Nav Draw Complete (2).pdf",
+  "source_directory_id": 196,
+  "source_directory_name": "New folder - Copy (23)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

@@ -1,0 +1,224 @@
+{
+  "mission_task_and_description": "A TRP Urban Assault Course BDVI/Urban Ops Training",
+  "date": "2024-05-29",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Lowe, Nathanael",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "PLATOON LEADER",
+    "unit": "A TRP, 1/2CR",
+    "work_email": "nathanael.r.lowe.mil@army.mil",
+    "telephone": "+4915256490257",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "EXECUTE CLOSE QUARTERS COMBAT TRAINING/BATTLE DRILL SIX"
+      },
+      "hazard": "AMMUNITION ISSUE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "EACH SOLDIER WILL",
+          "BE ISSUED",
+          "AMMUNITION ONLY",
+          "PRIOR TO",
+          "EXECUTION. UPON",
+          "COMPLETION OF THE",
+          "LANE EACH SOLDIER",
+          "WILL BE FUNNELED",
+          "THROUGH A CHOKE",
+          "POINT WHERE ALL",
+          "AMMUNITION WILL",
+          "BE TURNED INTO THE",
+          "ASP, AND EACH",
+          "SOLDIER'S WEAPON",
+          "AND MAGAZINES",
+          "WILL BE INSPECTED",
+          "FOR AMMUNTION."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, PCC/ PCI/CHOKE POINT AT ASP"
+          ]
+        },
+        "who": {
+          "values": [
+            "ASP NCOIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE CLOSE QUARTERS COMBAT TRAINING/BATTLE DRILL SIX"
+      },
+      "hazard": "NEGLIGENT DISCHARGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SOLDIERS WILL USE SELECTOR SWITCH DISCIPLINE AND ONLY PLACE THE WEAPON SYSTEM ON FIRE PRIOR TO ENGAGING TARGETS.",
+          "UPON COMPLETION OF EACH ENGAGEMENT, SELECTOR SWITCHES WILL BE PLACED ON SAFE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, SPOT CHECKS"
+          ]
+        },
+        "who": {
+          "values": [
+            "SAFETIES, SOLDIERS, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE CLOSE QUARTERS COMBAT TRAINING/BATTLE DRILL SIX"
+      },
+      "hazard": "RICHOCHET, WEAPON ORIENTED OTHER THAN DOWNRANGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "FULL DRAGOON STANDARD WORN WHEN WITHIN 200m OF THE UAC.",
+          "SOLDIERS BRIEFED REGARDING BOTH POSSIBILILITY OF RICHOCHET AND IMPORTANCE OF MAINTAINING MUZZLE DISCIPLINE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, RANGE CONSTRUCTION, SPOT CHECKS"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, SAFETIES, SOLDIERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE CLOSE QUARTERS COMBAT TRAINING/BATTLE DRILL SIX"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "ANY SOLDIER WHO IDENTIFIES WILDLIFE ON THE RANGE DURING TRAINING WILL IMMEDIETLY CALL CEASE FIRE"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, SOLDIERS"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE CLOSE QUARTERS COMBAT TRAINING/BATTLE DRILL SIX"
+      },
+      "hazard": "WEAPONS MALFUNCTION",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "IMMEDIATE ACTION WILL BE PERFORMED, FOLLOWED BY REMEDIAL. AFTER REMEDIAL ACTION, LEVEL 20 ARMORERS ON-SITE WILL CHECK THE WEAPON."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, LANE SAFETIES"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO, SOLDIERS, LANE SAFETIES"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTE CLOSE QUARTERS COMBAT TRAINING/BATTLE DRILL SIX"
+      },
+      "hazard": "Breach of SDZs",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "SOLDIERS WILL ONLY ENGAGE TARGETS WITHING THE EXERCISE AREA.",
+          "SOLDIERS WILL USE UTM ROUNDS ONLY ON PLASTIC TARGETS & BALOONS WHILE INSIDE BUILDINGS AND ROOMS.",
+          "SOLDIERS WILL USE UTM ROUNDS ON OTHER SOLDIERS WHILE MANEUVERING BETWEEN BUILDINGS."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane safeties and RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "COLLISIONS WITH MILITARY OR CIVILIAN MOTOR VEHICLES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "A TRP WILL MOVE IN PLATOON SIZED ELEMENTS IOT MINIMIZE THE POSSIBILITY OF COLLISIONS.",
+          "EACH VEHICLE WILL HAVE AN FM RADIO AND ADHERE TO 50-100 m INTERVALS BETWEEN VEHICLES.",
+          "WILL ADHERE TO SQDN SOP REGARDING VC AND REAR GUARD AWARENESS."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "CONVOY SAFETY BRIEF"
+          ]
+        },
+        "who": {
+          "values": [
+            "CONVOY COMMANDER, VCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "Safety brief to be conducted by RSO and will cover range orientation, procedures from ammo point to the firing line, actions on the firing line, and clearance procedures.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (73) - Copy - Copy/Shoot House_04JUN24_UAC_DRAW.pdf",
+  "source_directory_id": 121,
+  "source_directory_name": "New folder (73) - Copy - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

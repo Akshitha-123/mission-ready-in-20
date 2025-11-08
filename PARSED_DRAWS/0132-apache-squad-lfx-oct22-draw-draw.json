@@ -1,0 +1,476 @@
+{
+  "mission_task_and_description": "Squad LFX 12-14OCT22",
+  "date": "2022-08-25",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Price, Jacob M.",
+    "rank_grade": "1LT/O2",
+    "duty_title_position": "Platoon Leader",
+    "unit": "Apache Troop, 1/2 CR",
+    "work_email": "jacob.m.price6.mil@army.mil",
+    "telephone": "+49 1624 801901",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Vehicle Movement\rTo/Around/From"
+      },
+      "hazard": "Distracted Drivers",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Vehicle Commanders",
+          "and team leaders will",
+          "ensure that drivers are",
+          "not using their",
+          "cellphones and are able",
+          "to operate a tactical",
+          "vehicle prior to",
+          "departure from the MP"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Timeline and concept of operations will be known by all drivers prior to SP so SM's can plan ahead and get an adequate amount of sleep"
+          ]
+        },
+        "who": {
+          "values": [
+            "Platoon Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Movement\rTo/Around/From"
+      },
+      "hazard": "Vehicle Fires",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "All vehicle occupants",
+          "should understand and",
+          "be familiar with the",
+          "locations and operation",
+          "of the vehicle fire",
+          "suppression system.",
+          "Fire extinguishers and",
+          "fire suppression system",
+          "should be inspected",
+          "and replaced/repaired",
+          "as necessary prior to",
+          "any movement."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All vehicles will be PMCS'd and checked for deficiencies prior to departing the MP"
+          ]
+        },
+        "who": {
+          "values": [
+            "Platoon leadership, Squad and team leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Movement\rTo/Around/From"
+      },
+      "hazard": "Rollover",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Rehearse Rollover drills",
+          "and egress procedures"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All drivers will be licensed on each variant and rollover procedures will be briefed prior to SP"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Movement\rTo/Around/From"
+      },
+      "hazard": "Pinch or crush Body Parts by Hood, Hatch, Door, or Ramp",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Proper ground guiding",
+          "procedures on the",
+          "range will be briefed",
+          "during range safety",
+          "brief"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ground guides will be selected beforehand and given instruction on proper procedures and where to stand while maintaining visual contact with the driver and maintaining situational awareness"
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Commander, Platoon and Squad Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Handling"
+      },
+      "hazard": "Misfire/Malfunctions",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Armorer/Master Gunner",
+          "will be present with",
+          "communications on",
+          "range.",
+          "Verify firers are trained",
+          "in proper barrel",
+          "changing and operating",
+          "procedures."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All Gun crews will be given a PMI and test out on proper function of the weapon"
+          ]
+        },
+        "who": {
+          "values": [
+            "Squad Leaders/RSO/Safties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Weapons Handling"
+      },
+      "hazard": "Runaway Gun",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "In the event of a",
+          "runaway gun, keep",
+          "weapon pointed down",
+          "range, attempt to break",
+          "belt if applicable and",
+          "remain in control until",
+          "all rounds are",
+          "expended."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Gun Crews will be briefed on proper misfire procedures during range safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "Range Safety Officer"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Manuever"
+      },
+      "hazard": "Fratercide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Clearly Identifiable shift and lift markers.",
+          "Clearly marking targets at night with distinguishing chem lights.",
+          "Rehearsals with dry and blank fire in day and night conditions.",
+          "Safeties walking down the different elements observing direction of fire.",
+          "PACE plan for shift and lift fire communication."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Rehearsals and re cocking elements that fail to demonstrate control during shifts and lift fire procedures."
+          ]
+        },
+        "who": {
+          "values": [
+            "Range Safeties, Platoon Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition\rStorage/Issue"
+      },
+      "hazard": "Fire/Explosion",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Verify appropriate",
+          "number and type of fire",
+          "extinguishers are on",
+          "hand and ensure that",
+          "the ammo point is clear",
+          "of any hazards and",
+          "cellphones are not used",
+          "within proximity of",
+          "ammo"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range OIC and RSO maintain an active presence and continuously check to ensure proper safety mitigations are being adhered"
+          ]
+        },
+        "who": {
+          "values": [
+            "Range OIC and RSO, Ammo NCOIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition\rStorage/Issue"
+      },
+      "hazard": "Mixing Blank and Live-Fire Ammunition",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Blank and live-fire",
+          "ammunition will not be",
+          "stored in or issued from",
+          "the same location at the",
+          "same time.",
+          "All ammunition and lot numbers verified and ammunition inspected to ensure blank and live ammunition are segregated and issued appropriately during SQD LTX.",
+          "Units conduct 100% ammo download and checks, supervised by RSO before clearing SQD LFX.",
+          "All weapons systems will have BFAs mounted prior to arrival at training.",
+          "BFAs checked by unit leadership and by OCs prior to start of each iteration."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ammo NCO / detail on ground will check to ensure they are issuing the correct ammo and separate storage locations of both live and blank ammo"
+          ]
+        },
+        "who": {
+          "values": [
+            "Ammo detail, RSO, OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Ammunition\rStorage/Issue"
+      },
+      "hazard": "Burns",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will execute SQD LTX in Full Dragoon Standard.",
+          "Proper clearing procedures will be briefed.",
+          "Proper technique for using smoke and pyro rehearsed prior to execution."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Training Plan, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/NCOIC, RSO, Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "General Execution"
+      },
+      "hazard": "Equipment Loss",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Sensitive items accounted for prior to, during, and after training period IAW WE SOP.",
+          "All issued sensitive items tied down IAW WE SOP and TRP SOPs.",
+          "Sensitive items inventory conducted IAW WE Recovery SOP",
+          "ITN Equipment will be accounted for after every movement. ITN SOP development."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Insepctions, Inventory, SOPs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "General Execution"
+      },
+      "hazard": "Grenade Employment",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Properly construct Bunker according to GTA Standards.",
+          "Conduct employment rehearsals with blue body grenades.",
+          "Safeties monitor movement of soldiers with grenades to ensure positive control.",
+          "Safeties control the employment of the grenade with contingency for improper use of the grenades like grenade trenches, wearing Dragoon Standard and rehearsals."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, SOPs, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Safeties, Soldiers and OCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "General Execution"
+      },
+      "hazard": "AT Weapons Malfunction and/or Misuses",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Properly construct Bunker according to GTA Standards.",
+          "Safeties monitor movement of soldiers with AT Weapons to ensure positive control.",
+          "Safeties control the employment and direction of fire for all AT Weapons .",
+          "Rehearse proper SOP for misfire."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, SOPs, PCC/PCI, RXLs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Safeties, Soldiers and OCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "General Execution"
+      },
+      "hazard": "Negligent Discharging of a Weapon System",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Conduct PCC/PCIs before each iteration.",
+          "Control the direction of fire with Shift and Lift Criteria clearly briefed and marked on the lane.",
+          "Deliberate Rehearsals on emplacement and employment of weapon system with a maneuver element."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, SOPs, PCC/PCI, RXLs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Safeties, Soldiers, and OCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "General Execution"
+      },
+      "hazard": "Night Operations with NVGs",
+      "initial_risk_level": "H",
+      "control": {
+        "values": [
+          "Rehearse night operations prior to SQD LFX on GTA.",
+          "PCC/PCI NODs and PEQs in order to ensure safe employment of weapon systems at night.",
+          "Clearly mark TRPs for shifts and lift fire.",
+          "Controlling rates of movement and direction of fire with each manuever element.",
+          "Night Familiarization on a range in order to increase night shooting confidence."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Briefs, Inspections, Inventory, SOPs, PCC/PCI, RXLs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Armorers, Safeties, Soldiers, and OCs"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "Lane OICs will continuously monitor all aspects of SQD LTX.  OICs, NCOICs, and Leaders will conduct checks for their respective unit and training as necessary.  Lane OICs, NCOICs, and Leaders will push accountability reports higher throughout the training period.  Real-world MEDEVAC and/or CASEVAC vehicle identified prior to the training event and located near the training element.  Driver and Medic/CLS briefed on routes, and strip maps with coordinates of AXP stored on vehicle.  Safety will be monitored from Lane OIC/NCOIC to Soldier and vice versa in order to ensure safe conduct of this Squad Life Fire Exercise.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (83) - Copy - Copy/Apache Squad LFX OCT22 draw.pdf",
+  "source_directory_id": 132,
+  "source_directory_name": "New folder (83) - Copy - Copy",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

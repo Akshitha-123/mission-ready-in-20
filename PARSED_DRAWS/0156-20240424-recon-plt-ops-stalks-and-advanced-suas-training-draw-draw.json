@@ -1,0 +1,269 @@
+{
+  "mission_task_and_description": "Recon Platoon OPs, Stalks, and Advanced sUAS Training\rLand Nav West\r13 MAY 2024",
+  "date": "2024-04-24",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Dunn, Aaron H",
+    "rank_grade": "1LT/ O-2",
+    "duty_title_position": "Recon Platoon Leader",
+    "unit": "1/2 CR HHT",
+    "work_email": "aaron.h.dunn.mil@army.mil",
+    "telephone": "+49 160 9867 4332",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "Recon Platoon OPs, Stalks, and Advanced sUAS Training",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Vehicle Movement"
+      },
+      "hazard": "Vehicle Rollover/Vehicle movement in limited visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Adhere to posted speed limits and maintain a safe following distance of at least 50 meters to reduce the risk of collisions or other accidents.",
+          "Conduct regular vehicle inspections and maintenance to ensure optimal performance and safety.",
+          "All air guards and drivers must wear proper PPE, including harnesses, helmets, and body armor, to protect against potential hazards during operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Before PMCS, Ramp Brief, PCC/ PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, VCs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Personnel struck by vehicle on road.",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will avoid crossing the road unless absolutely necessary, and only with the authorization of the appropriate authority.",
+          "Road crossings will be conducted with the assistance of designated road guards, who will be properly positioned to ensure the safety of personnel and to facilitate the crossing process.",
+          "All personnel will cross the road together in a group, in a controlled and orderly manner, to minimize the risk of accidents and to ensure proper coordination and communication."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Risk of injury due to trips and falls while walking on uneven terrain.",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range conditions will be thoroughly briefed during the safety brief, including the hazards present on the range and the appropriate safety procedures to follow.",
+          "To minimize the risk of injury, all personnel on the range will walk, even when not armed, and will be alert for any potential hazards.",
+          "A Combat Lifesaver (CLS) qualified Soldier will be available at a designated site to provide medical assistance if needed."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief and Aid Station"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO and CLS Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Dehydration",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "During the safety brief, emphasize the importance of staying hydrated and provide guidance on how to recognize and respond to signs of dehydration or heat-related illness. This includes ensuring that all soldiers are aware of the location and availability of potable water sources, and encouraging them to drink water frequently throughout the day. heat-related illnesses."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, CLS Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Adverse Weather Conditions"
+      },
+      "hazard": "Extreme Cold/Hot Weather",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Leaders should closely monitor soldier nutrition and hydration to help prevent cold/HOT weather injuries.",
+          "Utilize a buddy system to identify any possible cold weather injuries among soldiers, allowing for timely medical intervention if necessary.",
+          "Conduct a safety brief before operations in cold/hot weather environments to remind soldiers of the hazards and controls, as well as to emphasize the importance of following safety procedures."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/ PCIs to ensure that all soldiers have appropriate extreme weather gear and equipment, Safety brief, uniform standards, we will also ensure that all soldiers have access to a water source and will encourage them to stay hydrated to help prevent extreme weather injuries."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, OIC, and CLS Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Evacuation"
+      },
+      "hazard": "Medical Emergency; due to loss of life, limb or eyesight",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Designate a Combat Lifesaver (CLS) certified Soldier to be present on site at all times with a fully stocked CLS bag and knowledge of the nearest available medical aid stations (AXPs).",
+          "The OIC and RSO will carry a fully charged cell phone on their person at all times, to facilitate quick communication in case of an emergency.",
+          "Ensure that all emergencies are immediately reported to range control and emergency medical personnel for prompt and effective medical response."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "CLS Soldiers spot checked prior to training start times"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, OIC, and CLS Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Evacuation"
+      },
+      "hazard": "Medical Emergency due to injury",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "A CASEVAC vehicle will be located in a central area and equipped with necessary medical supplies and equipment to provide immediate medical attention to injured personnel.",
+          "A strip map to the nearest Ambulance Exchange Point (AXP) will be readily available on hand to ensure quick transportation of injured personnel to higher-level medical facilities for further treatment."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Soldiers briefed on location of CASEVAC vehicle"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, OIC, and CLS Soldier"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Range Operations"
+      },
+      "hazard": "Soldiers becoming lost during land navigation training",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will be required to carry their cell phones on their person during training to facilitate communication in case of an emergency.",
+          "All Soldiers will be issued with chem lights and head lamps to enhance their visibility at night and improve their ability to signal for help in case of an emergency.",
+          "Prior to the start of training, all Soldiers will be briefed on the use of cell phones, chem lights and head lamps in emergency situations, and instructed on the procedures for reporting and responding to emergencies."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All Soldiers will be given the cell phone numbers of RSO, OIC before leaving for the lane."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "UAS Deployment"
+      },
+      "hazard": "UAS colliding with a Soldier during launch or landing",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Prior to deploying or recovering any UAS, the UAS operators will inspect the area and ensure that a clear takeoff and landing lane is available.",
+          "The UAS operators will communicate with personnel on the ground to ensure that the area is clear and that no unauthorized personnel are present in the launch or landing area.",
+          "The UAS operators will follow proper launch and landing procedures and utilize appropriate safety measures to prevent collisions and other hazards during UAS operations.",
+          "All UAS operators will receive training on proper UAS operations and safety procedures prior to conducting any UAS operations.",
+          "All UAS operations will be conducted in accordance with applicable regulations and guidelines to ensure safe and effective operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCCs/ PCIs"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, and PLT Master Trainer (SGT Caliz)"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "Initial Risk Assessment: The overall initial risk is assessed as medium due to the infrequent probability of critical events.\rResidual Risk Assessment: The overall residual risk is assessed as low, attributed to the unlikely probability of critical events with effective control measures in place.\rMost Dangerous Risk: Vehicle Roll Over in the Training Area\rMitigation: To mitigate this risk, all air guards and drivers must adhere to PPE SOP, including harnesses, helmets, and body armor, to safeguard against potential hazards during operations. Prior to any vehicle movement, all VCs, Drivers, and Air Guards will establish internal communication. In instances of uncertainty regarding the safety of vehicle movement, the VC will dismount to assess the situation on the ground and provide guidance if necessary for enhanced safety.\rMost Likely Risk: Slips, Trips, and Falls\rMitigation: Mitigating the risk of slips, trips, and falls involves ensuring the correct usage of PPE during operations and reducing the speed of nonessential movements. Additionally, part of the mitigation strategy involves briefing soldiers on prevailing weather conditions and empowering them to identify and rectify any surfaces deemed unsafe before and during training events.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (3)/20240424 Recon PLT OPs, Stalks, and Advanced sUAS Training DRAW.pdf",
+  "source_directory_id": 156,
+  "source_directory_name": "New folder - Copy (3)",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

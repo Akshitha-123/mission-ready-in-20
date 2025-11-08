@@ -1,0 +1,333 @@
+{
+  "mission_task_and_description": "240 and 249 Qualifcation Range 13MAR to 14MAR 2024",
+  "date": "2024-01-21",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Wuerthner, Christian, A.",
+    "rank_grade": "1LT/02",
+    "duty_title_position": "Platoon Leader",
+    "unit": "K TRP, 3/2CR",
+    "work_email": "christian.a.wuerthner.mil@army.mil",
+    "telephone": "+49 15229865738",
+    "uic_cin": "WDA6K0",
+    "training_support_or_lesson_plan_or_opord": "240 and 249 Range 13-14MAR CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Movement to and From Range 202A"
+      },
+      "hazard": "1. Vehicular Accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Convoy Leaders will give ramp brief prior to movement. Vehicle Crews will wear all required PPE while operating tactical vehicles. Vehicles will follow range roads and use ground guides in parking areas."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ramp Brief, Rollover and other Drills, Proper PPE, Ground Guides, Follow Roads"
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Crews, Convoy Leaders, PLT Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Movement to and From Range 202A"
+      },
+      "hazard": "2. Poor Winter Road Conditions",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Vehicle Crews will place snow chains on their vehicles if road conditions deteriorate. Additionally, Vehicle Crews will drive at reduced speed limits to and from the Range. These actions will be conducted on order from Convoy Leaders."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Convoy Leaders will review weather data and make decisions based on the ground conditions."
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Leaders, Vehicle Crews, Training Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M240 and M249 Qualification Range"
+      },
+      "hazard": "1. Weapons Familiarization",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "PMI for the M240 and M249 will be conducted with all shooters the week prior to the execution of the range. Platoons will send instructors with inexperienced shooters to the range to ensure soldiers properly use the weapon systems."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PMI conducted for M240 and M249, Instructors accompany soldiers as needed"
+          ]
+        },
+        "who": {
+          "values": [
+            "SSG Voss for PMI, PLT and Squad Leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M240 and M249 Qualification Range"
+      },
+      "hazard": "2. Weapons Malfunction or Misfire",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Brief procedures for malfunction/ misfire, conduct proper PMI and concurrent training",
+          "Ensure weapons and ammo are clean before use."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Proper PMI training, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M240 and M249 Qualification Range"
+      },
+      "hazard": "3. Hearing Loss",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Safeties check for hearing protection, to ensure Troopers have standard issue protection or they will be provided hearing protection prior to firing weapon."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs, Extra Hearing Protection available at range, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M240 and M249 Qualification Range"
+      },
+      "hazard": "4. Eye Injuries",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Firers will wear approved ballistic eyewear while at the range to prevent expelled brass, dirt, dust, and debris from damaging their eyes"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCIs, Lane Safeties, Safety Validation exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M240 and M249 Qualification Range"
+      },
+      "hazard": "5. Ammo handling, storage and distribution",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Ammo will not be placed on the ground, Provide adequate guards for ammo while range is not occupied.",
+          "All ammo handling procedures will be followed for transport, storage, and distribution."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Brief, PCC/PCI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M240 and M249 Qualification Range"
+      },
+      "hazard": "6. SM Down Range",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief range limits and cease fire procedures movement downrange will be controlled by the range safeties"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M240 and M249 Qualification Range"
+      },
+      "hazard": "7. Fratricide",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Proper uniform: Full Dragoon Standard for Qualification.",
+          "Thorough safety briefing for both firers and range safeties.",
+          "Qualified combat life Saver/ medic will know MEDEVAC procedures."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCIs will be conducted prior to entering range. Range safeties will be on lanes."
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs on lane safety."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "M240 and M249 Qualification Range"
+      },
+      "hazard": "8. Mishandling of Weapons on Firing Line",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Follow procedures when loading, firing, and unloading weapons.",
+          "Remind Soldiers to consider weapons loaded at all times and to check chambers often.",
+          "Safety Brief."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training"
+      },
+      "hazard": "Weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range will cease fire with severe weather. Range OIC will contact GTA range operations desk if the weather is called into question."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/ RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Training"
+      },
+      "hazard": "Wildlife",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Range will cease fire when wildlife is on the range. SMs will be instructed not to interact with wildlife."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Safety Validation Exercise"
+          ]
+        },
+        "who": {
+          "values": [
+            "Leaders, Range OIC/RSO, SMs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": null,
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (32)/Range 112_240 and 249 Range 13-14MAR DRAW.pdf",
+  "source_directory_id": 206,
+  "source_directory_name": "New folder - Copy (32)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

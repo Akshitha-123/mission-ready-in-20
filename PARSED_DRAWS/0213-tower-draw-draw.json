@@ -1,0 +1,673 @@
+{
+  "mission_task_and_description": "Rappel Tower Operations-8AUG2024",
+  "date": "2024-07-30",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Lewis, Steven C.",
+    "rank_grade": "SFC/E-7",
+    "duty_title_position": "Platoon Sergeant",
+    "unit": "K TRP 3/2",
+    "work_email": "steven.c.lewis46.mil@army.mil",
+    "telephone": "+1 984 528 9105",
+    "uic_cin": "WDA6K0",
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "While on the tower, the",
+          "rappeller maintains eye",
+          "contact with the rappel",
+          "master or rappel lane",
+          "NCO and receives all",
+          "commands from them."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Rappel Master briefs tower talk down procedure, then troopers will practice using the slant wall."
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All participants who are",
+          "unable to rappel, lack",
+          "confidence, or refuse to",
+          "rappel are reported to",
+          "the rappel master or OIC.",
+          "These participants are",
+          "immediately removed",
+          "from the training area."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All Soldiers on the range will act as general safety officers. Any unsafe acts are reported to the Rappel Master"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "When attaching the",
+          "rappel rope to the snap",
+          "link, rappellers pull the",
+          "slack toward the anchor",
+          "point.",
+          "The rappel master or",
+          "rappel lane NCO",
+          "physically check each",
+          "hook up."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "All rappelers will be hooked by the lane safety and inspected for accuracy prior to rappel"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "The rappeller ensures",
+          "that he has a belayer on",
+          "his rope and the belayer",
+          "keeps both hands on",
+          "the rope and faces the",
+          "rappeller at all times"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Rappel lane safety will brief communication procedures during slant wall operations"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Rappellers stay in the",
+          "center of the tower until",
+          "instructed to move to a",
+          "rappel point."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing and continuous monitor of the line"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Rappellers climb the",
+          "tower only when",
+          "directed by the rappel",
+          "master or rappel lane",
+          "safety"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing and continuous monitor of the line"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Rappel seats are tied",
+          "(or harnesses donned)",
+          "by the Soldier and",
+          "inspected by the rappel",
+          "master",
+          "before climbing the",
+          "tower. Rappel seats are",
+          "removed upon",
+          "completion of every",
+          "rappel. They are",
+          "then retied and",
+          "reinspected by a",
+          "qualified rappel master",
+          "or rappel lane NCO",
+          "before subsequent",
+          "rappels."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Control of the rope corral site, full stop safety inspections for RMPI"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "No smoking or eating is",
+          "allowed near the tower."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "No running is allowed",
+          "on the tower."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "No one should lean or",
+          "sit on the railing or",
+          "banisters of the tower"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Heavy duty gloves are",
+          "required for all rappel",
+          "training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing; Rappel Master Primary Inspection"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Each rappeller ensures",
+          "loose clothing and",
+          "equipment are secured."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing; Rappel Master Primary Inspection"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ballistic or safety",
+          "helmets with chin straps",
+          "fastened are worn",
+          "during tower rappel",
+          "training."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing; Rappel Master Primary Inspection"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All tower rappelling is",
+          "performed with a",
+          "double strand of rope."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing; Rappel Master site set up and tower inspection"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All personnel working",
+          "within 3 feet of the edge",
+          "of the top of the tower",
+          "must wear a restraining",
+          "strap, safety rope",
+          "attached to the anchor,",
+          "or safety rope attached",
+          "to the rappel rope with",
+          "break",
+          "applied. No one is",
+          "allowed within 3 feet of",
+          "the tower?s top edge",
+          "without being secured."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing for operating cadre"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "General Operational Hazards",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All personnel weighing",
+          "more than 200 pounds",
+          "will conduct a standard",
+          "hookup rappel to",
+          "determine if they",
+          "require a friction",
+          "hookup. A friction",
+          "hookup is created by",
+          "placing an additional",
+          "two ropes in the gate of",
+          "the snap link (for a total",
+          "of six ropes in the snap",
+          "link)."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety briefing; Rappel Master Primary Inspection"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "Rappel Master/Rappel Safety Officer/Rappel Lane NCO/Belay Safety Unfamiliar with Duties and Responsibilities",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Rappel masters, rappel",
+          "safety officers, rappel",
+          "lane NCOs and belay",
+          "safeties will be trained,",
+          "qualified and certified",
+          "for duties IAW TC",
+          "21-24."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Prior certification, on site refreshment training prior to start"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "Inexperienced/Untraine d Rappellers",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure adequate",
+          "personnel are available",
+          "for static tower training:",
+          "one safety officer, one",
+          "rappel master for each",
+          "rappel site, one rappel",
+          "lane NCO per rappel",
+          "station, one belayer for",
+          "each rope station and",
+          "one belay safety for",
+          "every two rappel",
+          "stations (four ropes"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Prior certification, on site refreshment training prior to start"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "Rappel Towers",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All rope stations are",
+          "rigged with two anchor",
+          "points."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Prior site set up, with redundant inspection"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "Rappel Towers",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Static tower will not be",
+          "used during",
+          "thunderstorms or",
+          "excessively high winds.",
+          "If ice is",
+          "present, or if the",
+          "platform is slick from",
+          "rain, rappelling will be",
+          "delayed until conditions",
+          "are safe."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Weather monitor 72hrs prior to operations and on site"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Tower Rappelling"
+      },
+      "hazard": "Rappel Towers",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Rappel master",
+          "conducts a visual and",
+          "physical inspection of",
+          "every item of equipment",
+          "including the structural",
+          "lumber and timber, the",
+          "ladder, the platform",
+          "floor, and all anchor",
+          "points."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Site inspection prior to set up"
+          ]
+        },
+        "who": {
+          "values": [
+            "Rappel Master, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "Rappel Masters will control the movement and training of troopers from arrival through departure. Stations with full stop safety inspections and fully understood movement criteria will be established, and strictly maintained by the Rappel Master and RSO. Troopers will progress from the safety briefing, through the rope corral with the first Rappel Master Primary Inspection (RMPI), through the slant wall training and finally end with tower rappelling to ensure safe operations throughout the day. All troopers who arrive late to the site will stand by in the holding area until another full briefing is conducted. Soldiers are tracked by name through each station to confirm completion of lead up training.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (39)/Tower DRAW.pdf",
+  "source_directory_id": 213,
+  "source_directory_name": "New folder - Copy (39)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

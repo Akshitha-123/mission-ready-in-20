@@ -1,0 +1,444 @@
+{
+  "mission_task_and_description": "HHT, 1/2CR Air Insertion FTX, 19-20JUL23",
+  "date": "2023-05-03",
+  "prepared_by": {
+    "name_last_first_middle_initial": "PRICE, JACOB M.",
+    "rank_grade": "1LT/O2",
+    "duty_title_position": "PLATOON LEADER",
+    "unit": "HHT, 1/2 CR",
+    "work_email": "jacob.m.price6.mil@army.mil",
+    "telephone": "+49 1624 801901",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "HHT Air Assault Training 18-19JUL23",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Land Navigation"
+      },
+      "hazard": "DEHYDRATION/ HOT WEATHER INJURY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Supervisors continuously monitor Soldiers for hot weather injuries and water. Training area has ample water refill sites. Soldiers given safety brief on weather."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, PCCs/PCI's, Leaders continuously monitor Soldiers"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSOs, Lane Safeties, NCOs, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Land Navigation"
+      },
+      "hazard": "INCLEMENT/COLD WEATHER INJURY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers have packed for appropriate weather contingencies. Soldiers continuously hydrate. Strykers used as warming areas if necessary."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs/PCIs, NCO Supervision, Continuously monitor weather"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSOs, NCOs, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Land Navigation"
+      },
+      "hazard": "LOST SOLDIER",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Soldiers understand the boundaries of training area, starting point, Lost Soldier SOP, and Panic Azimuths. Roving Patrols on exterior of the training area and lane safeties on the course."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Disseminate Lost Soldier SOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Land Navigation"
+      },
+      "hazard": "SOLDIER INJURY IN TRAINING AREA",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldier's briefed on potential hazards based on range reconnaissance, safeties patrolling the course, roving JLTV/TMP prepared to move casualties"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief, Safeties remain vigilant on the course"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Land Navigation"
+      },
+      "hazard": "WILDLIFE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers are briefed potentially dangerous wildlife in the GTA. Soldiers and safeties will not approach wildlife."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Leaders ensure Soldiers stay away from animals. Range Control notified if necessary"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Land Navigation"
+      },
+      "hazard": "LIGHTNING",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Continuously monitor weather conditions to identify lighting threats. Soldiers will move to safe location and remove all metal objects."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "OIC and safeties communicate to identify and disseminate threats. Pre-designate lightning area"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, NCO's"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RUCK MARCH"
+      },
+      "hazard": "HEAT CASUALTY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure Soldiers begin ruck march with full camelback of water.",
+          "Water points at each mile marker.",
+          "Follow-on vehicle w/Medic."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Check Soldiers' camelbacks prior to step time. Jerry-can, mile-marker and chem light at each mile. Ensure a Troop legacy vehicle is dispatched and prepared."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, NCOs, Medics"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RUCK MARCH"
+      },
+      "hazard": "VEHICLES ON RANGE ROAD",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Coordinate w/ Range Control. Warn vehicles entering ruck march area.",
+          "Ensure soldiers to stay on right side of road.",
+          "Soldiers wear red headlamps and PT belts."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Brief Range Control on plan. Signs w/ chemlight, vehicle, and at least one soldier at turn-around point and near beginning of where ruck march route enters GTA. Leader supervision"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, Safeties, NCOs,"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "RUCK MARCH"
+      },
+      "hazard": "SLIPS, TRIPS, FALLS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Soldiers will move off the road if able or be assisted off the road by other situationally aware Soldiers. The follow-on vehicle will pick them up."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Leader and Battle-Buddy awareness."
+          ]
+        },
+        "who": {
+          "values": [
+            "All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "TRAINING LANES"
+      },
+      "hazard": "USING SIMMUNITION IMPROPERLY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Weapons will be carried at the low ready with the muzzle facing down range.",
+          "soldiers are briefed on orientation downrange and how to load and unload weapons systems properly.",
+          "Ensure that a qualified medic with equipment is on site. Medic is requested by the training unit and briefed and inspected by the OIC and RSO prior to opening range.",
+          "Ensure that all Soldiers on the firing line are in proper PPE uniform."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Briefings, Lane Safety Checks"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Graders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "TRAINING LANES"
+      },
+      "hazard": "DAMAGED WEAPON SYSTEM",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Cadre will supervise the employment of all weapon systems, if a weapon is possibly damaged, Cadre will certify the damage and annotate on a 2404.",
+          "Soldier weapons will be check by Cadre member before firing after a Soldier falls or drops weapon.",
+          "Weapons will be restored in proper condition prior to be being turned into the arms room."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Briefing to all Personnel, Inspecting Weapon before and after iterations"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Lane Safeties, Individual Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AIR ASSAULT"
+      },
+      "hazard": "INAPPROPRIATE PZ MARKING",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Properly mark the PZ posture locations. Ensure Chalk and Serial Leaders control their elements. Everything will be marked and labeled before anyone enter the PZ area.",
+          "Create a choke point for people to come on and off the PZ."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Rehearsals, proper markings verified and placed by PZ commander/NCO."
+          ]
+        },
+        "who": {
+          "values": [
+            "PZ commander, NCOIC, Safeties, Chalk/Serial Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AIR ASSAULT"
+      },
+      "hazard": "LACK OF ACCOUNTABLITY ON THE PZ",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Serial/chalk Leaders will walk each of their groups to their assigned waiting area and remain there until instructed to move to the Bird.",
+          "No one will walk around the PZ without a Senior leader escorting them around in order to prevent accidents."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Serial/Chalk leader escorts and designated/marked areas for their lift."
+          ]
+        },
+        "who": {
+          "values": [
+            "PZ commander, NCOIC, Safeties, Chalk/Serial Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AIR ASSAULT"
+      },
+      "hazard": "BAD APPOACH TO THE HELICOPTER",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Serial/Chalk Leaders will link in with the flight crews upon landing.",
+          "Leaders will get instruction and directly communicated the exact path and attitude to enter the bird.",
+          "Path will be universal and no one will be allowed to use alternative paths with the helicopters having active propellers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Marked/rehearsed path to approach, Crews Brief route to and from."
+          ]
+        },
+        "who": {
+          "values": [
+            "Safeties, Chalk/Serial Leaders, Flight Crews"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AIR ASSAULT"
+      },
+      "hazard": "HELICOPTER MECHANICAL FAILURE",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Crew identifies mechanical faliure and attempts to land/turn off the helicopter.",
+          "Passengers brace for impact and remain in their seats until instructed to deboard the aircraft.",
+          "Once outside the aircraft, stay way until the crew and mechanics have cleared it for use."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Crew inspections, listen to instructions, stay away from broken helicopters."
+          ]
+        },
+        "who": {
+          "values": [
+            "Crews, Chalk/Serial Leaders."
+          ]
+        }
+      },
+      "residual_risk_level": null
+    },
+    {
+      "subtask": {
+        "name": "AIR ASSAULT"
+      },
+      "hazard": "SLING LOAD, CARGO BAG, LCLA OPERATIONS",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Air Assault qualified person inspects loads before it is brought close the helicopter.",
+          "NCOIC, a pathfinder qualified person, inspects all loads after the load is hooked on the helicopter.",
+          "A pathfinder will help unload the loads on the LZ"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Pathfinder/Air Assault PAX at Heavy PZ posture to inspect and move."
+          ]
+        },
+        "who": {
+          "values": [
+            "NCOIC, 2x Air Assault Qualified PAX, 2x Pathfinder PAX, Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "RSO and OIC will orient soldiers to the training area before each event. Serial/Chalk Leaders will be identified and be responsible for training and controlling their element on the PZ. Each Serial/Chalk Leader will rehearse PZ/LZ operations before execution to reduce confusion and increase understanding of the order of movement on the PZ/LZ. Each platoon will conduct STX operations in support of each other during the training and will return in reverse order back to exfil from the objective.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/30/DD2977_HHT, 1-2CR AIR INSERTION FTX, 19-20JUL23.pdf",
+  "source_directory_id": 24,
+  "source_directory_name": "30",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

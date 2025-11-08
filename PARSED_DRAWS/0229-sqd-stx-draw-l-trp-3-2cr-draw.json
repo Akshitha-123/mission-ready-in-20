@@ -1,0 +1,233 @@
+{
+  "mission_task_and_description": "SQD STX L TRP 3/2 CR at TA03 from 17-19JAN2024.",
+  "date": "2024-01-08",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Jang, James D.",
+    "rank_grade": "1LT",
+    "duty_title_position": "3rd PLT Platoon Leader",
+    "unit": "3/2CR",
+    "work_email": "james.d.jang.mil@army.mil",
+    "telephone": "+49 170 3250755",
+    "uic_cin": "WDA6L0",
+    "training_support_or_lesson_plan_or_opord": null,
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Blank Round Utilization",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "1. Prior to stepping off for training TL's and SL's will conduct PCC's and PSG will conduct PCI's. This ensures every individual has proper BII for operating their weapon system during day and night with blank rounds.",
+          "2. PCC/PCI's conducted before initiating STX operations on the training ground as well.",
+          "3. Safety Brief will be given to ensure Soldiers know the appropriate proximity of firing blank ammunition to other Soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "1. PCC/PCI's 2. Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "1. TL's, SL's, PL/PSG, trainers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Movement under limited visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "1. All Soldiers will wear all required PPE while on the range and in the training area.",
+          "2. Weapon systems will not be loaded with blank rounds until prior to beginning lane execution.",
+          "3. All weapons will be inspected by SL/ PSG prior to moving to any range.",
+          "4. Weapons will be orientated in a safe manner during patrols utilizing blank rounds.",
+          "5. Ensure MEDEVAC plan is understood by all soldiers."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "1. PPE is mandatory to wear during all training 2. NOD's BII will be inspected prior to SP 3. Safety Brief prior to STX"
+          ]
+        },
+        "who": {
+          "values": [
+            "1. OIC 2. TL's, SL's, PSG"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Stryker rollover or accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "1. All drivers will conduct",
+          "vehicle PMCS prior to movement, all Soldier's will adhere to posted speed limit signs, drive",
+          "defensively, and wear",
+          "restraint harnesses.",
+          "2. The vehicle will have a",
+          "licensed driver and a",
+          "vehicle commander.",
+          "3. The driver will have a",
+          "minimum of 6 hours of",
+          "rest prior to departure.",
+          "4. All personnel inside the",
+          "vehicle will wear the",
+          "appropriate PPE IAW 2CR standard.",
+          "5. Sleeping areas will be marked with Chem lights and engineer tape. Soldiers will not sleep next to any vehicle.",
+          "6. Ground guides will be used entering and exiting motor pools.",
+          "7. Use of proper hand and arm signals when maneuvering all vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "1. PMCS Vics 2. Safety BII worn in vehicles 3. Safety Ramp brief before SP"
+          ]
+        },
+        "who": {
+          "values": [
+            "1. Vehicle Crews 2. OIC 3. TL's, SL's, PSG, trainers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Movement Under Limited Visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief crews on procedures during limited visibility conditions.",
+          "Soldiers will use NODs, DVEs, and RWS FLIR during limited visibility and night time operations.",
+          "White light will be use when conducting admin moves.",
+          "Ground guides will be used during times of degraded visibility."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs and PCIs Brief limited visibility conditions during safety brief."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Crews Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Inclement weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Use of snow chains when snow and ice are on the ground.",
+          "Reduce vehicle speed based on road condition",
+          "Use of ground guides and chem lights during poor visibility due to weather.",
+          "If lightning is in the immediate area all personnel will move to the nearest grounded hard stand structure or spread out in low ground away from all equipment."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ensure Soldiers know how to install snow chains properly. Brief inclement weather condition and safety measures during safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Safeties Crews"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Brief all Soldiers on procedure when finding a UXO.",
+          "Clear the area surrounding the UXO.",
+          "Mark UXO, call EOD and Range Operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Cold Weather Injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "PL/PSG will monitor the weather and change the uniform accordingly.",
+          "Team Leaders and Squad Leaders will continue to monitor their Soldiers for signs of Cold Weather Injuries.",
+          "If Cold Weather Injuries are suspected the PLT Medic will assess the Soldier and warm them in the Strykers. If further medical attention is needed PL/PSG will follow GTA Battle Drill 3 MEDEVAC Request"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "PL/PSG"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The PL and PSG will ensure all control measures are in place for a safe FTX. However, team leaders, squad leaders, and VCEs have the responsibility to be actively engaged in patrolling lanes and Soldier actions so as to mitigate risk at the lowest level possible and ensure overall safety for the training event.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (53)/SQD STX DRAW L TRP 3-2CR.pdf",
+  "source_directory_id": 229,
+  "source_directory_name": "New folder - Copy (53)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

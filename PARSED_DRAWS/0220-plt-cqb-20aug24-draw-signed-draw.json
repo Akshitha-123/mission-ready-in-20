@@ -1,0 +1,443 @@
+{
+  "mission_task_and_description": "L 3/2CR PLT CQB, 20AUG2024",
+  "date": "2024-06-23",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Zeilstra, Justin, A",
+    "rank_grade": "2LT/O1",
+    "duty_title_position": "L TRP 3rd PLT PL",
+    "unit": "L 3/2CR",
+    "work_email": "justin.a.zeilstra.mil@army.mil",
+    "telephone": "+49 162-4811772",
+    "uic_cin": "WDA6LO",
+    "training_support_or_lesson_plan_or_opord": "PLT CQB",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Blank Missuse or Weapon Malfunction Causing Bodily Harm",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All Soldiers will wear all",
+          "required PPE while on the range beginning at the staging area with the RSO confirming all appropriate PPE is worn including ACH, face mask, goggles, IOTV, ear pro, gloves. Soldiers will also be instructed to aim for center mass, away from the head area.",
+          "Lane safeties and the OIC / RSO will ensure weapon systems are properly oriented downrange and operating in a safe manner at all times.",
+          "Weapon systems will not",
+          "be loaded prior to the beginning of each lane.",
+          "From the staging area/ammo point all weapon systems will be locked to the rear and cleared and all magazines will be loaded once at the start line and the OIC/RSO have instructed.",
+          "Weapons will be visual cleared by RSO following completion of the lane.",
+          "PPE will not be removed until all weapon systems have been cleared and personnel moved back to the staging area. RSO will give all clear.",
+          "Ensure a Medic and a dedicated vehicle is available at all times.",
+          "All firers will be qualified on their assigned weapon systems prior to execution.",
+          "Leaders will identify targets and mark left and right limits of sectors of fire."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PMI Conduct safety brief prior to each range Conduct clearing procedure in accordance with TM"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/ OIC Range Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Unauthorized Range Access",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Gate guards will be",
+          "posted at all entry points to the range and at high traffic areas.",
+          "Communications with",
+          "the OIC Gate Guards",
+          "will be maintained at all",
+          "times.",
+          "Gate Guards will have",
+          "shifts that are not",
+          "excessive in length and",
+          "be provided supplies to",
+          "support their mission",
+          "(water, batteries,",
+          "frequencies, etc.).",
+          "Brief all participants to immediately report potential unauthorized access on the Range or in the area to the OIC and RSO."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range Safety Brief Troops to Task OIC/RSO Supervision"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Gate Guard personnel"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Stryker rollover or accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "All drivers will conduct",
+          "vehicle PMCS prior to movement, all Soldier's will adhere to posted speed limit signs, drive",
+          "defensively, and wear",
+          "restraint harnesses.",
+          "The vehicle will have a",
+          "licensed driver and a",
+          "vehicle commander.",
+          "The driver will have a",
+          "minimum of 6 hours of",
+          "rest prior to departure.",
+          "All personnel inside the",
+          "vehicle will wear the",
+          "appropriate PPE IAW 2CR standard.",
+          "Ground guides will be used when maneuvering all vehicles onto the range or motorpool.",
+          "Use of proper hand and arm signals when maneuvering all vehicles."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Conduct safety brief at each phase, addressing: speed, route, and vehicle safety"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Driver Vehicle Commander Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO, FROM, AND ON TRAINING SITE"
+      },
+      "hazard": "Movement Under Limited Visibility",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Brief crews on procedures below during limited visibility conditions.",
+          "Soldiers will use NODs, DVEs, and RWS FLIR during limited visibility and night time operations.",
+          "White light will be use when conducting admin moves."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCCs and PCIs Brief limited visibility conditions during safety brief."
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Crews Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "AMMUNITION"
+      },
+      "hazard": "Combustions / Fire at the ammo point",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ammo point will have at",
+          "least two 10 pound fire extinguishers on hand.",
+          "No smoking withing 50m of ammo point",
+          "Ammo will be stored in accordance with QUASAS Range OPS, and 2CR policy."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ammo point inspected by RSO and OIC"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC NCOIC Ammo Point"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Inclement weather",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Use of snow chains when snow and ice are on the ground.",
+          "Reduce vehicle speed based on road condition",
+          "Use of ground guides and chem lights during poor visibility due to weather.",
+          "If lightning is in the immediate area all personnel will move to the nearest grounded hard stand structure or spread out in low ground away from all equipment."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Ensure Soldiers know how to install snow chains properly. Brief inclement weather condition and safety measures during safety brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Safeties"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "UXO",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Brief all Soldiers on procedure when finding a UXO.",
+          "Clear the area surrounding the UXO.",
+          "Mark UXO, call EOD and Range Operations."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Fire on the Range",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "OIC will monitor temperature and humidity of ground surface.",
+          "Verify fire danger posted by Range Operation daily.",
+          "Identify fire team and have appropriate FFE on-hand and ready.",
+          "OIC will place range in \"DRY\" status and notify Range Operation."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety brief Fire fighting detail"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/OIC Fire fighting detail"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Wildlife on Range",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers will be briefed to",
+          "leave wildlife alone and",
+          "how to identify",
+          "venomous insects/snakes.",
+          "Should wildlife be",
+          "present on a lane during",
+          "training, the lane safety",
+          "will halt the course of",
+          "fire. If wildlife does not",
+          "move from lane, the",
+          "range will be shutdown",
+          "until the animal moves",
+          "off the range, if animal",
+          "does not move, Range",
+          "Control will be called"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO Safeties All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "ENVIRONMENTAL"
+      },
+      "hazard": "Cold Weather Injuries",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Range OIC/RSO will monitor the weather and change the uniform accordingly."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safety Brief"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "RANGE EXECUTION"
+      },
+      "hazard": "Rounds Impacting Outside SDZs",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Prior to execution, troops will receive a brief on the approved SDZs.",
+          "Range orientation brief during daily range safety brief by RSO.",
+          "Weapon systems properly cleared before leaving the firing line."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Range orientation brief from the OIC/RSO prior to training"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO/ OIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Medical Emergency"
+      },
+      "hazard": "Trauma wounds from sim-round shot, ricochet, or loss of consciousness due to tripping or cold injury",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leaders will monitor the health and condition of their Soliders and initiate medical care in the event of noticing injuries or symptoms."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Safeties are alert and mindful of Soldiers condition."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO/Medic"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Use of UTM training munitions"
+      },
+      "hazard": "Mixing live ammunition with UTM.",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Inspect all weapons, magazines, and equipment prior to training, to ensure no live ammunition is present. All soldiers will be given sim-round bolts, and checked for proper installation."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "Perform inspections of MWE to ensure they are equipped with proper ammunition and equipment."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC/RSO/SL's"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Urban Training Operations"
+      },
+      "hazard": "Soldiers unfamiliar with the training operation and safety measures.",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "All Soldiers will receive a safety brief and site familiarization prior to training with UTM"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "The OIC will brief all Soldiers on the safety requirements."
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC"
+          ]
+        }
+      },
+      "residual_risk_level": null
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The OIC, RSO, and range leadership will conduct a range safety brief prior to all training. The OIC and RSO are overall responsible for safety. However, safeties and instructors have the responsibility to be actively engaged in range activities and Soldier actions so as to mitigate risk at the lowest level possible and ensure overall safety for the training event. Safety Brief and inspections will also ensure all other mentioned risks are properly mitigated. At least one vehicle and medic will be on site in the unlikely event of any serious injuries.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (45)/PLT CQB 20AUG24 DRAW Signed.pdf",
+  "source_directory_id": 220,
+  "source_directory_name": "New folder - Copy (45)",
+  "source_base_directory": "3-2CR CONOPs&DRAWs"
+}

@@ -1,0 +1,183 @@
+{
+  "generated_at": "2025-11-08T19:20:30.750910Z",
+  "total_directories_processed": 279,
+  "skipped_count": 22,
+  "skipped_documents": [
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/11/PLT STX v2 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 3,
+      "source_directory_name": "11",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/12/TRP TBL 1 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 4,
+      "source_directory_name": "12",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/4/SAC Outreach '24 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 34,
+      "source_directory_name": "4",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/5/GTA 500 CONOP (23JUL)-VILSWASFT0TB026.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 44,
+      "source_directory_name": "5",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (38) - Copy/C TRP TRM CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 81,
+      "source_directory_name": "New folder (38) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (40) - Copy/C TRP SQD STX 10-12FEB25.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 84,
+      "source_directory_name": "New folder (40) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (42) - Copy/C TRP SLFX Range 307 One Slider.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 86,
+      "source_directory_name": "New folder (42) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (43) - Copy/C TRP TRM CONOP (1).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 87,
+      "source_directory_name": "New folder (43) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (59) - Copy/M4_M249 Qual_Stress Shoot CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 104,
+      "source_directory_name": "New folder (59) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (60) - Copy/Carl G and AT-4 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 106,
+      "source_directory_name": "New folder (60) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (61) - Copy/CONOP ADV MTD MVR STX 10-12FEB.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 107,
+      "source_directory_name": "New folder (61) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (62) - Copy/A TRP TRM.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 108,
+      "source_directory_name": "New folder (62) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (63) - Copy/RZ Mike SQD STX.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 109,
+      "source_directory_name": "New folder (63) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (64) - Copy/12 Mile Foot March & BBQ.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 110,
+      "source_directory_name": "New folder (64) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (65) - Copy/CONOP Stryker Operator Course Apache TRP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 111,
+      "source_directory_name": "New folder (65) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (67) - Copy/M67 Hand Grenade Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 113,
+      "source_directory_name": "New folder (67) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (68) - Copy/Obstacle Course.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 114,
+      "source_directory_name": "New folder (68) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (71) - Copy/M240-Range-DRAW---Apache-Troop-29NOV.pdf",
+      "reason": "Unable to extract text",
+      "source_directory_id": 118,
+      "source_directory_name": "New folder (71) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (76) - Copy - Copy/SAC Outreach '24 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 124,
+      "source_directory_name": "New folder (76) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (81) - Copy - Copy/A TRP RG 211 DRAW 21-23JUL23 Signed.pdf",
+      "reason": "Unable to extract text",
+      "source_directory_id": 130,
+      "source_directory_name": "New folder (81) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (50)/Gunnery Draw Table 6 SIGNED.pdf",
+      "reason": "Unable to extract text",
+      "source_directory_id": 226,
+      "source_directory_name": "New folder - Copy (50)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (7)/M17 2APR DRAW TAC PLT.pdf",
+      "reason": "Unable to extract text",
+      "source_directory_id": 247,
+      "source_directory_name": "New folder - Copy (7)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    }
+  ]
+}

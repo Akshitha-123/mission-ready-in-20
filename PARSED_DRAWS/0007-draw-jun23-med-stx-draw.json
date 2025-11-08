@@ -1,0 +1,26 @@
+{
+  "mission_task_and_description": "Medical Platoon SQD STX Training",
+  "date": "09May23",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Malloy, Jonathan, D",
+    "rank_grade": "1LT / O-2",
+    "duty_title_position": "Medical Platoon Leader",
+    "unit": "1/2CR",
+    "work_email": "jonathan.d.malloy2.mil@army.mil",
+    "telephone": "599-3210",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "Medical Platoon SQD STX Five steps of Risk Management:",
+    "signature_of_preparer": "MALLOY.JONATHAN.DAVID.15228761 74 Digitally signed by MALLOY.JONATHAN.DAVID.1522876174 Date: 2023.05.09 16:41:43 +02'00' Page 2 of 6 PREVIOUS EDITION IS OBSOLETE. DD FORM 2977, NOV 2020"
+  },
+  "subtasks": [],
+  "overall_residual_risk_level": null,
+  "overall_supervision_plan": "Page 5 of 6\nPREVIOUS EDITION IS OBSOLETE.\nDD FORM 2977, NOV 2020\nRISK ASSESSMENT MATRIX\nProbability (Expected frequency)\nFrequent: \nContinuous, \nregular, or \ninevitable \noccurences\nLikely: \nSeveral or \nnumerous \noccurences\nOccasional: \nSporadic or \nintermittent \noccurences\nSeldom: \nInfrequent \noccurences\nUnlikely: \nPossible \noccurences \nbut \nimprobable\nSeverity (expected consequence)\nA\nB\nC\nD\nE\nCatastrophic: Mission failure, unit readiness eliminated; \ndeath, unacceptable loss or damage\nI\nEH\nEH\nH\nH\nM\nCritical: Significantly degraded unit readiness or mission \ncapability; severe injury, illness, loss or damage\nII\nEH\nH\nH\nM\nL\nModerate: Somewhat degraded unit readiness or mission \ncapability; minor injury, illness, loss, or damage\nIII\nH\nM\nM\nL\nL\nNegligible: Little or no impact to unit readiness or mission \ncapability; minimal injury, loss, or damage\nIV\nM\nL\nL\nL\nL\nLEGEND:\nEH - Extremely High Risk\nH - High Risk\nM - Medium Risk\nL - Low Risk\n13. RISK ASSESSMENT REVIEW (Required when assessment applies to ongoing operations or activities)\na. DATE\nb. LAST NAME\nc. RANK/GRADE\nd. DUTY TITLE/POSITION\ne. SIGNATURE OF REVIEWER",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/15/DRAW_JUN23_MED STX.pdf",
+  "source_directory_id": 7,
+  "source_directory_name": "15",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

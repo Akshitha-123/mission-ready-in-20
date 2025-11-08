@@ -1,0 +1,396 @@
+{
+  "mission_task_and_description": "Troop Table 1, 28-31MAY25",
+  "date": "2025-05-12",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Cochran, Hunter, C",
+    "rank_grade": "1LT",
+    "duty_title_position": "1/2 S3 Lieutenant",
+    "unit": "1-2 CR",
+    "work_email": "hunter.c.cochran.mil@army.mil",
+    "telephone": "+1 (682) 406-3317",
+    "uic_cin": "WASFT0",
+    "training_support_or_lesson_plan_or_opord": "TRP TBL 1 CONOP (28-31MAY25)",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Deployment/Infil"
+      },
+      "hazard": "Vehicle Accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Complete TRM Brief",
+          "Enforce the speed limit",
+          "GTA SOP review",
+          "Drive with headlights on at night"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Specify specific speed limits per road type -Place PL in front of convoy"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Platoon leadership and Squad leaders ensure each vehicle adheres to the TRM guidance"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Deployment/Infil"
+      },
+      "hazard": "Loose Equipment Falling Off",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Loadout inspection the day before deployment"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Platoon Leadership verifies all equipment is secured thoroughly on 02MAY. -Second check before TRM"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Platoon Leadership and VCs responsible"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Deployment/Infil"
+      },
+      "hazard": "Vehicle Fire",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Before, during, and after PCMS with a 5988"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Bring 5988s and TMs to conduct thorough PCMS"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Truck Crews verified by VCs and platoon leadership"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Offensive Lanes"
+      },
+      "hazard": "Lower Extremity Injury",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "CLS Bags",
+          "Litters on Trucks",
+          "nods night walk to ensure functionality",
+          "PL route plan/OAKOC",
+          "Field Stretch"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Proper medical equipment for minor injuries on sight -Ensure equipment works -Take time to prep for mvmt"
+          ]
+        },
+        "who": {
+          "values": [
+            "-PLs make route plans and give time to stretch after stagnant periods -SLs lead night walks"
+          ]
+        }
+      },
+      "residual_risk_level": "M"
+    },
+    {
+      "subtask": {
+        "name": "Offensive Lanes"
+      },
+      "hazard": "Heat Casualty",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ensure constant hydration, even when cold and stagnant",
+          "No snivel/ww on movements",
+          "electrolyte spot check",
+          "OPORD mitigations"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-TLs track and manage hydration -PSG determines uniform -mando electrolyte distro and use"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TLs responsible for hydration -PSG responsible for uniforms -PLs responsible for route"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Offensive Lanes"
+      },
+      "hazard": "Dragoon Turret Damage",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Turret locked during truck movement",
+          "Limited maneuver area"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Moniter locked turret status -Brief maneuver area during OPORD"
+          ]
+        },
+        "who": {
+          "values": [
+            "-PLs determine and brief allowed maneuver/SBF positions. -VCs check turret status before every movement"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Offensive Lanes"
+      },
+      "hazard": "Eye Injury",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Eye protection mando in all wooded areas"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Bring defogger to mitigate excuses. -TLs/SLs enforce the standard"
+          ]
+        },
+        "who": {
+          "values": [
+            "-All leadership enforces eye pro use, especially at night."
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Defensive Lanes"
+      },
+      "hazard": "Cold Weather Injury",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Packing list includes wet weather items for the entire body."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-TLs conduct layouts -SLs and PLs spot check layouts -PSG determines uniform"
+          ]
+        },
+        "who": {
+          "values": [
+            "-TLs check all Pax -SLs and PLs spot check -PSG manages uniform"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Defensive Lanes"
+      },
+      "hazard": "Stryker Crushing People or Equipment",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Leader conscientiousness and awareness",
+          "Ground guides in low vis or uncertain areas",
+          "Cordoned off sleeping area",
+          "Evening Phone use window"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Leaders stay vigilant to the movements and locations of their vehicles -Isolate distracted and sleeping individuals in safe places"
+          ]
+        },
+        "who": {
+          "values": [
+            "-All leadership manages and enforces common sense safety practices"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Defensive Lanes"
+      },
+      "hazard": "Wildlife",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Stay away and alert leadership"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Adjust routs or plans to avoid dangerous wildlife"
+          ]
+        },
+        "who": {
+          "values": [
+            "-PLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Defensive Lanes"
+      },
+      "hazard": "Loss of Soldier",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Soldiers have their cell phones",
+          "Perpetual TL and SL accountability of all soldiers"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-At all times TLs have eyes on their team -SLs check for accountability at the start and stop of each movement"
+          ]
+        },
+        "who": {
+          "values": [
+            "-SLs and TLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Redeployment"
+      },
+      "hazard": "Vehicle Rollover",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Mandatory caffeine before SP for drivers",
+          "All headlights on in low vis conditions",
+          "Center line driving on the off road trails"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Saftey briefs before movements. -Provide monsters for drivers"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Drivers and VCs manage basic saftey practices. -SLs and PLs enforce complience"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Redeployment"
+      },
+      "hazard": "Loss of SI",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "SI checks twice per day and before all major movements",
+          "tiedowns"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Frequent pauses for SI accountability -Tight control of all SI"
+          ]
+        },
+        "who": {
+          "values": [
+            "-All signed individuals"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Redeployment"
+      },
+      "hazard": "POV Accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Battle buddy checks before departure from troop",
+          "Provide cots for soldiers too tired to drive"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Have alert buddies carpool for those in needs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-All"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The OIC and RSO are ultimately responsible for the conduct of the training event, and they will continuously monitor all aspects of range operations and provided updated risk assessments to the Commander as the situation develops. Rehearsals will be conducted at both the Troop (ROC drill, leader validation) and Platoon level. Troop and Platoon leadership will maintain close communication with any other 7ATC coordinators involved in the planning/execution of operations.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/12/DRAW TRP TBL 1.pdf",
+  "source_directory_id": 4,
+  "source_directory_name": "12",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}

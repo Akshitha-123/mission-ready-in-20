@@ -1,0 +1,183 @@
+{
+  "mission_task_and_description": "GTA 500\r(24JUL2024)",
+  "date": "2024-06-26",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Cochran, Hunter, C",
+    "rank_grade": "1LT/02",
+    "duty_title_position": "A1 Platoon Leader",
+    "unit": "A Troop, 1 SQDN, 2CR",
+    "work_email": "hunter.c.cochran.mil@army.mil",
+    "telephone": "+1 (682) 406-3317",
+    "uic_cin": "WASFA0",
+    "training_support_or_lesson_plan_or_opord": "GTA 500 CONOP",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "Preparation"
+      },
+      "hazard": "Faulty Load Plans",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "No non mission critical items on the outside of vehicles",
+          "All mission critical items must be secured with at least one point of redundancy."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-PCCs conducted morning of movement by VCs, SLs, and PSGs. -PCIs conducted by PLs and CO/XO"
+          ]
+        },
+        "who": {
+          "values": [
+            "-VCs, SLs, PSGs, PLs, CO, and XO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Preparation"
+      },
+      "hazard": "Poor Maintenance",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "PMCS and dispatches will be completed 22JUL24 in preparation.",
+          "New PMCS will be completed the morning of movement."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-SLs and PSGs will supervise PMCSing, PLs will ensure maintenance tasks are complete for movement"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Truck Crews -SLs -PSGs -PLs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Preparation"
+      },
+      "hazard": "Bad Comms Abilities",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Platoon Level COMMEX on 23JUL24 across all systems.",
+          "Troop Level COMMEX on the morning of movement to ensure functional PACE plan."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-PLs, crews, and RTOs will install and test radio equipment in the trucks day prior. -CO and XO will confirm functionality the morning of movement."
+          ]
+        },
+        "who": {
+          "values": [
+            "-PLs, RTOs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Main Route"
+      },
+      "hazard": "Vehicular Accident",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Speed Limit (50kmh road, 40kmh trail)",
+          "100m spacing minimum",
+          "Center-line driving",
+          "Ground guides in tight or congested areas"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Full convoy brief conducted by Serial OIC -VCs/TCs controll/instruct their drivers"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Serial OICs -VCs/TCs -Drivers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Recovery/FPOL Operations"
+      },
+      "hazard": "Injured appendage or other noncritical injury (i.e. smashed finger)",
+      "initial_risk_level": "L",
+      "control": {
+        "values": [
+          "Wear PPE throughout the mission (ACH, gloves, eye pro) including when dismounted."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Breifed by Serial Commanders and PLs -Enforced by SLs and PSGs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Serial Commanders -PLs -SLs and PSGs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "Vehicle Recovery/FPOL Operations"
+      },
+      "hazard": "Critical/life-limb-eyesight injury (i.e. Soldier hit by Styker)",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "Ground guides mandatory if troops are dismounted"
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Breifed by Serial Commanders and PLs -Enforced by SLs and PSGs"
+          ]
+        },
+        "who": {
+          "values": [
+            "-Serial Commanders -PLs -SLs and PSGs"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "Serial OICs/PLs and Serial Commanders will orient soldiers to the route and expected operations during the convoy brief. Newly Identified risks will be recorded and mitigated accordingly and risk acceptance will be improved at the appropriate level. Every Soldier is considered a safety. If they see an unsafe act they will resolve the issue on-site or find someone who can. NCOs will be especially expected to enforce the briefed standards and safety precautions with Officers spot checking to ensure compliance. This is a living document. OICs will continuously monitor all aspects of the operation.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 1,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/5/GTA 500 DRAW.pdf",
+  "source_directory_id": 44,
+  "source_directory_name": "5",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}
