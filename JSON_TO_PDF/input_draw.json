@@ -1,0 +1,353 @@
+
+{
+  "mission_task_and_description": "HHT TRAIP – M4 / M249 QUALIFICATION (04 JAN 23) – RANGE 102",
+  "date": "2025-11-10",
+  "prepared_by": {
+    "name_last_first_middle_initial": "Moore, Aaron A",
+    "rank_grade": "1LT/O-2",
+    "duty_title_position": "Troop Leader",
+    "unit": "HHT Troop, 1/2 CR",
+    "work_email": "aaron.a.moore.mil@army.mil",
+    "telephone": "+49 151 21959245",
+    "uic_cin": "WASFC0",
+    "training_support_or_lesson_plan_or_opord": "HHT Troop M4/M249 Qualification – 04 JAN 23",
+    "signature_of_preparer": null
+  },
+  "subtasks": [
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "COLLISION WITH MILITARY OR CIVILIAN VEHICLES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "HHT TROOP WILL MOVE IN PLATOON‑SIZED ELEMENTS (≈ 8‑12 vehicles) AT 50‑100 m INTERVALS TO MINIMIZE COLLISION POTENTIAL.",
+          "ALL VEHICLES WILL BE EQUIPPED WITH FM‑RADIO AND MAINTAIN CONTINUOUS RADIO CONTACT.",
+          "CONVOY WILL OPERATE IN ACCORDANCE WITH SQDN SOP ON VEHICLE CONTROL (VC) AND REAR‑GUARD AWARENESS."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "CONVOY SAFETY BRIEF, RAMP BRIEF, RADIO CALL‑SIGN SOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "Convoy Commander (1LT Moore), Vehicle Controllers, RSO, All Squad Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "LOST / DAMAGE TO EQUIPMENT",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "ALL EQUIPMENT WILL BE SECURED WITH TIE‑DOWN LASHES, CHOCKS, AND COVERS.",
+          "LEADERS WILL PERFORM A “HAND‑ON” CHECK OF SENSITIVE ITEMS BEFORE DEPARTURE.",
+          "POST‑MOVE INVENTORY WILL BE COMPLETED AT THE OBJECTIVE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "PCC/PCI CHECKS, INVENTORY SHEET"
+          ]
+        },
+        "who": {
+          "values": [
+            "Truck NCOIC, Squad Leaders, RSO"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "MOVEMENT TO AND FROM RANGE"
+      },
+      "hazard": "DRIVER FATIGUE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "DRIVER FATIGUE BRIEF WILL BE INCLUDED IN THE CONVOY SAFETY BRIEF.",
+          "LEADERS WILL MONITOR DRIVER ALERTNESS AND WILL ROTATE DRIVERS AS NEEDED.",
+          "REST PLAN ESTABLISHED – DRIVERS WILL TAKE a 15‑minute break every 2 hours of travel."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, RAMP BRIEF, LEADERSHIP MONITORING"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Platoon Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M4/M249 QUAL"
+      },
+      "hazard": "AMMUNITION ACCOUNTABILITY",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "AMMUNITION WILL BE ISSUED ONLY PRIOR TO LANE ENTRY.",
+          "UPON LANE COMPLETION, EACH SOLDIER WILL PASS THROUGH A DESIGNATED CHOKE POINT WHERE ALL ROUNDS ARE TURNED IN TO THE ASP NCOIC.",
+          "WEAPON‑MAGAZINE INSPECTION WILL BE CONDUCTED AT THE CHOKE POINT."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, PCC/PCI, CHOKE POINT PROCEDURES"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, ASP NCOIC, Lane Safeties, All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M4/M249 QUAL"
+      },
+      "hazard": "NEGLIGENT DISCHARGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "ENFORCE SELECTOR‑SAFE DISCIPLINE – WEAPONS MUST BE ON SAFE UNTIL TARGET ACQUIRED.",
+          "POST‑ENGAGEMENT, SELECTOR SWITCHES RETURNED TO SAFE.",
+          "SPOT‑CHECKS WILL BE PERFORMED BY LANESAFETIES EVERY 5 MINUTES."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, CONTINUOUS SPOT‑CHECKS"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, Lane Safeties, Squad Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M4/M249 QUAL"
+      },
+      "hazard": "RICHOCHET / WEAPON ORIENTED OTHER THAN DOWN‑RANGE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "FULL DRAGOON STANDARD UNIFORM (including ballistic vest) WILL BE WORN ON THE FIRING LINE.",
+          "MUZZLE DISCIPLINE BRIEF – WEAPONS MUST ALWAYS POINT DOWN‑RANGE.",
+          "RANGE CONSTRUCTION WILL INCLUDE BACKSTOP MARKINGS TO VISUALLY CONFIRM DOWN‑RANGE ORIENTATION."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, RANGE CONSTRUCTION, 1:1 COACHING"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, Lane Safeties, All Shooters"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M4/M249 QUAL"
+      },
+      "hazard": "WILDLIFE ENCOUNTER",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "IF WILDLIFE IS OBSERVED, SHOOTERS MUST CALL CEASE‑FIRE IMMEDIATELY.",
+          "RSO WILL CONFIRM AREA CLEAR BEFORE RESUMING FIRE.",
+          "NO INTERACTION WITH WILDLIFE ALLOWED."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, RSO WILDLIFE PROCEDURES"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, All Soldiers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M4/M249 QUAL"
+      },
+      "hazard": "WEAPONS MALFUNCTION",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "IMMEDIATE ACTION DRILL WILL BE EXECUTED FOLLOWED BY REMEDIAL ACTION.",
+          "IF MALFUNCTION PERSISTS, LEVEL‑20 ARMORERS WILL BE CALL‑ED TO INSPECT THE WEAPON.",
+          "MALFUNCTION INCIDENTS WILL BE LOGGED FOR AFTER‑ACTION REVIEW."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, LANESAFETY IMMEDIATE‑ACTION DRILL"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, Lane Safeties, On‑site Armorers"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M4/M249 QUAL"
+      },
+      "hazard": "AMMUNITION LOSS",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "RSO WILL WALK THE RANGE WITH LANESAFETIES TO POLICE ALL BRASS.",
+          "100 % OF AMMUNITION MUST BE TURNED IN BEFORE RANGE CLEARANCE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, BRASS POLICING PROCEDURE"
+          ]
+        },
+        "who": {
+          "values": [
+            "RSO, Lane Safeties, ASP NCOIC"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M4/M249 QUAL"
+      },
+      "hazard": "HOT / COLD WEATHER INJURIES",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "WEATHER BRIEF WILL COVER SIGNS OF HEAT‑STROKE, HYPOTHERMIA, AND FROSTBITE.",
+          "UNIFORM STANDARD WILL BE ENFORCED – DRAGoon Uniform WITH INTEGRATED COLD‑WEATHER GEAR FOR MORNING/EVENING PEAKS.",
+          "MEDIC WILL CONDUCT PERIODIC CHECK‑INS ON ALL PERSONNEL."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "WEATHER BRIEF, MEDIC CHECK‑INS"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, Medic (SPC Mandujano), Squad Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "EXECUTION OF M4/M249 QUAL"
+      },
+      "hazard": "HANGFIRE / MISFIRE",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "HANGFIRE PROCEDURE WILL BE FOLLOWED – KEEP WEAPON POINTED DOWN‑RANGE UNTIL SAFE.",
+          "MISFIRED ROUND WILL BE SEPARATED AND TURNED IN AS MISFIRE.",
+          "LANE SAFETIES WILL VERIFY CLEAR AREA BEFORE RESUMING FIRE."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "SAFETY BRIEF, HANGFIRE/MISFIRE SOP"
+          ]
+        },
+        "who": {
+          "values": [
+            "Lane Safeties, RSO, All Shooters"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    },
+    {
+      "subtask": {
+        "name": "COVID‑19 RISK MITIGATION (IF APPLICABLE)"
+      },
+      "hazard": "TRANSMISSION OF COVID‑19",
+      "initial_risk_level": "M",
+      "control": {
+        "values": [
+          "OPERATE IN ACCORDANCE WITH CURRENT COVID‑19 SOPs.",
+          "MAINTAIN SOCIAL DISTANCING (≥6 FT) WHILE MOVING BETWEEN LANES.",
+          "UNVACCINATED PERSONNEL WILL WEAR FACE‑COVERINGS AT ALL TIMES.",
+          "HAND‑SANITIZER STATIONS WILL BE AVAILABLE EVERY 30 M AND SURFACES WILL BE SANITIZED EVERY TWO HOURS."
+        ]
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "COVID‑19 BRIEF, CONTINUOUS MONITORING"
+          ]
+        },
+        "who": {
+          "values": [
+            "OIC, RSO, All Leaders"
+          ]
+        }
+      },
+      "residual_risk_level": "L"
+    }
+  ],
+  "overall_residual_risk_level": "L",
+  "overall_supervision_plan": "The OIC (1LT Moore) and the RSO (SSG Zagal) will conduct an initial safety and range orientation immediately following range occupation.  All squad leaders will coach shooters 1:1 on the lane with lane safeties maintaining a 1:1 ratio.  The RSO will continuously monitor ammunition turn‑in, weapon malfunctions, wildlife sightings, and weather‑related hazards.  Any newly identified risk will be captured in a risk register, mitigated on‑spot, and escalated for higher‑level risk acceptance as required.  Every Soldier is designated a “personal safety” and is empowered to call “cease‑fire” should an unsafe condition arise.  The supervision plan remains a living document and will be updated throughout the event.",
+  "approval_or_disapproval_of_mission_or_task": {
+    "approve": 0,
+    "disapprove": 0
+  },
+  "source_pdf": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/22/HHT TRP M4M249 Qual - DRAW 04JAN23.pdf",
+  "source_directory_id": 15,
+  "source_directory_name": "22",
+  "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+}
+
