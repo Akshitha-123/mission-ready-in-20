@@ -3,7 +3,7 @@
 generate_draw.py
 
 User Guide:
-1. Update DPB_CONN with your PostgreSQL credentials.
+1. Update DB_CONN with your PostgreSQL credentials.
 2. Call export OLLAMA_API_KEY="API_KEY_HERE" to set your Ollama Cloud API key.
 3. Run this script with "python generate_draw.py"to ingest training data and generate DRAW outputs.
 4. I've currently set it to generate DRAW for "0269-drivers-training-conop-conop.json" as an example.
@@ -44,11 +44,6 @@ DB_CONN = {
 
 OLLAMA_CLOUD_URL = "https://api.ollama.com/v1/chat/completions"
 OLLAMA_MODEL = "llama3.1:70b"
-
-# OPENAI_MODEL = "gpt-4"
-# SET TO SECRET BEFORE PUSHING
-# openai.api_key = os.getenv("OPENAI_API_KEY")  # Make sure your key is set in environment
-
 EMBED_MODEL = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
 
 
@@ -95,7 +90,7 @@ def extract_conop_text(pair_json):
         sections = pair_json["sections"]
 
     if not sections:
-        return None  # No sections found
+        return None
 
     return "\n".join([str(v) for v in sections.values()])
 
@@ -135,7 +130,7 @@ def ingest_directory(directory=TRAINING_DIR):
             # ---- Extract required fields ----
             conop_text = extract_conop_text(pair)
             if conop_text is None:
-                print(f"[WARN] File {fname} missing 'conops' or 'sections'. Skipping.")
+                print(f"[SKIP] File {fname} missing 'conops' or 'sections'. Skipping.")
                 continue
 
             # DRAW
@@ -165,11 +160,6 @@ def ingest_directory(directory=TRAINING_DIR):
         except Exception as e:
             print(f"[ERROR] Failed to process {fname}: {e}. Skipping.")
             continue
-
-    # Display example row
-    cur.execute("SELECT conop_json, draw_json, embedding FROM conop_draw_pairs LIMIT 1;")
-    example = cur.fetchone()
-    print("[INFO] Example draw, conop, and embedding:", example)
 
     conn.commit()
     cur.close()
@@ -280,12 +270,10 @@ def generate_draw_for_conop(new_conop, output_path="generated_draw.json"):
 
     # 3. Build RAG prompt
     prompt = build_prompt(retrieved, new_conop)
-    # print(f"[INFO] Prompt built with {len(retrieved)} context examples.")
     print(f"[DEBUG] Prompt:\n{prompt}\n")
 
     # 4. Call Ollama Cloud
     output = call_ollama_cloud(prompt)
-    # output = call_gpt_api(prompt)
 
     # 5. Parse JSON safely
     try:
