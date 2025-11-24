@@ -3,9 +3,9 @@
 generate_draw.py
 
 User Guide:
-1. Update DB_CONN with your PostgreSQL credentials.
-2. Call export OLLAMA_API_KEY="API_KEY_HERE" to set your Ollama Cloud API key.
-3. Run this script with "python generate_draw.py"to ingest training data and generate DRAW outputs.
+1. Export `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, and `DB_PASSWORD` with your PostgreSQL credentials.
+2. Call `export OLLAMA_API_KEY="API_KEY_HERE"` to set your Ollama Cloud API key.
+3. Run this script with `python generate_draw.py` to ingest training data and generate DRAW outputs.
 4. I've currently set it to generate DRAW for "0269-drivers-training-conop-conop.json" as an example.
 5. The draw json will be saved to "draw_output.json".
 
@@ -21,8 +21,13 @@ Pipeline:
       - Save generated DRAW to a JSON file
 """
 
-import os
+from __future__ import annotations
+
 import json
+import os
+from pathlib import Path
+from typing import Any, Dict, Sequence
+
 import psycopg2
 from psycopg2.extras import Json
 from sentence_transformers import SentenceTransformer
@@ -35,12 +40,17 @@ from ollama import Client
 TRAINING_DIR = "MERGED_CONOPS_DRAWS"
 
 DB_CONN = {
-    "host": "localhost",
-    "port": 5432,
-    "dbname": "mrit_db",
-    "user": "emilyyu",
-    "password": "your_password"
+    "host": os.getenv("DB_HOST", "localhost"),
+    "port": int(os.getenv("DB_PORT", 5432)),
+    "dbname": os.getenv("DB_NAME", "mrit_db"),
+    "user": os.getenv("DB_USER", "arpithaprakash"),
+    "password": os.getenv("DB_PASSWORD"),
 }
+
+if not DB_CONN["password"]:
+    raise RuntimeError(
+        "DB_PASSWORD environment variable is not set. Please export your database credentials before running generate_draw.py."
+    )
 
 OLLAMA_CLOUD_URL = "https://api.ollama.com/v1/chat/completions"
 OLLAMA_MODEL = "llama3.1:70b"
@@ -96,7 +106,7 @@ def extract_conop_text(pair_json):
 
 
 
-def embed_text(text):
+def embed_text(text: str) -> Sequence[float]:
     emb = EMBED_MODEL.encode([text], normalize_embeddings=True)[0]
     return emb.tolist()
 
@@ -229,9 +239,13 @@ def build_prompt(context_pairs, new_conop):
 # ===========================
 
 def call_ollama_cloud(prompt):
+    api_key = os.environ.get("OLLAMA_API_KEY")
+    if not api_key:
+        raise RuntimeError("OLLAMA_API_KEY environment variable is not set. Please export your Ollama Cloud key before generating a DRAW.")
+
     client = Client(
         host="https://ollama.com",
-        headers={'Authorization': 'Bearer ' + os.environ.get('OLLAMA_API_KEY')}
+        headers={"Authorization": f"Bearer {api_key}"}
     )
 
     messages = [
@@ -250,7 +264,7 @@ def call_ollama_cloud(prompt):
 # MAIN GENERATION
 # ===========================
 
-def generate_draw_for_conop(new_conop, output_path="generated_draw.json"):
+def generate_draw_for_conop(new_conop: Dict[str, Any], output_path: str | None = "generated_draw.json"):
     """
     Input: merged CONOP JSON:
         { "conops": {...}, "draw": {...?} }
@@ -282,10 +296,10 @@ def generate_draw_for_conop(new_conop, output_path="generated_draw.json"):
         raise RuntimeError(f"Model output was not valid JSON:\n{output}")
 
     # 6. Save to file
-    with open(output_path, "w") as f:
-        json.dump(draw_json, f, indent=2)
-
-    print(f"[DONE] DRAW written to {output_path}")
+    if output_path:
+        output_file = Path(output_path)
+        output_file.write_text(json.dumps(draw_json, indent=2), encoding="utf-8")
+        print(f"[DONE] DRAW written to {output_file}")
 
     return draw_json
 

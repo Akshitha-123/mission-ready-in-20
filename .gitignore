@@ -4,8 +4,25 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .Python
+.env
+.DS_Store
 1-2CR CONOPS&DRAWs - Copy/
 3-2CR CONOPs&DRAWs/
+env.sh
 
 # Credentials
 superuser_pw.txt
+
+# Generated outputs
+PARSED_CONOPS/
+PARSED_DRAWS/
+MERGED_CONOPS_DRAWS/
+skipped_documents_report.json
+uploaded_conops/
+generated_draws/
+JSON_TO_PDF/
+draw_output.json
+
+# Frontend build artifacts
+conops-to-draw-main/node_modules/
+conops-to-draw-main/dist/

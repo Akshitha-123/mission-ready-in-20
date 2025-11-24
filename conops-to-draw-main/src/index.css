@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Military tactical color scheme */
+    --background: 217 20% 12%;
+    --foreground: 210 20% 98%;
+
+    --card: 217 18% 16%;
+    --card-foreground: 210 20% 98%;
+
+    --popover: 217 18% 16%;
+    --popover-foreground: 210 20% 98%;
+
+    /* Military green for operational/success states */
+    --primary: 142 76% 64%;
+    --primary-foreground: 217 20% 12%;
+
+    /* Sand/tan military accent */
+    --secondary: 32 43% 65%;
+    --secondary-foreground: 217 20% 12%;
+
+    --muted: 217 15% 20%;
+    --muted-foreground: 210 15% 60%;
+
+    --accent: 142 76% 64%;
+    --accent-foreground: 217 20% 12%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 210 20% 98%;
+
+    --border: 217 15% 25%;
+    --input: 217 15% 20%;
+    --ring: 142 76% 64%;
+
+    --radius: 0.375rem;
+
+    /* Tactical gradients */
+    --gradient-tactical: linear-gradient(135deg, hsl(217 20% 14%), hsl(217 18% 18%));
+    --gradient-success: linear-gradient(135deg, hsl(142 76% 64%), hsl(142 70% 55%));
+    
+    /* Shadows */
+    --shadow-tactical: 0 4px 20px -2px hsl(217 20% 8% / 0.4);
+    --shadow-glow: 0 0 20px hsl(142 76% 64% / 0.2);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}

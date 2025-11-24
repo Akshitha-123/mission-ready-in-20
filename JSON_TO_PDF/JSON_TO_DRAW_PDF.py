@@ -13,20 +13,26 @@ This version:
 """
 
 import json
-from copy import deepcopy
 from pathlib import Path
 
-from PyPDF2 import PdfReader, PdfWriter
-from PyPDF2.generic import NameObject, BooleanObject, ArrayObject
+from PyPDF2 import PdfReader, PdfWriter  # type: ignore[import]
+from PyPDF2.generic import NameObject, BooleanObject  # type: ignore[import]
+from PyPDF2.errors import DependencyError  # type: ignore[attr-defined]
+
+try:  # PyMuPDF is needed only for preview rendering
+    import fitz  # type: ignore[import]
+except ImportError:  # pragma: no cover - optional dependency
+    fitz = None  # type: ignore[assignment]
 
 
 # ============================================================
 # CONFIG
 # ============================================================
 
-TEMPLATE_PATH = Path("DD-Form-2977.pdf")
-INPUT_JSON = Path("input_draw.json")
-OUTPUT_PDF = Path("generated_DRAW.pdf")
+BASE_DIR = Path(__file__).resolve().parent
+TEMPLATE_PATH = BASE_DIR / "DD-Form-2977.pdf"
+INPUT_JSON = BASE_DIR / "input_draw.json"
+OUTPUT_PDF = BASE_DIR / "generated_DRAW.pdf"
 
 MAX_ROWS = 19  # DD 2977 supports sub_1 through sub_19
 
@@ -41,7 +47,7 @@ def normalize_text(s):
         return ""
     s = str(s)
 
-    # Replace weird unicode spaces that show up as □ blocks
+    # Replace weird unicode spaces that show up as â–¡ blocks
     bad_spaces = {0x00A0, 0x202F, 0x2009, 0x2011}
     return "".join(" " if ord(c) in bad_spaces else c for c in s)
 
@@ -163,82 +169,197 @@ def build_field_values(draw_data: dict) -> dict:
 # ACROFORM + WIDGET COPY
 # ============================================================
 
-def fill_pdf(template_path: Path, output_path: Path, field_values: dict) -> None:
-    """
-    Copy template, keep all AcroForm fields editable, and set values.
-    """
-
+def fill_pdf(template_path: Path, output_path: Path, field_values: dict):
     reader = PdfReader(str(template_path))
     writer = PdfWriter()
 
     # Copy pages
-    for page in reader.pages:
-        writer.add_page(page)
+    for p in reader.pages:
+        writer.add_page(p)
 
-    # Copy AcroForm (with proper PdfObject types)
+    # Copy AcroForm
+    root = writer._root_object
     if "/AcroForm" in reader.trailer["/Root"]:
-        src_acro = reader.trailer["/Root"]["/AcroForm"]
-        new_acro = deepcopy(src_acro)
+        acro = reader.trailer["/Root"]["/AcroForm"]
+        acro_new = acro.clone(writer)
 
-        # Fields array must be an ArrayObject for PyPDF2
-        if "/Fields" in new_acro:
-            copied = []
-            for f in new_acro["/Fields"]:
-                copied.append(deepcopy(f))
-            new_acro[NameObject("/Fields")] = ArrayObject(copied)
+        # Remove XFA
+        if "/XFA" in acro_new:
+            del acro_new["/XFA"]
 
-        # Ask viewer to regenerate appearances (important)
-        new_acro[NameObject("/NeedAppearances")] = BooleanObject(True)
+        acro_new[NameObject("/NeedAppearances")] = BooleanObject(True)
+        root[NameObject("/AcroForm")] = acro_new
 
-        writer._root_object.update({NameObject("/AcroForm"): new_acro})
+    # Helper to deref
+    def deref(obj):
+        if hasattr(obj, "idnum"):
+            return reader.get_object(obj)
+        return obj
 
-    # Fill fields (text, combos, buttons)
-    for page in writer.pages:
-        writer.update_page_form_field_values(page, field_values)
-
-    # Explicitly sync /V and /AS for button fields (checkboxes & radios)
-    try:
-        acro = writer._root_object["/AcroForm"]
-        for field in acro["/Fields"]:
-            name = field.get("/T")
-            if not name:
+    # Helper: find all widget annotations for a field
+    def find_widgets(field_name):
+        widgets = []
+        for page in writer.pages:
+            annots = page.get("/Annots")
+            if not annots:
                 continue
-            key = name.strip("()")
-            if key not in field_values:
-                continue
-            if field.get("/FT") == "/Btn":
-                val = str(field_values[key])
-                field.update({
-                    NameObject("/V"): NameObject(f"/{val}") if not val.startswith("/") else NameObject(val),
-                    NameObject("/AS"): NameObject(f"/{val}") if not val.startswith("/") else NameObject(val),
-                })
-    except Exception:
-        # If anything weird happens here, we still keep text fields working
-        pass
 
-    # Write output PDF
-    with output_path.open("wb") as f:
+            # Normalize: annots can be array OR a single indirect object
+            if hasattr(annots, "idnum"):
+                annots = [annots]  # make it iterable
+
+            for a in annots:
+                obj = deref(a)
+                if obj.get("/T") == field_name:
+                    widgets.append(obj)
+
+        return widgets
+
+    fields = reader.get_fields()
+    text_field_values: dict[str, str] = {}
+
+    for name, field in fields.items():
+        if name not in field_values:
+            continue
+
+        val = field_values[name]
+        ft = field.get("/FT")
+
+        # --- TEXT / DROPDOWN ---
+        if ft in ("/Tx", "/Ch"):
+            text_field_values[name] = val
+            continue
+
+        # --- CHECKBOX / RADIO ---
+        if ft == "/Btn":
+            export = val if isinstance(val, str) and val.startswith("/") else f"/{val}"
+            export = NameObject(export)
+
+            widgets = find_widgets(name)
+            if not widgets:
+                continue  # should never happen
+
+            try:
+                parent_obj = deref(field.get("obj"))
+                if parent_obj:
+                    parent_obj.update({NameObject("/V"): export})
+            except Exception:
+                pass
+
+            for widget in widgets:
+                ap = widget.get("/AP")
+                if not ap or "/N" not in ap:
+                    continue
+
+                appearances = ap["/N"]
+
+                if export in appearances:
+                    widget.update({NameObject("/AS"): export})
+                else:
+                    widget.update({NameObject("/AS"): NameObject("/Off")})
+
+    if text_field_values:
+        for page in writer.pages:
+            writer.update_page_form_field_values(page, text_field_values)
+
+    # Save
+    with open(output_path, "wb") as f:
         writer.write(f)
 
 
 # ============================================================
-# MAIN
+# FORM APPEARANCE REFRESH
 # ============================================================
 
-def main():
-    if not TEMPLATE_PATH.exists():
-        raise SystemExit(f"Template not found: {TEMPLATE_PATH}")
+def refresh_form_appearances(pdf_path: Path | str) -> None:
+    """Regenerate widget appearances so non-Acrobat viewers show filled text."""
 
+    if fitz is None:
+        return
+
+    pdf_path = Path(pdf_path)
+    with fitz.open(pdf_path) as doc:  # type: ignore[arg-type]
+        changed = False
+        for page in doc:
+            widgets = list(page.widgets() or [])
+            if not widgets:
+                continue
+            for widget in widgets:
+                value = widget.field_value
+                if value in (None, ""):
+                    continue
+                widget.field_value = value
+                widget.update()
+                changed = True
+
+        if changed:
+            encrypt_opt = getattr(fitz, "PDF_ENCRYPT_KEEP", 0)
+            doc.save(pdf_path, deflate=True, incremental=True, encryption=encrypt_opt)
+
+# ============================================================
+# PREVIEW RENDERING
+# ============================================================
+
+def render_preview_pdf(editable_pdf: Path | str, preview_path: Path | str, zoom: float = 1.5) -> Path:
+    """Render a flattened preview PDF from the editable DRAW.
+
+    The result keeps the exact page dimensions but bakes the filled form fields
+    into the page graphics so browser viewers (PDF.js) display the text.
+    """
+
+    if fitz is None:
+        raise RuntimeError("PyMuPDF is required to render DRAW previews. Install via 'pip install pymupdf'.")
+
+    editable_pdf = Path(editable_pdf)
+    preview_path = Path(preview_path)
+
+    matrix = fitz.Matrix(zoom, zoom)
+
+    with fitz.open(editable_pdf) as source_doc, fitz.open() as preview_doc:  # type: ignore[arg-type]
+        for page in source_doc:
+            pix = page.get_pixmap(matrix=matrix, alpha=False)
+            new_page = preview_doc.new_page(width=page.rect.width, height=page.rect.height)
+            new_page.insert_image(page.rect, pixmap=pix)
+
+        preview_doc.save(preview_path, deflate=True)
+
+    return preview_path
+
+
+# ============================================================
+# PUBLIC API + MAIN
+# ============================================================
+
+def generate_draw_pdf(draw_data: dict, output_path: Path | str, template_path: Path | str | None = None) -> Path:
+    """Render the provided DRAW JSON into a DD-2977 PDF and return the path."""
+
+    template = Path(template_path) if template_path else TEMPLATE_PATH
+    output_path = Path(output_path)
+
+    if not template.exists():
+        raise FileNotFoundError(f"Template not found: {template}")
+
+    field_values = build_field_values(draw_data)
+    try:
+        fill_pdf(template, output_path, field_values)
+        refresh_form_appearances(output_path)
+    except DependencyError as exc:
+        raise RuntimeError(
+            "PDF rendering requires PyCryptodome. Install it via 'pip install pycryptodome'."
+        ) from exc
+
+    return output_path
+
+
+def main():
     if not INPUT_JSON.exists():
         raise SystemExit(f"Input JSON not found: {INPUT_JSON}")
 
     with INPUT_JSON.open("r", encoding="utf-8") as f:
         draw_data = json.load(f)
 
-    field_values = build_field_values(draw_data)
-    fill_pdf(TEMPLATE_PATH, OUTPUT_PDF, field_values)
-
-    print(f"Created: {OUTPUT_PDF}")
+    output = generate_draw_pdf(draw_data, OUTPUT_PDF)
+    print(f"Created: {output}")
 
 
 if __name__ == "__main__":
