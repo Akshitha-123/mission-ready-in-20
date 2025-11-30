@@ -40,12 +40,13 @@ from ollama import Client
 TRAINING_DIR = "MERGED_CONOPS_DRAWS"
 
 DB_CONN = {
-    "host": os.getenv("DB_HOST", "localhost"),
-    "port": int(os.getenv("DB_PORT", 5432)),
-    "dbname": os.getenv("DB_NAME", "mrit_db"),
-    "user": os.getenv("DB_USER", "arpithaprakash"),
-    "password": os.getenv("DB_PASSWORD", "MRI-20"),
+    "host": os.getenv("DB_HOST"),
+    "port": int(os.getenv("DB_PORT")),
+    "dbname": os.getenv("DB_NAME"),
+    "user": os.getenv("DB_USER"),
+    "password": os.getenv("DB_PASSWORD"),
 }
+
 
 # if not DB_CONN["password"]:
 #     raise RuntimeError(
