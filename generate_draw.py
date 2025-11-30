@@ -44,13 +44,13 @@ DB_CONN = {
     "port": int(os.getenv("DB_PORT", 5432)),
     "dbname": os.getenv("DB_NAME", "mrit_db"),
     "user": os.getenv("DB_USER", "arpithaprakash"),
-    "password": os.getenv("DB_PASSWORD"),
+    "password": os.getenv("DB_PASSWORD", "MRI-20"),
 }
 
-if not DB_CONN["password"]:
-    raise RuntimeError(
-        "DB_PASSWORD environment variable is not set. Please export your database credentials before running generate_draw.py."
-    )
+# if not DB_CONN["password"]:
+#     raise RuntimeError(
+#         "DB_PASSWORD environment variable is not set. Please export your database credentials before running generate_draw.py."
+#     )
 
 OLLAMA_CLOUD_URL = "https://api.ollama.com/v1/chat/completions"
 OLLAMA_MODEL = "llama3.1:70b"
@@ -239,7 +239,7 @@ def build_prompt(context_pairs, new_conop):
 # ===========================
 
 def call_ollama_cloud(prompt):
-    api_key = os.environ.get("OLLAMA_API_KEY")
+    api_key = os.environ.get("OLLAMA_API_KEY", "9f4e1f135c35424f82fde6596ae12569.krawhX9x4C3ua3Qn2snMmucQ")
     if not api_key:
         raise RuntimeError("OLLAMA_API_KEY environment variable is not set. Please export your Ollama Cloud key before generating a DRAW.")
 

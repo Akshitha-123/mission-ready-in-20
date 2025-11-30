@@ -145,6 +145,7 @@ After completing the one-time setup, an end-to-end test session only needs three
 ```bash
 cd /Users/arpithaprakash/mission-ready-in-20
 source env.sh          # activates .venv and exports OLLAMA_API_KEY/DB_*
+pip install -r requirements.txt
 python generate_draw.py
 uvicorn api_server:app --reload
 ```

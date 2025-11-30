@@ -1,15 +1,70 @@
 {
-  "date": "2025-05-02",
+  "date": "2025-05-20",
   "subtasks": [
     {
-      "hazard": "Vehicle Collision During Night Maneuver",
+      "hazard": "Vehicle fails PCC/PCI inspection due to mechanical defect or unsafe condition",
       "control": {
         "values": [
-          "Enforce 30\u202fkm/h speed limit on all road and trail segments.",
-          "Maintain a minimum 50\u202fm spacing between vehicles.",
-          "Designate ground guides at all intersections, tight turns, and low\u2011visibility areas.",
-          "Use NVG\u2011compatible hand/arm signals and radio check\u2011ins every 5\u202fminutes.",
-          "Conduct a pre\u2011movement convoy brief covering route, hazards, and emergency procedures."
+          "Conduct preventative maintenance checks (PMCS) the day before marshalling",
+          "Complete a detailed pre\u2011movement checklist covering brakes, lights, seat belts, GHRs, fluid levels, and HAZMAT placards",
+          "Assign qualified Inspectors (CO/1SG or designated safety NCO) to verify all items before the 1130\u20111230 inspection window",
+          "Any vehicle failing inspection is placed in a holding area for corrective action before re\u2011inspection"
+        ]
+      },
+      "subtask": {
+        "name": "Vehicle Inspection"
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Conduct PMCS on 29\u202fMAY\u202f25; -Complete a written PCC/PCI form; -Use a red/green tagging system to identify pass/fail"
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Crews, Inspectors (CO/1SG), HHT Safety NCO"
+          ]
+        }
+      },
+      "initial_risk_level": "M",
+      "residual_risk_level": "L"
+    },
+    {
+      "hazard": "Improper load securement leading to cargo shift during night maneuvers",
+      "control": {
+        "values": [
+          "Load Plan and Bump Plan must be reviewed and signed during the 1015\u20111130 prep period",
+          "Tie\u2011downs inspected for proper tension and anchoring before the vehicle departs the marshaling yard",
+          "Rucksacks, ammunition, and equipment either stowed inside the vehicle or secured on top with approved straps",
+          "Trailer chains and parking brakes set to OFF only after load verification"
+        ]
+      },
+      "subtask": {
+        "name": "Load Securing"
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Use the Marshalling Checklist to verify each load point; -Perform a visual \u201cshake\u2011test\u201d before night movement"
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Crews, Lead VC, HHT Inspection NCO"
+          ]
+        }
+      },
+      "initial_risk_level": "M",
+      "residual_risk_level": "L"
+    },
+    {
+      "hazard": "Night\u2011time terrain navigation error resulting in vehicle collision or STX lane deviation",
+      "control": {
+        "values": [
+          "All crews receive a night\u2011movement briefing covering route, terrain obstacles, and speed limits (30\u202fkm/h on roads, 20\u202fkm/h off\u2011road)",
+          "Ground guides assigned to high\u2011risk sections and to each convoy split point",
+          "NVG and vehicle lighting checks performed during the pre\u2011movement PCC",
+          "Maintain a minimum 100\u202fm spacing between vehicles in limited visibility"
         ]
       },
       "subtask": {
@@ -18,12 +73,12 @@
       "how_to_implement": {
         "how": {
           "values": [
-            "Convoy brief led by Serial OIC, ground guides positioned by VC team, continuous radio traffic monitoring."
+            "-Conduct a short night\u2011navigation rehearsal on 29\u202fMAY\u202f25; -Use AT\u2011AK maps and route books to confirm waypoints"
           ]
         },
         "who": {
           "values": [
-            "Serial OIC, Vehicle Crews (VCs), Ground Guides, Squad Leaders"
+            "Serial OIC, VC lead/trail, Ground Guides, Convoy Commander"
           ]
         }
       },
@@ -31,27 +86,80 @@
       "residual_risk_level": "L"
     },
     {
-      "hazard": "Improper Load Securing / Tie\u2011Down Failure",
+      "hazard": "Missing or incomplete TRM paperwork leading to compliance violations",
       "control": {
         "values": [
-          "All loads must be inspected against the Load Plan and Bump Plan before movement.",
-          "Tie\u2011downs must be double\u2011checked for proper tension and redundancy.",
-          "Use a pre\u2011movement PCC/PCI checklist that includes load\u2011secure verification.",
-          "Assign a designated Load Inspector for each vehicle."
+          "Dispatch books, DA Form\u202f5987, NATO orders, and HAZDEC forms must be placed in each vehicle prior to 1000\u202fLT check\u2011in",
+          "A pre\u2011check roster verifies each driver has a completed Route Book, PIR/CCIR guidance, and hard\u2011copy map",
+          "The Marshalling Checklist includes a \u201cPaperwork Complete\u201d column signed by the vehicle crew and the HHT NCOIC"
         ]
       },
       "subtask": {
-        "name": "Marshalling Inspection"
+        "name": "Documentation"
       },
       "how_to_implement": {
         "how": {
           "values": [
-            "PCC/PCI conducted by CO/1SG and designated Inspectors, written sign\u2011off on Marshalling Checklist."
+            "-Run a checklist walk\u2011through at 1000\u202fLT; -Cross\u2011reference with the master Marshalling List"
           ]
         },
         "who": {
           "values": [
-            "CO, 1SG, Assigned Inspectors, Vehicle Crews"
+            "Vehicle Crews, Serial OIC, HHT NCOIC"
+          ]
+        }
+      },
+      "initial_risk_level": "L",
+      "residual_risk_level": "L"
+    },
+    {
+      "hazard": "Failure to meet required driver licensing or HAZMAT certification",
+      "control": {
+        "values": [
+          "Verify each driver holds a valid USAREUR\u2011AF, Military, and/or ADR license before the 1015\u20111130 window",
+          "Check HAZMAT certifications for any vehicle carrying hazardous material and tag accordingly",
+          "Drivers without the proper license are reassigned to non\u2011maneuver roles for the event"
+        ]
+      },
+      "subtask": {
+        "name": "Driver Licensing"
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Maintain a licensing matrix on the Marshalling Checklist; -Spot\u2011check IDs during the CO inspection"
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Crew Leaders, HHT Safety NCO, CO/1SG"
+          ]
+        }
+      },
+      "initial_risk_level": "L",
+      "residual_risk_level": "L"
+    },
+    {
+      "hazard": "Fire or explosion from faulty vehicle fire extinguishers or missing safety equipment",
+      "control": {
+        "values": [
+          "Each vehicle must have a serviceable fire extinguisher (check pressure gauge)",
+          "First\u2011aid kits, warning triangles, and convoys placards inspected during the 1130\u20111230 vehicle inspection",
+          "A dedicated fire\u2011watch team positioned at the marshaling yard during loading and night movement"
+        ]
+      },
+      "subtask": {
+        "name": "Safety Equipment"
+      },
+      "how_to_implement": {
+        "how": {
+          "values": [
+            "-Extinguisher pressure check; -Visual inspection of first\u2011aid kits; -Assign fire\u2011watch NCOs"
+          ]
+        },
+        "who": {
+          "values": [
+            "Vehicle Crews, HHT Safety NCO, Fire\u2011Watch Team"
           ]
         }
       },
@@ -59,27 +167,26 @@
       "residual_risk_level": "L"
     },
     {
-      "hazard": "Equipment Failure (engine, brakes, lights)",
+      "hazard": "Communication failure between Serial OIC, VC, and higher\u2011headquarter during night movement",
       "control": {
         "values": [
-          "Complete PMCS and functional check the morning of 30\u202fMAY before vehicles enter the yard.",
-          "Verify serviceability of headlights, taillights, and NVG\u2011compatible lighting.",
-          "Confirm brakes, steering, and tire pressure are within spec.",
-          "Document findings on DA Form\u202f5987 and attach to dispatch book."
+          "All VC AT\u2011AK devices, WICKR, and Signal Group chat handles verified and tested during the 1015 prep period",
+          "Establish a PACE plan: Primary \u2013 TSM; Alternate \u2013 FM; Contingency \u2013 Cell phone",
+          "Periodic radio check\u2011ins (every 30\u202fmin) logged by the Convoy Commander"
         ]
       },
       "subtask": {
-        "name": "Technical Inspection"
+        "name": "Communication"
       },
       "how_to_implement": {
         "how": {
           "values": [
-            "PMCS performed by vehicle crews, reviewed by OIC/NCOIC, any deficiencies rectified before inspection."
+            "-Conduct a radio/AT\u2011AK functional test; -Document handles on the Marshalling Checklist"
           ]
         },
         "who": {
           "values": [
-            "Vehicle Crews, OIC, NCOIC, Maintenance Personnel"
+            "Serial OIC, VC Lead, Convoy Commander, Signal NCO"
           ]
         }
       },
@@ -87,137 +194,53 @@
       "residual_risk_level": "L"
     },
     {
-      "hazard": "Fire / Explosive Hazard at Vehicle",
+      "hazard": "Accident reporting paperwork not completed or lost during the event",
       "control": {
         "values": [
-          "Ensure each vehicle carries a serviceable fire extinguisher.",
-          "Store all flammable liquids in approved containers and label HAZMAT placards where required.",
-          "Keep warning triangles and first\u2011aid kits in the vehicle at all times.",
-          "Conduct a fire\u2011extinguishing drill during the pre\u2011movement brief."
+          "Attach a copy of SF\u201191 and DD\u2011Form\u202f518 to each vehicle\u2019s dispatch book",
+          "Designate a vehicle (e.g., the lead vehicle) as the \u201cAccident Documentation Point\u201d to collect any reports",
+          "Post\u2011event debrief includes a review of all accident forms for completeness"
         ]
       },
       "subtask": {
-        "name": "Vehicle Safety"
+        "name": "Accident Reporting"
       },
       "how_to_implement": {
         "how": {
           "values": [
-            "Safety brief by RSO, visual inspection of extinguishers, verify HAZMAT placards."
+            "-Pre\u2011populate forms before the event; -Collect completed forms at the end of the marshalling"
           ]
         },
         "who": {
           "values": [
-            "RSO, Vehicle Crews, Safety NCO"
+            "Vehicle Crews, HHT NCOIC, CO/1SG"
           ]
         }
       },
-      "initial_risk_level": "M",
+      "initial_risk_level": "L",
       "residual_risk_level": "L"
     },
     {
-      "hazard": "Medical Emergency / Injury",
+      "hazard": "Environmental hazards (e.g., wet terrain, low visibility) affecting vehicle handling at night",
       "control": {
         "values": [
-          "Assign a medic to each vehicle convoy segment.",
-          "Equip each vehicle with a MEV\u2011compatible first\u2011aid kit.",
-          "Establish a CASEVAC communications plan (Wickr/ATAK hand\u2011off) and 9\u2011line brief format.",
-          "Conduct a casualty evacuation drill before SP."
+          "Obtain a weather forecast for 30\u202fMAY\u202f25 and brief crews on expected conditions",
+          "If precipitation is forecast, increase spacing to 150\u202fm and reduce speed limits by 10\u202fkm/h",
+          "Assign additional ground guides for mud or icy sections identified on the route map"
         ]
       },
       "subtask": {
-        "name": "Medical Support"
+        "name": "Environmental Conditions"
       },
       "how_to_implement": {
         "how": {
           "values": [
-            "Medical brief by HHT medic, confirm MEV location, test radio/phone contact with range medical element."
+            "-Weather briefing at 1000\u202fLT; -Update the convoy SOP on the spot as needed"
           ]
         },
         "who": {
           "values": [
-            "Assigned Medic, RSO, Convoy Commander, Vehicle Crews"
-          ]
-        }
-      },
-      "initial_risk_level": "M",
-      "residual_risk_level": "L"
-    },
-    {
-      "hazard": "Loss of Communication (ATAK / Wickr / Radio)",
-      "control": {
-        "values": [
-          "Validate all ATAK devices and Wickr handles before SP.",
-          "Conduct a PACE check (Primary, Alternate, Contingency, Emergency) for each communication platform.",
-          "Pre\u2011designate an alternate FM radio frequency for convoy command.",
-          "Include a communications SOP in the Marshalling Checklist."
-        ]
-      },
-      "subtask": {
-        "name": "Communications"
-      },
-      "how_to_implement": {
-        "how": {
-          "values": [
-            "Comm\u2011check conducted during PCC, log sign\u2011off on checklist."
-          ]
-        },
-        "who": {
-          "values": [
-            "Signal NCO, Serial OIC, Vehicle Crews"
-          ]
-        }
-      },
-      "initial_risk_level": "M",
-      "residual_risk_level": "L"
-    },
-    {
-      "hazard": "Night Vision/Visibility Hazard",
-      "control": {
-        "values": [
-          "All personnel must wear NVGs and be proficient in NVG\u2011compatible vehicle navigation.",
-          "Mark all lane boundaries and hazards with reflective tape or chem\u2011lights.",
-          "Conduct a night\u2011vision briefing covering glare, depth perception, and eye safety."
-        ]
-      },
-      "subtask": {
-        "name": "Night Operations"
-      },
-      "how_to_implement": {
-        "how": {
-          "values": [
-            "NVG proficiency check performed by RSO during pre\u2011movement brief."
-          ]
-        },
-        "who": {
-          "values": [
-            "RSO, Vehicle Crews, Squad Leaders"
-          ]
-        }
-      },
-      "initial_risk_level": "M",
-      "residual_risk_level": "L"
-    },
-    {
-      "hazard": "Fatigue / Human Performance Degradation",
-      "control": {
-        "values": [
-          "Enforce a minimum 8\u2011hour rest period before the marshalling event.",
-          "Schedule a 30\u2011minute rest break mid\u2011inspection.",
-          "Monitor crew alertness during PCC/PCI and during the night maneuver."
-        ]
-      },
-      "subtask": {
-        "name": "Human Factors"
-      },
-      "how_to_implement": {
-        "how": {
-          "values": [
-            "Leadership conducts welfare check at 1100 and 1500, documents any signs of fatigue."
-          ]
-        },
-        "who": {
-          "values": [
-            "Platoon Leader, Squad Leaders, Vehicle Crews"
+            "S2 Weather Cell, Convoy Commander, Ground Guides"
           ]
         }
       },
@@ -225,7 +248,7 @@
       "residual_risk_level": "L"
     }
   ],
-  "source_pdf": null,
+  "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR%20CONOPs&DRAWs/New%20folder%20-%20Copy%20(XX)/Hammer%20Troop%20Marshalling%20DRAW.pdf",
   "prepared_by": {
     "unit": "3/2CR, HHT",
     "uic_cin": "WDA6T0",
@@ -235,14 +258,14 @@
     "duty_title_position": "Mortar Platoon Leader",
     "signature_of_preparer": null,
     "name_last_first_middle_initial": "Ott, Johann D.",
-    "training_support_or_lesson_plan_or_opord": "Marshalling Preparation 30MAY25"
+    "training_support_or_lesson_plan_or_opord": "Hammer Troop Marshalling Preparation"
   },
-  "source_directory_id": 999,
-  "source_base_directory": "3/2CR HHT DRAWs",
-  "source_directory_name": "Marshalling",
-  "overall_supervision_plan": "The OIC, RSO, and HHT leadership will conduct a comprehensive pre\u2011event briefing covering all hazard controls.  Convoy leaders will supervise PCC/PCI inspections, enforce speed and spacing, and verify that all communication, medical, and fire\u2011suppression assets are in place.  Continuous supervision will be maintained through ground guides, safety NCOs, and periodic personnel welfare checks to ensure the residual risk remains low.",
+  "source_directory_id": 200,
+  "source_base_directory": "3-2CR CONOPs&DRAWs",
+  "source_directory_name": "New folder - Copy (XX)",
+  "overall_supervision_plan": "The OIC, RSO, and HHT NCOIC will conduct a pre\u2011event safety brief covering vehicle inspection, load securement, night navigation, and communication procedures. All control measures are verified through a written Marshalling Checklist, PCC/PCI checks, and a convoy\u2011level rehearsal. After the event, a debrief will confirm that all documentation is complete and that any deficiencies are corrected before future TRM missions, reducing overall residual risk to low.",
   "overall_residual_risk_level": "L",
-  "mission_task_and_description": "3/2CR, HHT conducts marshalling preparation on 30MAY25 to familiarize vehicle crews with marshalling procedures and prepare Hammer TRP for future Troop TRMs.",
+  "mission_task_and_description": "Hammer Troop vehicle marshalling preparation on 30\u202fMAY\u202f25 to certify crews for future night TRM operations.",
   "approval_or_disapproval_of_mission_or_task": {
     "approve": 0,
     "disapprove": 0
