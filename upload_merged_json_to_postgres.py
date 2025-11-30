@@ -5,14 +5,15 @@ import psycopg2
 from psycopg2.extras import Json
 
 # --- CONFIGURATION ---
-DB_NAME = 'mrit_db'
-DB_USER = 'arpithaprakash'
-DB_PASSWORD = 'MRI-20'
-DB_HOST = 'localhost'
-DB_PORT = '5432'
-MERGED_DIR = 'MERGED_CONOPS_DRAWS'
+DB_NAME = os.getenv("DB_NAME", "mrit_db")
+DB_USER = os.getenv("DB_USER")
+DB_PASSWORD = os.getenv("DB_PASSWORD")
+DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_PORT = os.getenv("DB_PORT", "5432")
 
+MERGED_DIR = 'MERGED_CONOPS_DRAWS'
 TABLE_NAME = 'merged_conops_draws'
+
 
 # --- CREATE TABLE IF NOT EXISTS ---
 CREATE_TABLE_SQL = f'''
