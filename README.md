@@ -119,6 +119,8 @@ The `conops-to-draw-main/` directory contains the React/Vite frontend that inter
 2. (Required for inline CONOPS previews) Install LibreOffice so the backend can convert PPTX files to PDF:
    ```bash
    sudo apt update
+   ```
+   ```bash
    sudo apt install libreoffice -y
    ```
 3. (Required for DRAW previews) Ensure PyMuPDF and LibreOffice are installed.
@@ -131,21 +133,29 @@ The `conops-to-draw-main/` directory contains the React/Vite frontend that inter
 4. Ensure PostgreSQL with the pgvector extension is available (the project uses a Docker-hosted instance listening on `localhost:5432`). Stop any Homebrew Postgres service so it does not compete for the port:
    ```bash
    brew services stop postgresql@14 2>/dev/null
+   ```
+   ```bash
    export PGHOST=localhost PGPORT=5432 PGUSER=username PGPASSWORD=MRI-20
+   ```
+   ```bash
    createdb mrit_db 2>/dev/null
+   ```
+   ```bash
    psql -h "$PGHOST" -p "$PGPORT" -U "$PGUSER" -d mrit_db \
      -c "CREATE EXTENSION IF NOT EXISTS vector;"
    ```
-5. Seed the DRAW training data (drops/recreates `conop_draw_pairs` and ingests everything under `MERGED_CONOPS_DRAWS/`):
+6. Seed the DRAW training data (drops/recreates `conop_draw_pairs` and ingests everything under `MERGED_CONOPS_DRAWS/`):
    ```bash
    python generate_draw.py
    ```
-6. Export your Ollama key and database credentials so the generator and API can connect to external services (store these in `.env` or `env.sh` if desired):
+7. Export your Ollama key and database credentials so the generator and API can connect to external services (store these in `.env` or `env.sh` if desired):
    ```bash
    export OLLAMA_API_KEY=9f4e1f135c35424f82fde6596ae12569.krawhX9x4C3ua3Qn2snMmucQ
+   ```
+   ```bash
    export DB_HOST=localhost DB_PORT=5432 DB_NAME=mrit_db DB_USER=username DB_PASSWORD=MRI-20
    ```
-7. The `/api/conops/upload` endpoint accepts a `.pptx` file, stores it, parses it via `parse_conop.py`, converts it to PDF for preview, and (when the prerequisites above are met) generates a DRAW JSON by calling the Ollama-assisted `generate_draw.py` pipeline. Each successful `/api/conops/generate-draw` call writes two PDFs into `generated_draws/`:
+8. The `/api/conops/upload` endpoint accepts a `.pptx` file, stores it, parses it via `parse_conop.py`, converts it to PDF for preview, and (when the prerequisites above are met) generates a DRAW JSON by calling the Ollama-assisted `generate_draw.py` pipeline. Each successful `/api/conops/generate-draw` call writes two PDFs into `generated_draws/`:
    - `<deck>-draw-<uuid>.pdf` — the editable DD 2977 (XFA format) with live form fields, used for downloads/exports.
    - `<deck>-draw-<uuid>-preview.pdf` — a visual preview generated from a DOCX template, used by the React frontend to display the form content.
 
