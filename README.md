@@ -132,7 +132,7 @@ The `conops-to-draw-main/` directory contains the React/Vite frontend that inter
 
 4. Ensure PostgreSQL with the pgvector extension is available (the project uses a Docker-hosted instance listening on `localhost:5432`). Stop any Homebrew Postgres service so it does not compete for the port:
    ```bash
-   brew services stop postgresql@14 2>/dev/null
+   sudo service postgresql stop
    ```
    ```bash
    export PGHOST=localhost PGPORT=5432 PGUSER=username PGPASSWORD=MRI-20
