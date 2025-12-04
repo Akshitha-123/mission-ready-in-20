@@ -141,11 +141,14 @@ The `conops-to-draw-main/` directory contains the React/Vite frontend that inter
    createdb mrit_db 2>/dev/null
    ```
    ```bash
+    sudo apt-get update
+   sudo apt-get install postgresql-16-pgvector -y
    psql -h "$PGHOST" -p "$PGPORT" -U "$PGUSER" -d mrit_db \
      -c "CREATE EXTENSION IF NOT EXISTS vector;"
    ```
 6. Seed the DRAW training data (drops/recreates `conop_draw_pairs` and ingests everything under `MERGED_CONOPS_DRAWS/`):
    ```bash
+   pip install sentence-transformer
    python generate_draw.py
    ```
 7. Export your Ollama key and database credentials so the generator and API can connect to external services (store these in `.env` or `env.sh` if desired):
