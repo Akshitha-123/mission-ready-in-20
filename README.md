@@ -69,9 +69,10 @@ Use the merging script to combine CONOPS and DRAW JSON files from the same direc
 
 ### Uploading to PostgreSQL
 
-1. Ensure PostgreSQL is installed and running (`brew install postgresql` and `brew services start postgresql@14`).
+1. Ensure PostgreSQL is installed and running (`sudo apt update`, `sudo apt install postgresql postgresql-contrib -y
+` and `sudo service postgresql start`).
 2. Create a database and table:
-   - In `psql` (execute `psql postgres`):
+   - In `psql` (execute `sudo -u postgres psql`):
      ```sql
      CREATE DATABASE mrit_db OWNER "username";
      \c mrit_db
