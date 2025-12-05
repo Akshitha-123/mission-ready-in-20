@@ -13,6 +13,8 @@ from fastapi.concurrency import run_in_threadpool
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
+import re
+
 
 from JSON_TO_PDF.JSON_TO_DRAW_PDF import generate_draw_pdf, render_preview_pdf
 
