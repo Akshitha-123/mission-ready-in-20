@@ -18,8 +18,6 @@ PARSED_CONOPS/
 PARSED_DRAWS/
 MERGED_CONOPS_DRAWS/
 skipped_documents_report.json
-uploaded_conops/
-generated_draws/
 JSON_TO_PDF/
 draw_output.json
 
