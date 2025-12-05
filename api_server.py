@@ -36,7 +36,12 @@ if GENERATE_DRAW_IMPORT_ERROR:
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "https://mission-ready-app.vercel.app",
+        "https://mission-ready-app-mri-20.vercel.app",
+        "https://mission-ready-1sn5ot1yz-mri-20.vercel.app",
+        "*",  # fallback
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
