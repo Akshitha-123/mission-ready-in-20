@@ -14,7 +14,14 @@ interface DrawDraftPanelProps {
 
 const DrawDraftPanel = ({ pdfUrl, previewPdfUrl, status, errorMessage, fileName, isPreviewReady }: DrawDraftPanelProps) => {
   const isBusy = isPreviewReady && (status === "parsing" || status === "generating");
-  const displayUrl = previewPdfUrl ?? pdfUrl;
+  const backendBase = import.meta.env.VITE_API_URL || "http://localhost:8000";
+
+  const displayUrl = previewPdfUrl
+    ? `${backendBase}${previewPdfUrl}`
+    : pdfUrl
+    ? `${backendBase}${pdfUrl}`
+    : null;
+
   const busyCopy =
     status === "parsing"
       ? {
@@ -61,7 +68,7 @@ const DrawDraftPanel = ({ pdfUrl, previewPdfUrl, status, errorMessage, fileName,
             <div className="flex-1 border border-border rounded overflow-hidden bg-background">
               <iframe
                 title="DRAW PDF preview"
-                src={`${displayUrl}#toolbar=0&statusbar=0`}
+                src={displayUrl ? `${displayUrl}#toolbar=0&statusbar=0` : undefined}
                 className="w-full h-full"
               />
             </div>
