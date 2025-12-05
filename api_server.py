@@ -40,11 +40,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-UPLOAD_ROOT = Path("uploaded_conops")
+UPLOAD_ROOT = Path("/app/uploaded_conops")
 UPLOAD_ROOT.mkdir(parents=True, exist_ok=True)
 UPLOAD_ROOT_RESOLVED = UPLOAD_ROOT.resolve()
 
-DRAW_OUTPUT_ROOT = Path("generated_draws")
+DRAW_OUTPUT_ROOT = Path("/app/generated_draws")
 DRAW_OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
 app.mount("/uploads", StaticFiles(directory=str(UPLOAD_ROOT)), name="uploads")
@@ -225,7 +225,9 @@ async def generate_draw_endpoint(payload: GenerateDrawRequest, request: Request)
             try:
                 draw_pdf_url = str(request.url_for("generated_draws", path=pdf_filename))
             except Exception:
-                draw_pdf_url = f"/generated_draws/{pdf_filename}"
+                backend_base = str(request.base_url).rstrip("/")
+                draw_pdf_url = f"{backend_base}/generated_draws/{pdf_filename}"
+
 
             try:
                 await run_in_threadpool(render_preview_pdf, pdf_path, preview_path, draw_payload)
@@ -235,7 +237,8 @@ async def generate_draw_endpoint(payload: GenerateDrawRequest, request: Request)
                 try:
                     draw_pdf_preview_url = str(request.url_for("generated_draws", path=preview_filename))
                 except Exception:
-                    draw_pdf_preview_url = f"/generated_draws/{preview_filename}"
+                    draw_pdf_preview_url = f"{backend_base}/generated_draws/{preview_filename}"
+
         except Exception as exc:  # pragma: no cover - depends on local PDF tooling
             logger.error("DRAW PDF rendering failed for %s", payload.filename, exc_info=exc)
             if draw_error is None:

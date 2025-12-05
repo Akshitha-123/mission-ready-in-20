@@ -16,6 +16,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy project files
 COPY . .
+RUN mkdir -p /app/uploaded_conops /app/generated_draws
 
 # Expose API port
 EXPOSE 10000
