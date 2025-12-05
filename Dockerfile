@@ -10,13 +10,15 @@ RUN apt-get update && apt-get install -y \
 # Set work directory
 WORKDIR /app
 
+# Create persistent folders
+RUN mkdir -p /app/uploaded_conops /app/generated_draws
+RUN chmod -R 777 /app/uploaded_conops /app/generated_draws
 # Install Python dependencies
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy project files
 COPY . .
-RUN mkdir -p /app/uploaded_conops /app/generated_draws
 
 # Expose API port
 EXPOSE 10000
