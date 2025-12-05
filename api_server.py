@@ -111,6 +111,8 @@ def convert_pptx_to_pdf(ppt_path: Path) -> Path:
 
     return pdf_path
 
+def https_url(url: str) -> str:
+    return url.replace("http://", "https://")
 
 @app.post("/api/conops/upload")
 async def upload_conop(file: UploadFile = File(...)) -> dict[str, object]:
@@ -234,11 +236,11 @@ async def generate_draw_endpoint(payload: GenerateDrawRequest, request: Request)
         try:
             await run_in_threadpool(generate_draw_pdf, draw_payload, pdf_path)
             try:
-                draw_pdf_url = str(request.url_for("generated_draws", path=pdf_filename))
+                draw_pdf_url = https_url(str(request.url_for("generated_draws", path=pdf_filename)))
+
             except Exception:
                 backend_base = str(request.base_url).rstrip("/")
-                draw_pdf_url = f"{backend_base}/generated_draws/{pdf_filename}"
-
+                draw_pdf_url = https_url(f"{backend_base}/generated_draws/{pdf_filename}")
 
             try:
                 await run_in_threadpool(render_preview_pdf, pdf_path, preview_path, draw_payload)
@@ -246,9 +248,10 @@ async def generate_draw_endpoint(payload: GenerateDrawRequest, request: Request)
                 logger.warning("DRAW preview rendering failed for %s: %s", payload.filename, exc)
             else:
                 try:
-                    draw_pdf_preview_url = str(request.url_for("generated_draws", path=preview_filename))
+                    draw_pdf_preview_url = https_url(str(request.url_for("generated_draws", path=preview_filename)))
+
                 except Exception:
-                    draw_pdf_preview_url = f"{backend_base}/generated_draws/{preview_filename}"
+                    draw_pdf_preview_url = https_url(f"{backend_base}/generated_draws/{preview_filename}")
 
         except Exception as exc:  # pragma: no cover - depends on local PDF tooling
             logger.error("DRAW PDF rendering failed for %s", payload.filename, exc_info=exc)
