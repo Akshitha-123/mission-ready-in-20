@@ -215,7 +215,11 @@ async def generate_draw_endpoint(payload: GenerateDrawRequest, request: Request)
         draw_error = str(exc)
 
     if draw_payload:
-        pdf_filename = f"{Path(payload.filename).stem}-draw-{uuid.uuid4().hex}.pdf"
+        original_stem = Path(payload.filename).stem
+        safe_stem = re.sub(r"[^A-Za-z0-9_-]+", "_", original_stem)
+        pdf_filename = f"{safe_stem}-draw-{uuid.uuid4().hex}.pdf"
+        preview_filename = f"{safe_stem}-draw-{uuid.uuid4().hex}-preview.pdf"
+
         pdf_path = DRAW_OUTPUT_ROOT / pdf_filename
         preview_filename = pdf_filename.replace(".pdf", "-preview.pdf")
         preview_path = DRAW_OUTPUT_ROOT / preview_filename
